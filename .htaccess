@@ -1,0 +1,11 @@
+#RewriteEngine On
+#RewriteCond $1 !^(index\.php|images|user_guide|res|robots\.txt)
+#RewriteRule ^(.*)$ /index.php/$1 [L]
+
+
+DirectoryIndex index.html
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond $1 !^(index\.html|index\.php|res|robots\.txt)
+RewriteRule ^(.*)$ /index.php/$1 [L]

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Menu>
+  <MenuList>    
+    <name value="1">系统管理</name> 
+    <name value="2">手机通通</name> 
+    <name value="3">ET加速器</name> 
+    <name value="4">ET语音</name>
+    <name value="6">IM</name>
+    <name value="5">其他</name>
+  </MenuList>
+  <ModulesList>    
+    <name value="1" menu = "1">管理员</name>    
+    <name value="11" menu = "6">IM</name>
+    <name value="12" menu = "2">手机通通客服系统</name>
+    <name value="9" menu = "2">手机通通数据统计</name>
+    <name value="10" menu = "2">手机通通用户数据</name>
+    <name value="8" menu = "2">手机通通管理</name>
+    <name value="2" menu = "3">加速器数据统计</name>	
+    <name value="3" menu = "3">加速器用户数据</name>
+    <name value="5" menu = "3">加速器游戏数据</name>
+    <name value="4" menu = "3">服务器管理</name>
+    <name value="6" menu = "4">ET官方数据</name>
+    <name value="7" menu = "4">ET管理</name>
+    <name value="100" menu = "4">ET星辰变数据</name>
+    <name value="999" menu = "5">历史数据</name>
+  </ModulesList>
+  <OptionList>  
+    <!--name type ="1" value ="13" url="/admin/changepwd">修改个人密码</name-->
+    <!--name type ="1" value ="11" url="/admin/add">添加管理员</name-->
+    <name type ="1" value ="12" url="/admin/getlist">管理员管理</name>    
+    <name type ="11" value ="1101" url="/im/manage/sysmsg">系统消息</name>  
+    
+    <name type ="2" value ="210" url="/et/data/commondata2point0">ET2.0综合统计</name>
+    <name type ="2" value ="27" url="/et/data/online2point0">ET2.0在线人数</name>
+    <name type ="2" value ="21" url="/speed/data">加速器综合统计</name>
+    <name type ="2" value ="22" url="/speed/speeding">加速人数统计</name>
+    <name type ="2" value ="23" url="/speed/node">节点人数统计</name>
+    <name type ="2" value ="28" url="/speed/node2">节点人数总览</name>
+    <name type ="2" value ="211" url="/speed/nodepeakdata">节点峰值数据</name>
+    <name type ="2" value ="25" url="/speed/loadsize">节点流量统计</name>
+    <name type ="2" value ="26" url="/speed/nodeuse">节点使用统计</name>
+    <name type ="2" value ="29" url="/speed/machinecode">装机卸载量</name>        
+    
+    <name type ="3" value ="313" url="/et/data/userlose2point0">ET2.0用户流失</name>       
+    
+    <name type ="5" value ="55" url="/game/gameconfig">游戏配置</name> 
+    <name type ="5" value ="56" url="/node/speednodepush">节点推送</name> 
+    <name type ="5" value ="51" url="/game/gamedata">游戏使用统计</name>
+    <name type ="5" value ="53" url="/game/gameonlinespeeding">游戏在线人数统计</name>
+    <name type ="5" value ="54" url="/game/gameallnode">游戏在各节点情况</name>
+    <name type ="5" value ="52" url="/game/downdata">加速器下载统计</name>
+        
+    <name type ="4" value ="41" url="/node/grouplist">group管理</name>
+    <name type ="4" value ="42" url="/node/nodelist">node管理</name>
+    <name type ="4" value ="43" url="/et/manage/stserver">登录服务器管理</name>
+    <name type ="4" value ="44" url="/node/noderestart">节点重启信息</name>    
+    
+    <name type ="6" value ="611" url="/et/data/userloginversion">ET各版本登录</name>
+    <name type ="6" value ="612" url="/et/data/activeuserdata">ET活跃用户</name>
+    <name type ="6" value ="61" url="/et/data/logindata">登录人数</name>
+    <name type ="6" value ="610" url="/et/data/logindataall">登录人数总览</name>
+    <name type ="6" value ="62" url="/et/data/tsdata">语音人数</name>
+    <name type ="6" value ="67" url="/et/data/tsdataall">语音人数总览</name>
+    <name type ="6" value ="64" url="/et/data/commondata">综合统计</name>
+    <name type ="6" value ="63" url="/et/data/userlose">用户流失数</name>
+    <name type ="6" value ="65" url="/et/data/hallmax">频道最大在线</name>
+    <name type ="6" value ="66" url="/et/data/hallavg">频道平均在线</name>
+    <name type ="6" value ="68" url="/et/data/singlehalldata">单频道数据统计</name>
+    <name type ="6" value ="69" url="/et/data/singlehallonline">单频道在线查询</name>
+    
+    <name type ="7" value ="72" url="/et/manage/changechannelid">更换频道ID</name>
+    <name type ="7" value ="73" url="/et/manage/changechannelserver">更换频道服务器</name>
+    <name type ="7" value ="74" url="/et/manage/broadcastadd">发布广播</name>
+    <name type ="7" value ="71" url="/et/manage/faqlist">FAQ管理</name>    
+        
+    <name type ="8" value ="86" url="http://115.182.3.50:8082/ttmobile/manage/sysmsg">系统消息</name>
+    <name type ="8" value ="84" url="http://115.182.3.50:8082/ttmobile/manage/uploadapk">渠道上传生成</name>
+    <name type ="8" value ="83" url="/ttmobile/user/suggestlist">意见反馈</name>
+    <name type ="8" value ="85" url="http://115.182.3.50:8082/ttmobile/manage/sendcallfee">送话费活动</name>  
+    
+    <name type ="9" value ="92" url="http://115.182.3.50:8082/ttmobile/data/commondata">综合数据统计</name>
+    <name type ="9" value ="91" url="http://115.182.3.50:8082/ttmobile/data/online">在线人数统计</name>
+    <name type ="9" value ="99" url="http://115.182.3.50:8082/ttmobile/data/devinfodata">激活实时统计</name>    
+    <name type ="9" value ="116" url="http://115.182.3.50:8082/ttmobile/user/calldataper5">通话实时数据</name>
+    <name type ="9" value ="912" url="http://115.182.3.50:8082/ttmobile/data/systemcall">系统电话数据</name>
+    <name type ="9" value ="94" url="http://115.182.3.50:8082/ttmobile/data/regcountper5">注册实时统计</name>
+    <name type ="9" value ="910" url="http://115.182.3.50:8082/ttmobile/data/userstatisareabyip">注册登录IP统计</name>
+    <name type ="9" value ="911" url="http://115.182.3.50:8082/ttmobile/data/userstatisareabymobile">注册登录号码统计</name>
+    <name type ="9" value ="95" url="http://115.182.3.50:8082/ttmobile/data/loginversion">各版本登录</name>
+    <name type ="9" value ="98" url="http://115.182.3.50:8082/ttmobile/data/loginversionbydays">各版本7天登录</name>
+    <name type ="9" value ="93" url="http://115.182.3.50:8082/ttmobile/data/commonuserlose">用户流失统计</name>
+    <name type ="9" value ="93" url="http://115.182.3.50:8082/ttmobile/data/newuserlosesp">渠道新手流失统计</name>
+    <name type ="9" value ="93" url="http://115.182.3.50:8082/ttmobile/data/newuserlose">新手流失统计</name>
+    <name type ="9" value ="93" url="http://115.182.3.50:8082/ttmobile/data/userlose">新手周期流失</name>
+    <name type ="9" value ="96" url="http://115.182.3.50:8082/ttmobile/data/spdata">渠道数据统计</name>
+    <name type ="9" value ="97" url="http://115.182.3.50:8082/ttmobile/data/asyspdata">同步渠道数据</name>
+        
+    <name type ="10" value ="101" url="http://115.182.3.50:8082/ttmobile/user/mobiletypedata">手机型号分布</name>
+    <name type ="10" value ="106" url="http://115.182.3.50:8082/ttmobile/user/nettypedata">手机网络分布</name>
+    <name type ="10" value ="107" url="http://115.182.3.50:8082/ttmobile/user/regiondata">手机区域分布</name>
+    <name type ="10" value ="111" url="http://115.182.3.50:8082/ttmobile/user/fsmsdata">手机默认短信</name>
+    <name type ="10" value ="112" url="http://115.182.3.50:8082/ttmobile/user/fcalldata">手机默认拨号</name>
+    <name type ="10" value ="102" url="http://115.182.3.50:8082/ttmobile/user/callcommondata">通话综合数据</name>
+    <name type ="10" value ="103" url="http://115.182.3.50:8082/ttmobile/user/calllog">通话记录查询</name>
+    <name type ="10" value ="109" url="http://115.182.3.50:8082/ttmobile/user/calllogsucessexception">接通异常分析</name>
+    <name type ="10" value ="104" url="http://115.182.3.50:8082/ttmobile/user/calldata">通话数据查询</name>
+    <name type ="10" value ="1018" url="http://115.182.3.50:8082/ttmobile/user/usercallcount">通话活跃度</name>  
+    <name type ="10" value ="1022" url="http://115.182.3.50:8082/ttmobile/user/callfrequency30">30天通话频率</name>  
+    <name type ="10" value ="1020" url="http://115.182.3.50:8082/ttmobile/user/userallfriend">好友数量总分析</name>  
+    <name type ="10" value ="1019" url="http://115.182.3.50:8082/ttmobile/user/userfriend">好友数量分析</name>  
+    <name type ="10" value ="110" url="http://115.182.3.50:8082/ttmobile/user/calldatabysp">渠道通话数据</name>
+    <name type ="10" value ="114" url="http://115.182.3.50:8082/ttmobile/user/monthcallfeedetail">用户通话资费</name>
+    <name type ="10" value ="115" url="http://115.182.3.50:8082/ttmobile/user/usermonthcallfee">用户资费详单</name>     
+    <name type ="10" value ="113" url="http://115.182.3.50:8082/ttmobile/user/talkSvrstat">语音服务器数据</name>
+    <name type ="10" value ="105" url="http://115.182.3.50:8082/ttmobile/user/userdetail">用户上线查询</name>
+    <name type ="10" value ="1021" url="http://115.182.3.50:8082/ttmobile/user/useravglogin">用户平均登录</name>  
+    <name type ="10" value ="1017" url="http://115.182.3.50:8082/ttmobile/user/userregfail">注册失败日志</name>    
+    
+    <name type ="12" value ="1203" url="/vipkf/user/insertcustom">添加账号</name>
+    <name type ="12" value ="1201" url="/vipkf/data/commondata">综合数据统计</name>
+    <name type ="12" value ="1205" url="/vipkf/data/incomingcall">来电队列数据</name>
+    <name type ="12" value ="1202" url="/vipkf/user/calllist">来电记录查询</name>
+    <name type ="12" value ="1204" url="/vipkf/user/customdata">坐席状态查询</name>
+    
+    <name type ="100" value ="1001" url="/et/xcb/logindata">登录人数</name>
+    <name type ="100" value ="1002" url="/et/xcb/tsdata">语音人数</name>
+    <name type ="100" value ="1004" url="/et/xcb/commondata">综合统计</name>
+    <name type ="100" value ="1003" url="/et/xcb/guildlist">公会管理</name>
+        
+    <name type ="999" value ="35" url="/user/userlose">所有版本用户流失</name>
+    <name type ="999" value ="38" url="/user/userloseversion1">独立版本用户流失</name>
+    <name type ="999" value ="39" url="/user/userloseversion2">整合版本用户流失</name>
+    <name type ="999" value ="311" url="/user/userloginip">用户登录账号IP</name>
+    <name type ="999" value ="310" url="/user/newuserretain">新手留存</name>
+    <name type ="999" value ="36" url="/user/newuserip">新用户IP</name>
+    <name type ="999" value ="37" url="/user/newusercount">新用户数统计</name>
+    <name type ="999" value ="312" url="/user/usertimedata">用户时长统计</name>   
+    <name type ="999" value ="24" url="/speed/online">加速器在线人数</name>    
+    <name type ="999" value ="81" url="/ttmobile/manage/applykeylist">激活码申请列表</name>
+    <name type ="999" value ="82" url="/ttmobile/manage/approvedkeylist">激活码已审核列表</name>  
+    
+  </OptionList>
+</Menu>

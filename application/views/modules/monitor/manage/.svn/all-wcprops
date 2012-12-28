@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cispeedadmin/!svn/ver/51/application/views/modules/monitor/manage
+END
+soundserver_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cispeedadmin/!svn/ver/51/application/views/modules/monitor/manage/soundserver_view.php
+END
+managemonitor_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/cispeedadmin/!svn/ver/56/application/views/modules/monitor/manage/managemonitor_view.php
+END
+recordfileincall_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/cispeedadmin/!svn/ver/58/application/views/modules/monitor/manage/recordfileincall_view.php
+END
+adduser_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/cispeedadmin/!svn/ver/58/application/views/modules/monitor/manage/adduser_view.php
+END
+recordfile_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/cispeedadmin/!svn/ver/51/application/views/modules/monitor/manage/recordfile_view.php
+END

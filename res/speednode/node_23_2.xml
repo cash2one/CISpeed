@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+							    <Nodes>
+								<GameInfo id="1">
+									<GameArea id="7">
+										<Node id="81" /></GameArea></GameInfo>
+								     <GameInfo id="9">
+									<GameArea id="476">
+										<Node id="98" /></GameArea></GameInfo>
+								     <GameInfo id="12">
+									<GameArea id="550">
+										<Node id="19" /><Node id="97" /></GameArea></GameInfo>
+								     <GameInfo id="21">
+									<GameArea id="0">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="25">
+									<GameArea id="654">
+										<Node id="51" /></GameArea></GameInfo>
+								     <GameInfo id="57">
+									<GameArea id="1091">
+										<Node id="121" /></GameArea></GameInfo>
+								     <GameInfo id="78">
+									<GameArea id="1497">
+										<Node id="17" /><Node id="69" /><Node id="97" /></GameArea></GameInfo>
+								     <GameInfo id="81">
+									<GameArea id="1518">
+										<Node id="58" /><Node id="25" /></GameArea></GameInfo>
+								     <GameInfo id="102">
+									<GameArea id="2657">
+										<Node id="25" /></GameArea></GameInfo>
+								     <GameInfo id="162">
+									<GameArea id="1927">
+										<Node id="63" /></GameArea></GameInfo></Nodes>

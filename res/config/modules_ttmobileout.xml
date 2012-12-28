@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Menu>
+  <MenuList>    
+    <name value="1">系统管理</name> 
+    <name value="2">手机通通</name> 
+  </MenuList>
+  <ModulesList>    
+    <name value="1">管理员</name>    
+    <name value="9">手机通通数据统计</name>
+  </ModulesList>
+  <OptionList>  
+    <name type ="1" value ="13" url="/ttmobileout/admin/changepwd">修改个人密码</name>
+    <!--name type ="1" value ="11" url="/admin/add">添加管理员</name-->
+    <name type ="1" value ="11" url="/ttmobileout/admin/add">添加账号</name>
+    <name type ="1" value ="12" url="/ttmobileout/admin/getlist">账号管理</name>
+    <name type ="1" value ="14" url="/ttmobileout/admin/addsp">添加渠道</name>
+    <name type ="1" value ="15" url="/ttmobileout/admin/getsplist">渠道管理</name>
+    
+    <name type ="9" value ="96" url="/ttmobileout/data/spdata">渠道数据统计</name> 
+  </OptionList>
+</Menu>

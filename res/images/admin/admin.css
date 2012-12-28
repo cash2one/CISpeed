@@ -1,0 +1,26 @@
+body {
+	FONT-FAMILY: ËÎÌו;
+	FONT-SIZE: 9pt;
+	color: #333333;
+	margin: 5px;
+	line-height: 18px;
+}
+
+select,input,form,textarea,option,ul,li {
+	FONT-FAMILY: ËÎÌו;
+	FONT-SIZE: 9pt;
+	color: #333333;
+}
+
+td {
+	CURSOR: default;
+	FONT-FAMILY: ËÎÌו;
+	FONT-SIZE: 9pt;
+	color: #333333;
+}
+
+a {
+	font-family: Times New Roman, Times, serif;
+	font-size: 12px;
+	color: Maroon;
+}

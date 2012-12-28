@@ -1,0 +1,67 @@
+10
+
+dir
+26
+http://svn.sdo.com/cispeedadmin/application
+http://svn.sdo.com/cispeedadmin
+
+
+
+2011-09-19T01:46:47.306389Z
+25
+huangxudong.brooklyn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ed55befc-0971-4642-bd8f-6585eb6201bb
+
+helpers
+dir
+
+cache
+dir
+
+hooks
+dir
+
+language
+dir
+
+models
+dir
+
+logs
+dir
+
+config
+dir
+
+controllers
+dir
+
+core
+dir
+
+third_party
+dir
+
+errors
+dir
+
+libraries
+dir
+
+views
+dir
+

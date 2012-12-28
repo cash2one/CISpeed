@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Menu>  
+  <ModulesList>    
+    <name value="1">监控系统</name>
+  </ModulesList>
+  <OptionList>    
+    <name type ="1" value ="10" url="/monitor/manage/adduser">添加管理员</name>
+    <name type ="1" value ="11" url="/monitor/manage/soundserver">语音服务器</name>
+    <name type ="1" value ="12" url="/monitor/manage/managemonitor">监听号码列表</name>
+    <name type ="1" value ="13" url="/monitor/manage/recordfileincall">通话中监听</name>
+    <name type ="1" value ="14" url="http://115.182.3.50:8082/ttmobile/user/userdetail">用户状态查询</name>
+  </OptionList>
+</Menu>

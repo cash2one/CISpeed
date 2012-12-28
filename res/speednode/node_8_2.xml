@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+							    <Nodes>
+								<GameInfo id="25">
+									<GameArea id="654">
+										<Node id="53" /><Node id="91" /><Node id="102" /></GameArea>									
+									     <GameArea id="2780">
+										<Node id="114" /></GameArea></GameInfo>
+								     <GameInfo id="80">
+									<GameArea id="1513">
+										<Node id="40" /><Node id="39" /><Node id="103" /></GameArea></GameInfo>
+								     <GameInfo id="127">
+									<GameArea id="1772">
+										<Node id="91" /><Node id="53" /></GameArea></GameInfo></Nodes>

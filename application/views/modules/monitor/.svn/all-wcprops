@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cispeedadmin/!svn/ver/51/application/views/modules/monitor
+END
+nopermission_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/cispeedadmin/!svn/ver/51/application/views/modules/monitor/nopermission_view.php
+END
+index_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cispeedadmin/!svn/ver/51/application/views/modules/monitor/index_view.php
+END
+login_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cispeedadmin/!svn/ver/54/application/views/modules/monitor/login_view.php
+END

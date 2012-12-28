@@ -1,0 +1,70 @@
+1325731124TS---><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title></title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<link type="text/css" rel="stylesheet" href="/res/images/admin/page.css" />
+	<script src="/res/script/jquery.js" type="text/javascript"></script>
+	<script src="/res/script/jquery.corner.js" type="text/javascript"></script>
+	<script src="/res/script/common.js" type="text/javascript"></script>
+</head>
+
+<body>
+<form id="form1" method="post" action="/vipkf/user/savereason">
+<div id="headarea" class="Corner">
+    <select id="reason" name="reason"></select>
+    <select id="childs" name="childs"></select><br/>
+    通话质量：
+    <select id="qos" name="qos">
+	<option value="1">好</option>
+	<option value="2">一般</option>
+	<option value="3">差</option>
+	<option value="4">无声</option>
+    </select><br/>
+    音质情况：
+    <select id="qosdetail" name="qosdetail">
+	<option value="1">有杂音</option>
+	<option value="2">有断续</option>
+	<option value="3">杂音断续都有</option>
+	<option value="4">没有杂音断续</option>
+    </select><br/>
+    详情：<br/><textarea id="content" name="content" class="input" style="width:240px; height: 100px"></textarea><br/>
+    <input type="submit" name="submit" value="保存" class="button" />
+    <input type="hidden" name="callid" value=" " />
+    <input type="hidden" name="uid" value="" />
+    <input type="hidden" name="token" value="" />
+</div>
+<script type="text/javascript">
+        var reasonJson = {'Reasons':[{'id':'100', 'name':'通话故障', 'children':[{'id':'101', 'name':'无声电话'},{'id':'102', 'name':'杂音太大听不到用户声音'},{'id':'103', 'name':'声音太小无法听清'},{'id':'104', 'name':'对话中突然中断'},{'id':'105', 'name':'用户听不到客服声音'},{'id':'106', 'name':'闪断'},{'id':'107', 'name':'其他异常情况'}]},{'id':'200', 'name':'问题反馈', 'children':[{'id':'201', 'name':'无法注册，验证'},{'id':'202', 'name':'无法登陆'},{'id':'203', 'name':'通话声音异常'},{'id':'204', 'name':'无法关闭免提'},{'id':'205', 'name':'无法添加或添加后看不到好友'},{'id':'206', 'name':'屏幕显示错误或黑屏'},{'id':'207', 'name':'功能无法使用'},{'id':'208', 'name':'其他问题'}]},{'id':'300', 'name':'常规咨询', 'children':[{'id':'301', 'name':'如何使用通通功能'},{'id':'302', 'name':'流量资费相关'},{'id':'303', 'name':'打错电话'},{'id':'304', 'name':'用户测试'},{'id':'305', 'name':'其他咨询'}]},{'id':'400', 'name':'意见建议', 'children':[{'id':'401', 'name':'意见类'},{'id':'402', 'name':'建议类'}]}]};
+	$(document).ready(function() {
+		$("#headarea").corner();
+		$.each(reasonJson.Reasons, function(index, value) { 
+			var op = document.createElement("option");
+			op.value = value.id; 	
+			op.innerHTML = value.name;
+			$("#reason").append(op);
+		});
+		changeReason($("#reason").val());
+		
+		$("#reason").change(function(){
+			changeReason($(this).val());
+		});
+	});
+	
+	function changeReason(id){
+		$("#childs").html("");
+		$.each(reasonJson.Reasons, function(index, value) {
+			if(value.id == id){
+				$.each(value.children, function(i, v){					
+					var cop = document.createElement("option");
+					cop.value = v.id; 	
+					cop.innerHTML = v.name;
+					$("#childs").append(cop);
+				});
+			}
+		});
+	}
+</script>
+</form>
+</body>
+</html>

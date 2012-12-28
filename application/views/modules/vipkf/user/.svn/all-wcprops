@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cispeedadmin/!svn/ver/45/application/views/modules/vipkf/user
+END
+insertcustom_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cispeedadmin/!svn/ver/45/application/views/modules/vipkf/user/insertcustom_view.php
+END
+userdetail_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cispeedadmin/!svn/ver/45/application/views/modules/vipkf/user/userdetail_view.php
+END
+customdata_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cispeedadmin/!svn/ver/45/application/views/modules/vipkf/user/customdata_view.php
+END
+savereason_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cispeedadmin/!svn/ver/48/application/views/modules/vipkf/user/savereason_view.php
+END
+calllist_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/cispeedadmin/!svn/ver/48/application/views/modules/vipkf/user/calllist_view.php
+END
+callrecbyphone_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/cispeedadmin/!svn/ver/48/application/views/modules/vipkf/user/callrecbyphone_view.php
+END
+callrecbycustom_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/cispeedadmin/!svn/ver/45/application/views/modules/vipkf/user/callrecbycustom_view.php
+END
+usercalllog_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/cispeedadmin/!svn/ver/45/application/views/modules/vipkf/user/usercalllog_view.php
+END

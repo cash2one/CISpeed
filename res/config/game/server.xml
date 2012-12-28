@@ -1,0 +1,4518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Games>
+	<GameID id="999999" name="默认游戏">
+		<GameArea id="999999" name="所有区服"/>
+	</GameID>
+	<GameID id="1" name="三国杀桌面版">
+		<GameArea id="1" name="1区五谷丰登(华东电信)" line="0"/>
+		<GameArea id="2" name="2区桃园结义(全国网通)" line="1"/>
+		<GameArea id="3" name="3区南蛮入侵(上海电信)" line="0"/>
+		<GameArea id="4" name="4区万箭齐发(华南电信)" line="0"/>
+		<GameArea id="5" name="5区无懈可击(华中电信)" line="0"/>
+		<GameArea id="6" name="6区顺手牵羊(全国网通)" line="1"/>
+		<GameArea id="7" name="7区过河拆桥(移动/铁通)" line="2"/>
+		<GameArea id="8" name="8区借刀杀人(全国双线)" line="2"/>
+		<GameArea id="9" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="2" name="突击风暴">
+		<GameArea id="10" name="全国电信区" line="2"/>
+		<GameArea id="11" name="华东电信区" line="2"/>
+		<GameArea id="12" name="全国网通区" line="2"/>
+		<GameArea id="13" name="电信比赛区" line="2"/>
+		<GameArea id="14" name="网通比赛区" line="2"/>
+		<GameArea id="15" name="精英体验区" line="2"/>
+		<GameArea id="3676" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="3" name="龙之谷">
+		<GameArea id="16" name="华东电信一区" line="0"/>
+		<GameArea id="17" name="华东电信二区" line="0"/>
+		<GameArea id="18" name="华东电信三区" line="0"/>
+		<GameArea id="19" name="华东电信四区" line="0"/>
+		<GameArea id="20" name="华东电信五区" line="0"/>
+		<GameArea id="21" name="华东电信六区" line="0"/>
+		<GameArea id="22" name="华东电信七区" line="0"/>
+		<GameArea id="23" name="华南电信一区" line="0"/>
+		<GameArea id="24" name="华南电信二区" line="0"/>
+		<GameArea id="25" name="华南电信三区" line="0"/>
+		<GameArea id="26" name="华南电信四区" line="0"/>
+		<GameArea id="27" name="华南电信五区" line="0"/>
+		<GameArea id="28" name="华南电信六区" line="0"/>
+		<GameArea id="29" name="华中电信一区" line="0"/>
+		<GameArea id="30" name="华中电信二区" line="0"/>
+		<GameArea id="31" name="西部电信一区" line="0"/>
+		<GameArea id="32" name="西南电信一区" line="0"/>
+		<GameArea id="33" name="西南电信二区" line="0"/>
+		<GameArea id="34" name="南方电信一区" line="0"/>
+		<GameArea id="35" name="南方电信二区" line="0"/>
+		<GameArea id="36" name="华北网通一区" line="1"/>
+		<GameArea id="37" name="华北网通二区" line="1"/>
+		<GameArea id="38" name="华北网通三区" line="1"/>
+		<GameArea id="39" name="华北网通四区" line="1"/>
+		<GameArea id="40" name="华北网通五区" line="1"/>
+		<GameArea id="41" name="东北网通一区" line="1"/>
+		<GameArea id="42" name="东北网通二区" line="1"/>
+		<GameArea id="43" name="东北网通三区" line="1"/>
+		<GameArea id="44" name="山东网通一区" line="1"/>
+		<GameArea id="45" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="4" name="永恒之塔">
+		<GameArea id="46" name="一区（华中电信）" line="0"/>
+		<GameArea id="47" name="三区（华南电信）" line="0"/>
+		<GameArea id="48" name="四区（华东电信）" line="0"/>
+		<GameArea id="49" name="五区（华东电信二）" line="0"/>
+		<GameArea id="50" name="六区（西南电信）" line="0"/>
+		<GameArea id="51" name="八区（华南电信二）" line="0"/>
+		<GameArea id="52" name="九区（江南电信）" line="0"/>
+		<GameArea id="53" name="十一区（荣誉电信区）" line="0"/>
+		<GameArea id="54" name="十三区（深谷腾龙）" line="2"/>
+		<GameArea id="55" name="十四区（龙临天下）" line="2"/>
+		<GameArea id="56" name="二区（华北网通）" line="1"/>
+		<GameArea id="57" name="七区（东北网通）" line="1"/>
+		<GameArea id="58" name="十区（山东网通）" line="1"/>
+		<GameArea id="59" name="十二区（荣誉网通区）" line="1"/>
+		<GameArea id="60" name="十五区（龙界新生）" line="2"/>
+		<GameArea id="61" name="十六区（龙吟虎啸）" line="2"/>
+		<GameArea id="62" name="十七区（飞龙在天）" line="2"/>
+		<GameArea id="63" name="十八区（主神殿堂）" line="2"/>
+		<GameArea id="3413" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="5" name="星辰变">
+		<GameArea id="64" name="全国电信一区九剑仙府" line="0"/>
+		<GameArea id="65" name="全国电信一区无边洪荒" line="0"/>
+		<GameArea id="66" name="全国电信一区潜龙大陆" line="0"/>
+		<GameArea id="67" name="全国电信一区云雾山庄" line="0"/>
+		<GameArea id="68" name="全国电信一区镇东王府" line="0"/>
+		<GameArea id="69" name="全国电信一区青禹仙府" line="0"/>
+		<GameArea id="70" name="全国电信一区赤血洞府" line="0"/>
+		<GameArea id="71" name="全国电信一区迷幻魔境" line="0"/>
+		<GameArea id="72" name="全国联通一区无边海域" line="1"/>
+		<GameArea id="73" name="全国联通一区腾龙大陆" line="1"/>
+		<GameArea id="74" name="全国联通一区黄岩石窟" line="1"/>
+		<GameArea id="75" name="全国联通一区暴乱星海" line="1"/>
+		<GameArea id="76" name="全国联通一区石鹤海岛" line="1"/>
+		<GameArea id="77" name="全国联通一区迷阵遗迹" line="1"/>
+		<GameArea id="78" name="全国联通一区青莲山脉" line="1"/>
+		<GameArea id="79" name="全国联通一区极地寒域" line="1"/>
+		<GameArea id="80" name="华东电信一区迷神殿" line="0"/>
+		<GameArea id="81" name="华东电信一区狄龙殿" line="0"/>
+		<GameArea id="82" name="华东电信一区不归窟" line="0"/>
+		<GameArea id="83" name="华东电信一区幽兰居" line="0"/>
+		<GameArea id="84" name="华东电信一区黑风洞" line="0"/>
+		<GameArea id="85" name="华东电信一区百臣亭" line="0"/>
+		<GameArea id="86" name="华东电信一区闲云亭" line="0"/>
+		<GameArea id="87" name="华东电信一区碧波湖" line="0"/>
+		<GameArea id="88" name="华南电信一区清风岛" line="0"/>
+		<GameArea id="89" name="华南电信一区血域岛" line="0"/>
+		<GameArea id="90" name="华南电信一区烈虎谷" line="0"/>
+		<GameArea id="91" name="华南电信一区竹林谷" line="0"/>
+		<GameArea id="92" name="华南电信一区金木岛" line="0"/>
+		<GameArea id="93" name="华南电信一区黑风岛" line="0"/>
+		<GameArea id="94" name="华南电信一区盘蛇岛" line="0"/>
+		<GameArea id="95" name="华南电信一区殷龙岛" line="0"/>
+		<GameArea id="96" name="华中电信一区逆央境" line="0"/>
+		<GameArea id="97" name="华中电信一区火焰山" line="0"/>
+		<GameArea id="98" name="华中电信一区东岚山" line="0"/>
+		<GameArea id="99" name="华中电信一区修罗海" line="0"/>
+		<GameArea id="100" name="华北联通一区连云岛" line="1"/>
+		<GameArea id="101" name="华北联通一区鹏魔岛" line="1"/>
+		<GameArea id="102" name="华北联通一区姜澜界" line="1"/>
+		<GameArea id="103" name="华北联通一区天心界" line="1"/>
+		<GameArea id="104" name="华北联通一区双域岛" line="1"/>
+		<GameArea id="105" name="华北联通一区竹林岛" line="1"/>
+		<GameArea id="106" name="全国电信二区星辰阁" line="0"/>
+		<GameArea id="107" name="全国电信二区藏宝阁" line="0"/>
+		<GameArea id="108" name="全国电信二区雷山居" line="0"/>
+		<GameArea id="109" name="全国电信二区逆央宫" line="0"/>
+		<GameArea id="110" name="全国电信二区金羽殿" line="0"/>
+		<GameArea id="111" name="全国电信二区黑风殿" line="0"/>
+		<GameArea id="112" name="全国电信二区黑龙殿" line="0"/>
+		<GameArea id="113" name="全国电信二区白云殿" line="0"/>
+		<GameArea id="114" name="西南电信一区寒霜" line="0"/>
+		<GameArea id="115" name="西南电信一区北冥" line="0"/>
+		<GameArea id="116" name="全国联通二区雷隐" line="1"/>
+		<GameArea id="117" name="全国联通二区紫电" line="1"/>
+		<GameArea id="118" name="全国联通二区耀阳" line="1"/>
+		<GameArea id="119" name="全国联通二区疾风" line="1"/>
+		<GameArea id="120" name="全国联通二区赤霞" line="1"/>
+		<GameArea id="121" name="全国联通二区雷禅" line="1"/>
+		<GameArea id="122" name="全国联通二区断岳" line="1"/>
+		<GameArea id="123" name="全国联通二区破天" line="1"/>
+		<GameArea id="124" name="全国电信三区上天宫" line="0"/>
+		<GameArea id="125" name="全国电信三区青龙宫" line="0"/>
+		<GameArea id="126" name="全国电信三区未央宫" line="0"/>
+		<GameArea id="127" name="全国电信三区修罗宫" line="0"/>
+		<GameArea id="128" name="全国电信三区流云府" line="0"/>
+		<GameArea id="129" name="全国电信三区飘云府" line="0"/>
+		<GameArea id="130" name="全国电信三区明玉府" line="0"/>
+		<GameArea id="131" name="全国电信三区紫玄府" line="0"/>
+		<GameArea id="132" name="全国电信四区雷霆" line="0"/>
+		<GameArea id="133" name="全国电信四区啸风" line="0"/>
+		<GameArea id="134" name="全国电信四区裂魂" line="0"/>
+		<GameArea id="135" name="全国电信四区虎牙" line="0"/>
+		<GameArea id="136" name="全国电信四区邪灵" line="0"/>
+		<GameArea id="137" name="全国电信四区血饮" line="0"/>
+		<GameArea id="138" name="全国电信四区赤皇" line="0"/>
+		<GameArea id="139" name="全国电信四区紫宸" line="0"/>
+		<GameArea id="140" name="全国电信五区黄石星" line="0"/>
+		<GameArea id="141" name="全国电信五区红叶星" line="0"/>
+		<GameArea id="142" name="全国电信五区蓝湾星" line="0"/>
+		<GameArea id="143" name="全国电信五区绿晶星" line="0"/>
+		<GameArea id="144" name="全国电信五区青火星" line="0"/>
+		<GameArea id="145" name="全国电信五区蓝月星" line="0"/>
+		<GameArea id="146" name="全国电信五区白玄星" line="0"/>
+		<GameArea id="147" name="全国电信五区黑焱星" line="0"/>
+		<GameArea id="148" name="全国联通二区雷隐" line="1"/>
+		<GameArea id="149" name="全国联通二区紫电" line="1"/>
+		<GameArea id="150" name="全国联通二区耀阳" line="1"/>
+		<GameArea id="151" name="全国联通二区疾风" line="1"/>
+		<GameArea id="152" name="全国联通二区赤霞" line="1"/>
+		<GameArea id="153" name="全国联通二区雷禅" line="1"/>
+		<GameArea id="154" name="全国联通二区断岳" line="1"/>
+		<GameArea id="155" name="全国联通二区破天" line="1"/>
+		<GameArea id="156" name="全国联通三区柳风城" line="1"/>
+		<GameArea id="157" name="全国联通三区严山城" line="1"/>
+		<GameArea id="2319" name="全国电信六区君临" line="0"/>
+		<GameArea id="2320" name="全国电信六区问鼎" line="0"/>
+		<GameArea id="2321" name="特权测试区星海（电信）" line="0"/>
+		<GameArea id="2322" name="特权测试区洪荒（联通）" line="1"/>
+		<GameArea id="2323" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="6" name="传奇世界">
+		<GameArea id="158" name="封闭测试区" line="2"/>
+		<GameArea id="159" name="1区龙行天下" line="2"/>
+		<GameArea id="160" name="2区炎黄至尊" line="2"/>
+		<GameArea id="161" name="3区东成西就" line="2"/>
+		<GameArea id="162" name="4区潇湘传奇" line="2"/>
+		<GameArea id="163" name="5区笑傲江湖" line="2"/>
+		<GameArea id="164" name="6区天马行空" line="2"/>
+		<GameArea id="165" name="7区剑横四海" line="2"/>
+		<GameArea id="166" name="8区沸蓝星空" line="2"/>
+		<GameArea id="167" name="9区龙啸长安" line="2"/>
+		<GameArea id="168" name="10区吞食天下" line="2"/>
+		<GameArea id="169" name="11区三国演义" line="2"/>
+		<GameArea id="170" name="12区秋水长天" line="2"/>
+		<GameArea id="171" name="13区林海雪原" line="2"/>
+		<GameArea id="172" name="14区龙腾四海" line="2"/>
+		<GameArea id="173" name="15区岭南风云" line="2"/>
+		<GameArea id="174" name="16区雄霸九州" line="2"/>
+		<GameArea id="175" name="17区纵横天下" line="2"/>
+		<GameArea id="176" name="18区巴国战魂" line="2"/>
+		<GameArea id="177" name="19区南征北战" line="2"/>
+		<GameArea id="178" name="20区万王之王" line="2"/>
+		<GameArea id="179" name="21区王者如意" line="2"/>
+		<GameArea id="180" name="22区天地英雄" line="2"/>
+		<GameArea id="181" name="23区齐鲁英雄" line="2"/>
+		<GameArea id="182" name="24区卧虎藏龙" line="2"/>
+		<GameArea id="183" name="25区华夏英豪" line="2"/>
+		<GameArea id="184" name="26区雄图霸业" line="2"/>
+		<GameArea id="185" name="27区锋芒毕露" line="2"/>
+		<GameArea id="186" name="28区英雄无敌" line="2"/>
+		<GameArea id="187" name="29区蜀汉帝国" line="2"/>
+		<GameArea id="188" name="30区金玉奇缘" line="2"/>
+		<GameArea id="189" name="31区互联星空" line="2"/>
+		<GameArea id="190" name="32区风云乍起" line="2"/>
+		<GameArea id="191" name="33区塞外传奇" line="2"/>
+		<GameArea id="192" name="34区北国天骄" line="2"/>
+		<GameArea id="193" name="35区碧海青天" line="2"/>
+		<GameArea id="194" name="36区飞雪连天" line="2"/>
+		<GameArea id="195" name="37区彩云之南" line="2"/>
+		<GameArea id="196" name="38区楚天豪情" line="2"/>
+		<GameArea id="197" name="39区飞天狂舞" line="2"/>
+		<GameArea id="198" name="40区蜀山剑侠" line="2"/>
+		<GameArea id="199" name="41区仗剑天涯" line="2"/>
+		<GameArea id="200" name="42区傲视天下" line="2"/>
+		<GameArea id="201" name="43区气吞山河" line="2"/>
+		<GameArea id="202" name="44区君临天下" line="2"/>
+		<GameArea id="203" name="45区冰龙破晓" line="2"/>
+		<GameArea id="204" name="46区六朝盛世" line="2"/>
+		<GameArea id="205" name="47区津门降龙" line="2"/>
+		<GameArea id="206" name="48区天山雪莲" line="2"/>
+		<GameArea id="207" name="49区啸傲江南" line="2"/>
+		<GameArea id="208" name="50区天上人间" line="2"/>
+		<GameArea id="209" name="51区皓月千里" line="2"/>
+		<GameArea id="210" name="52区少林正宗" line="2"/>
+		<GameArea id="211" name="53区碧海苍穹" line="2"/>
+		<GameArea id="212" name="54区凤舞九天" line="2"/>
+		<GameArea id="213" name="55区紫禁皇城" line="2"/>
+		<GameArea id="214" name="56区传奇世界" line="2"/>
+		<GameArea id="215" name="57区灵山仙镜" line="2"/>
+		<GameArea id="216" name="58区龙啸黑土" line="2"/>
+		<GameArea id="217" name="59区天地豪情" line="2"/>
+		<GameArea id="218" name="60区王者无敌" line="2"/>
+		<GameArea id="219" name="61区巴山蜀水" line="2"/>
+		<GameArea id="220" name="62区普天同庆" line="2"/>
+		<GameArea id="221" name="63区虎啸龙吟" line="2"/>
+		<GameArea id="222" name="64区江南仙镜" line="2"/>
+		<GameArea id="223" name="65区天下无双" line="2"/>
+		<GameArea id="224" name="66区雄霸天下" line="2"/>
+		<GameArea id="225" name="67区烟雨江南" line="2"/>
+		<GameArea id="226" name="68区龙祥之地" line="2"/>
+		<GameArea id="227" name="69区湖光山色" line="2"/>
+		<GameArea id="228" name="70区福瑞无极" line="2"/>
+		<GameArea id="229" name="71区VIP专区" line="2"/>
+		<GameArea id="230" name="72区威震山河" line="2"/>
+		<GameArea id="231" name="73区胜景仙居" line="2"/>
+		<GameArea id="232" name="74区碧血情天" line="2"/>
+		<GameArea id="233" name="75区猛龙过江" line="2"/>
+		<GameArea id="234" name="76区风云万里" line="2"/>
+		<GameArea id="235" name="77区天下无敌" line="2"/>
+		<GameArea id="236" name="78区丹心碧石" line="2"/>
+		<GameArea id="237" name="79区奇门遁甲" line="2"/>
+		<GameArea id="238" name="80区南海落霞" line="2"/>
+		<GameArea id="239" name="81区天府之国" line="2"/>
+		<GameArea id="240" name="82区清明上河" line="2"/>
+		<GameArea id="241" name="83区龙腾九天" line="2"/>
+		<GameArea id="242" name="84区四海争霸" line="2"/>
+		<GameArea id="243" name="85区大自在天" line="2"/>
+		<GameArea id="244" name="86区龙潭印月" line="2"/>
+		<GameArea id="245" name="87区傲视群雄" line="2"/>
+		<GameArea id="246" name="89区叱咤风云" line="2"/>
+		<GameArea id="247" name="90区笑看风云" line="2"/>
+		<GameArea id="248" name="91区盛世英雄" line="2"/>
+		<GameArea id="249" name="92区胜者为王" line="2"/>
+		<GameArea id="250" name="93区群龙聚首" line="2"/>
+		<GameArea id="251" name="94区元神分身" line="2"/>
+		<GameArea id="252" name="95区傲世凌云" line="2"/>
+		<GameArea id="253" name="96区白日飞升" line="2"/>
+		<GameArea id="254" name="97区魔动九天" line="2"/>
+		<GameArea id="255" name="98区三载霸业" line="2"/>
+		<GameArea id="256" name="99区九九归真" line="2"/>
+		<GameArea id="257" name="100区百战争雄" line="2"/>
+		<GameArea id="258" name="101区修神入魔" line="2"/>
+		<GameArea id="259" name="102区金榜题名" line="2"/>
+		<GameArea id="260" name="103区四载称雄" line="2"/>
+		<GameArea id="261" name="104区神威幻镜" line="2"/>
+		<GameArea id="262" name="105区南粤雄风" line="2"/>
+		<GameArea id="263" name="106区神州大地" line="2"/>
+		<GameArea id="264" name="107区雄霸荆楚" line="2"/>
+		<GameArea id="265" name="108区富甲天下" line="2"/>
+		<GameArea id="266" name="109区中华英豪" line="2"/>
+		<GameArea id="267" name="110区福禄齐天" line="2"/>
+		<GameArea id="268" name="111区谁与争锋" line="2"/>
+		<GameArea id="269" name="112区唯我独尊" line="2"/>
+		<GameArea id="270" name="113区钱塘风云" line="2"/>
+		<GameArea id="271" name="114区百事亨通" line="2"/>
+		<GameArea id="272" name="115区五福临门" line="2"/>
+		<GameArea id="273" name="116区功成名就" line="2"/>
+		<GameArea id="274" name="117区名满天下" line="2"/>
+		<GameArea id="275" name="118区举国同庆" line="2"/>
+		<GameArea id="276" name="119区盛世九州" line="2"/>
+		<GameArea id="277" name="120区龙吟九宵" line="2"/>
+		<GameArea id="278" name="121区金牛拓春" line="2"/>
+		<GameArea id="279" name="122区潜龙在渊" line="2"/>
+		<GameArea id="280" name="123区真爱永恒" line="2"/>
+		<GameArea id="281" name="124区吴越争锋" line="2"/>
+		<GameArea id="282" name="125区六载盛世" line="2"/>
+		<GameArea id="283" name="126区移动江湖" line="2"/>
+		<GameArea id="284" name="127区宏图大业" line="2"/>
+		<GameArea id="285" name="128区铁血战歌" line="2"/>
+		<GameArea id="286" name="129区虎跃钱塘" line="2"/>
+		<GameArea id="287" name="130区七星传世" line="2"/>
+		<GameArea id="288" name="131区海底世界" line="2"/>
+		<GameArea id="289" name="132区沙城争霸" line="2"/>
+		<GameArea id="290" name="88区英雄霸业（网通区）" line="1"/>
+		<GameArea id="291" name="88区英雄霸业（江浙专区）" line="2"/>
+		<GameArea id="292" name="88区英雄霸业（电信区）" line="0"/>
+		<GameArea id="293" name="88区英雄霸业（四川专区）" line="2"/>
+		<GameArea id="294" name="浩方一区" line="2"/>
+		<GameArea id="295" name="边锋茶苑专区" line="2"/>
+		<GameArea id="296" name="纵横传奇（网通）" line="1"/>
+		<GameArea id="297" name="纵横传奇（电信）" line="0"/>
+		<GameArea id="298" name="决战天下1区（推荐全国用户）" line="2"/>
+		<GameArea id="299" name="决战天下2区（推荐电信用户）" line="0"/>
+		<GameArea id="300" name="决战天下3区（推荐网通用户）" line="1"/>
+		<GameArea id="301" name="九九归一1区（全国电信）" line="0"/>
+		<GameArea id="2339" name="九九归一2区（全国网通）" line="1"/>
+		<GameArea id="2340" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="7" name="热血传奇">
+		<GameArea id="302" name="传奇一区" line="1"/>
+		<GameArea id="303" name="传奇二区" line="0"/>
+		<GameArea id="304" name="传奇三区" line="0"/>
+		<GameArea id="305" name="天空·传奇（四区）" line="2"/>
+		<GameArea id="306" name="传奇五区" line="2"/>
+		<GameArea id="307" name="传奇六区" line="0"/>
+		<GameArea id="308" name="传奇七区" line="1"/>
+		<GameArea id="309" name="传奇八区" line="2"/>
+		<GameArea id="310" name="传奇九区" line="0"/>
+		<GameArea id="311" name="传奇十区" line="2"/>
+		<GameArea id="312" name="经典之国（11区）" line="2"/>
+		<GameArea id="313" name="西部圣域（12区）" line="2"/>
+		<GameArea id="314" name="英雄之门（13区）" line="0"/>
+		<GameArea id="315" name="王者大陆（14区）" line="2"/>
+		<GameArea id="316" name="移动天下（15区）" line="2"/>
+		<GameArea id="317" name="侠骨丹心（16区）" line="2"/>
+		<GameArea id="318" name="风云专区（17区）" line="2"/>
+		<GameArea id="319" name="赤月·广电星空（18区）" line="2"/>
+		<GameArea id="320" name="西部圣域Ⅱ（19区）" line="2"/>
+		<GameArea id="321" name="光明世界（20区）" line="2"/>
+		<GameArea id="322" name="江山如画（21区）" line="2"/>
+		<GameArea id="323" name="网通宽带（22区）" line="1"/>
+		<GameArea id="324" name="群雄逐鹿（23区）" line="2"/>
+		<GameArea id="325" name="西部圣域Ⅲ（24区）" line="2"/>
+		<GameArea id="326" name="风云Ⅱ（25区）" line="2"/>
+		<GameArea id="327" name="仙女湖（26区）" line="2"/>
+		<GameArea id="328" name="网通宽带Ⅱ（27区）" line="1"/>
+		<GameArea id="329" name="中游传奇（28区）" line="2"/>
+		<GameArea id="330" name="东海风暴（29区）" line="2"/>
+		<GameArea id="331" name="安徽热线（30区）" line="2"/>
+		<GameArea id="332" name="甲天下31区" line="2"/>
+		<GameArea id="333" name="英雄天地（32区）" line="2"/>
+		<GameArea id="334" name="西部圣域Ⅳ（33区）" line="2"/>
+		<GameArea id="335" name="五里河（34区）" line="2"/>
+		<GameArea id="336" name="江苏电信（35区）" line="0"/>
+		<GameArea id="337" name="网通宽带Ⅲ（36区）" line="1"/>
+		<GameArea id="338" name="古城热线（37区）" line="2"/>
+		<GameArea id="339" name="风云Ⅲ（38区）" line="2"/>
+		<GameArea id="340" name="风云Ⅳ（39区）" line="2"/>
+		<GameArea id="341" name="传奇四十区" line="2"/>
+		<GameArea id="342" name="仁者无敌（41区）" line="2"/>
+		<GameArea id="343" name="风云Ⅴ（42区）" line="2"/>
+		<GameArea id="344" name="原教育网（43区上海网通）" line="1"/>
+		<GameArea id="345" name="潇湘圣域（44区）" line="2"/>
+		<GameArea id="346" name="西部圣域Ⅴ（45区）" line="2"/>
+		<GameArea id="347" name="逐鹿中原（46区）" line="2"/>
+		<GameArea id="348" name="天津宽带（50区）" line="2"/>
+		<GameArea id="349" name="西部圣域Ⅵ（47区）" line="2"/>
+		<GameArea id="350" name="网通宽带Ⅳ（48区）" line="1"/>
+		<GameArea id="351" name="广电星空Ⅱ（49区）" line="2"/>
+		<GameArea id="352" name="吉林通信专区（51区）" line="2"/>
+		<GameArea id="353" name="浙江电信专区（52区）" line="0"/>
+		<GameArea id="354" name="天使之城（53区）" line="2"/>
+		<GameArea id="355" name="天下传奇-原54区" line="2"/>
+		<GameArea id="356" name="齐鲁风云（55区）" line="2"/>
+		<GameArea id="357" name="长城宽带（56区）" line="2"/>
+		<GameArea id="358" name="新疆电信（57区）" line="0"/>
+		<GameArea id="359" name="铁通专区（58区）" line="2"/>
+		<GameArea id="360" name="冰城（59区）" line="2"/>
+		<GameArea id="361" name="西部圣域Ⅶ（60区）" line="2"/>
+		<GameArea id="362" name="龙行天下（61区）" line="2"/>
+		<GameArea id="363" name="豫晋传奇（62区）" line="2"/>
+		<GameArea id="364" name="傲世传奇（63区）" line="2"/>
+		<GameArea id="365" name="天下太平（64区）" line="2"/>
+		<GameArea id="366" name="八闽在线（65区）" line="2"/>
+		<GameArea id="367" name="南粤魔界（66区）" line="2"/>
+		<GameArea id="368" name="互联星空（67区）" line="2"/>
+		<GameArea id="369" name="金榜题名（68区）" line="2"/>
+		<GameArea id="370" name="江山无限（69区）" line="2"/>
+		<GameArea id="371" name="绝代风华（70区）" line="2"/>
+		<GameArea id="372" name="锦绣江南（71区）" line="2"/>
+		<GameArea id="373" name="沁园春（72区）" line="2"/>
+		<GameArea id="374" name="倾国倾城（75区）" line="2"/>
+		<GameArea id="375" name="辽沈专区（76区）" line="2"/>
+		<GameArea id="376" name="水泊梁山（77区）" line="2"/>
+		<GameArea id="377" name="东方热线（78区）" line="2"/>
+		<GameArea id="378" name="热血天涯（79区）" line="2"/>
+		<GameArea id="379" name="新丝路（80区）" line="2"/>
+		<GameArea id="380" name="宽带鹿城（81区）" line="2"/>
+		<GameArea id="381" name="水泊梁山Ⅱ（82区）" line="2"/>
+		<GameArea id="382" name="英雄之都（83区）" line="2"/>
+		<GameArea id="383" name="三晋争霸（84区）" line="2"/>
+		<GameArea id="384" name="楚雄风云（85区）" line="2"/>
+		<GameArea id="385" name="宽带e线（86区）" line="2"/>
+		<GameArea id="386" name="笑傲江湖（87区）" line="2"/>
+		<GameArea id="387" name="大话天涯（88区）" line="2"/>
+		<GameArea id="388" name="情比金坚（89区）" line="2"/>
+		<GameArea id="389" name="王者无敌（90区）" line="2"/>
+		<GameArea id="390" name="雄霸天下（91区）" line="2"/>
+		<GameArea id="391" name="风云千里（92区）" line="2"/>
+		<GameArea id="392" name="侠骨柔情（93区）" line="2"/>
+		<GameArea id="393" name="天龙八部（94区）" line="2"/>
+		<GameArea id="394" name="普天同庆（95区）" line="2"/>
+		<GameArea id="395" name="群龙聚首（96区）" line="2"/>
+		<GameArea id="396" name="玛珐大陆（97区）" line="2"/>
+		<GameArea id="397" name="傲视群雄（98区）" line="2"/>
+		<GameArea id="398" name="紫气东来（99区网通）" line="1"/>
+		<GameArea id="399" name="继往开来（101区）" line="2"/>
+		<GameArea id="400" name="光辉岁月（102区）" line="2"/>
+		<GameArea id="401" name="海阔天空（103区）" line="2"/>
+		<GameArea id="402" name="宏图霸业（104区）" line="2"/>
+		<GameArea id="403" name="龙腾四海（105区）" line="2"/>
+		<GameArea id="404" name="盖世英雄（106区）" line="2"/>
+		<GameArea id="405" name="谁与争锋（107区）" line="2"/>
+		<GameArea id="406" name="傲世无双（108区）" line="2"/>
+		<GameArea id="407" name="天长地久（109区）" line="2"/>
+		<GameArea id="408" name="浩然正气（110区）" line="2"/>
+		<GameArea id="409" name="功成名就（111区）" line="2"/>
+		<GameArea id="410" name="锦绣前程（112区）" line="2"/>
+		<GameArea id="411" name="名扬四海（113区）" line="2"/>
+		<GameArea id="412" name="风华绝代（114区网通）" line="1"/>
+		<GameArea id="413" name="花好月圆（115区电信）" line="0"/>
+		<GameArea id="414" name="倚天屠龙（116区）" line="2"/>
+		<GameArea id="415" name="七周年专区（117区）" line="2"/>
+		<GameArea id="416" name="富甲天下（118区）" line="2"/>
+		<GameArea id="417" name="君临天下（119区）" line="2"/>
+		<GameArea id="418" name="壮志凌云（120区电信）" line="0"/>
+		<GameArea id="419" name="金玉满堂（121区电信）" line="0"/>
+		<GameArea id="420" name="吉祥如意（122区网通）" line="1"/>
+		<GameArea id="421" name="群雄争霸（123区电信）" line="0"/>
+		<GameArea id="422" name="游剑江湖（124区电信）" line="0"/>
+		<GameArea id="423" name="江山美人（125区网通）" line="1"/>
+		<GameArea id="424" name="醉酒当歌（126区电信）" line="0"/>
+		<GameArea id="425" name="壮志豪情（127区电信）" line="0"/>
+		<GameArea id="426" name="叱咤风云（128区）" line="2"/>
+		<GameArea id="427" name="战无不胜（129区电信）" line="0"/>
+		<GameArea id="428" name="百花齐放（130区电信）" line="0"/>
+		<GameArea id="429" name="八周年专区" line="2"/>
+		<GameArea id="430" name="千秋霸业（132区电信）" line="0"/>
+		<GameArea id="431" name="铁血豪情（133区）" line="2"/>
+		<GameArea id="432" name="气吞山河（134区电信）" line="0"/>
+		<GameArea id="433" name="比翼双飞（135区）" line="2"/>
+		<GameArea id="434" name="龙争虎斗（136区）" line="2"/>
+		<GameArea id="435" name="玛法复兴资料片（电信）" line="0"/>
+		<GameArea id="436" name="玛法复兴资料片（网通）" line="1"/>
+		<GameArea id="437" name="绝世独尊（139区电信）" line="0"/>
+		<GameArea id="438" name="名震江湖（140区网通）" line="1"/>
+		<GameArea id="439" name="激情岁月（141区电信）" line="0"/>
+		<GameArea id="440" name="盛世辉煌（142区）" line="2"/>
+		<GameArea id="441" name="天地豪情（143区电信）" line="0"/>
+		<GameArea id="442" name="风云际会（144区）" line="2"/>
+		<GameArea id="443" name="诸神之战（145区）" line="2"/>
+		<GameArea id="444" name="玛法通鉴（146区电信）" line="0"/>
+		<GameArea id="445" name="物华天宝（147区网通）" line="1"/>
+		<GameArea id="446" name="风花雪月（148区电信）" line="0"/>
+		<GameArea id="447" name="传奇十周年专区(149区网通)" line="1"/>
+		<GameArea id="448" name="传奇十周年专区（150区电信）" line="0"/>
+		<GameArea id="449" name="[火爆]新超级玩家区（151区）" line="2"/>
+		<GameArea id="450" name="神龙帝国（152区电信）" line="0"/>
+		<GameArea id="451" name="神龙帝国（153区网通）" line="1"/>
+		<GameArea id="452" name="狐月秘境（154区电信）" line="0"/>
+		<GameArea id="454" name="体验专用服务器" line="2"/>
+		<GameArea id="455" name="海纳百川（百区网通专区）" line="1"/>
+		<GameArea id="456" name="海纳百川（百区电信专区）" line="0"/>
+		<GameArea id="457" name="百区（湖南湖北专区）" line="2"/>
+		<GameArea id="458" name="百区（四川专区）" line="2"/>
+		<GameArea id="459" name="百区（黑龙江专区）" line="2"/>
+		<GameArea id="460" name="五湖四海（百区电信专区）" line="0"/>
+		<GameArea id="461" name="传奇续章贺岁区（电信）" line="0"/>
+		<GameArea id="462" name="传奇续章贺岁区（网通）" line="1"/>
+		<GameArea id="463" name="传奇续章玛法雄师(一区电信)" line="0"/>
+		<GameArea id="464" name="传奇续章热血战歌(二区网通)" line="1"/>
+		<GameArea id="465" name="传奇续章黄金时代(三区电信)" line="0"/>
+		<GameArea id="466" name="传奇续章招财进宝(四区网通)" line="1"/>
+		<GameArea id="467" name="传奇续章天王本生(五区电信)" line="0"/>
+		<GameArea id="468" name="传奇续章天王本生(五区电信)" line="0"/>
+		<GameArea id="469" name="传奇续章行会争霸(六区)" line="2"/>
+		<GameArea id="470" name="传奇续章狼烟梦境(七区电信)" line="0"/>
+		<GameArea id="471" name="传奇序章八区华山论剑" line="2"/>
+		<GameArea id="472" name="传奇续章大展宏图(九区)" line="2"/>
+		<GameArea id="2335" name="传奇续章霸者雄风(十区)" line="2"/>
+		<GameArea id="2336" name="传奇续章倾城之恋(十一区)" line="2"/>
+		<GameArea id="2337" name="活动专用服务器" line="2"/>
+		<GameArea id="2338" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="8" name="剑侠情缘三盛大版">
+		<GameArea id="473" name="电信1区" line="0"/>
+		<GameArea id="474" name="网通1区" line="1"/>
+		<GameArea id="475" name="其他区服" line="1"/>
+	</GameID>
+	<GameID id="9" name="CSOL反恐精英OL">
+		<GameArea id="476" name="电信一区" line="0"/>
+		<GameArea id="477" name="电信二区" line="0"/>
+		<GameArea id="478" name="电信三区（西南）" line="0"/>
+		<GameArea id="479" name="网通一区" line="1"/>
+		<GameArea id="480" name="网通二区" line="1"/>
+		<GameArea id="2327" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="10" name="地下城与勇士">
+		<GameArea id="481" name="电信西北" line="0"/>
+		<GameArea id="482" name="电信四川" line="0"/>
+		<GameArea id="483" name="电信广东" line="0"/>
+		<GameArea id="484" name="电信湖北" line="0"/>
+		<GameArea id="485" name="电信上海" line="0"/>
+		<GameArea id="486" name="电信西南" line="0"/>
+		<GameArea id="487" name="电信重庆" line="0"/>
+		<GameArea id="488" name="电信广西" line="0"/>
+		<GameArea id="489" name="电信湖南" line="0"/>
+		<GameArea id="490" name="电信江苏" line="0"/>
+		<GameArea id="491" name="电信陕西" line="0"/>
+		<GameArea id="492" name="电信江西" line="0"/>
+		<GameArea id="493" name="电信福建" line="0"/>
+		<GameArea id="494" name="电信安徽" line="0"/>
+		<GameArea id="495" name="电信浙江" line="0"/>
+		<GameArea id="496" name="电信云南" line="0"/>
+		<GameArea id="497" name="电信贵州" line="0"/>
+		<GameArea id="498" name="网通华北" line="1"/>
+		<GameArea id="499" name="网通东北" line="1"/>
+		<GameArea id="500" name="网通辽宁" line="1"/>
+		<GameArea id="501" name="网通黑龙江" line="1"/>
+		<GameArea id="502" name="网通山东" line="1"/>
+		<GameArea id="503" name="网通河北" line="1"/>
+		<GameArea id="504" name="网通北京" line="1"/>
+		<GameArea id="505" name="网通吉林" line="1"/>
+		<GameArea id="506" name="网通河南" line="1"/>
+		<GameArea id="2324" name="网通山西" line="1"/>
+		<GameArea id="2325" name="网通天津" line="1"/>
+		<GameArea id="2326" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="11" name="穿越火线">
+		<GameArea id="507" name="安徽一区（电信）" line="0"/>
+		<GameArea id="508" name="福建一区（电信）" line="0"/>
+		<GameArea id="509" name="广东二区（电信）" line="0"/>
+		<GameArea id="510" name="广东三区（电信）" line="0"/>
+		<GameArea id="511" name="广东四区（电信）" line="0"/>
+		<GameArea id="512" name="广东一区（电信）" line="0"/>
+		<GameArea id="513" name="广西一区（电信）" line="0"/>
+		<GameArea id="514" name="湖北二区（电信）" line="0"/>
+		<GameArea id="515" name="湖北一区（电信）" line="0"/>
+		<GameArea id="516" name="湖南二区（电信）" line="0"/>
+		<GameArea id="517" name="湖南一区（电信）" line="0"/>
+		<GameArea id="518" name="江苏一区（电信）" line="0"/>
+		<GameArea id="519" name="江西一区（电信）" line="0"/>
+		<GameArea id="520" name="南方大区（电信）" line="0"/>
+		<GameArea id="521" name="江苏二区（电信）" line="0"/>
+		<GameArea id="522" name="陕西一区（电信）" line="0"/>
+		<GameArea id="523" name="上海二区（电信）" line="0"/>
+		<GameArea id="524" name="上海一区（电信）" line="0"/>
+		<GameArea id="525" name="四川二区（电信）" line="0"/>
+		<GameArea id="526" name="四川一区（电信）" line="0"/>
+		<GameArea id="527" name="云南一区（电信）" line="0"/>
+		<GameArea id="528" name="浙江二区（电信）" line="0"/>
+		<GameArea id="529" name="浙江一区（电信）" line="0"/>
+		<GameArea id="530" name="重庆一区（电信）" line="0"/>
+		<GameArea id="531" name="北方大区（网通）" line="1"/>
+		<GameArea id="532" name="北京二区（网通）" line="1"/>
+		<GameArea id="533" name="北京三区（网通）" line="1"/>
+		<GameArea id="534" name="北京四区（网通）" line="1"/>
+		<GameArea id="535" name="北京一区（网通）" line="1"/>
+		<GameArea id="536" name="河北一区（网通）" line="1"/>
+		<GameArea id="537" name="河南一区（网通）" line="1"/>
+		<GameArea id="538" name="黑龙江区（网通）" line="1"/>
+		<GameArea id="539" name="吉林一区（网通）" line="1"/>
+		<GameArea id="540" name="辽宁二区（网通）" line="1"/>
+		<GameArea id="541" name="辽宁三区（网通）" line="1"/>
+		<GameArea id="542" name="辽宁一区（网通）" line="1"/>
+		<GameArea id="543" name="山东一区（网通）" line="1"/>
+		<GameArea id="544" name="山西一区（网通）" line="1"/>
+		<GameArea id="545" name="山东二区（网通）" line="1"/>
+		<GameArea id="2328" name="体验服" line="2"/>
+		<GameArea id="2329" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="12" name="魔兽世界国服">
+		<GameArea id="546" name="一区（电信）" line="0"/>
+		<GameArea id="547" name="二区（网通）" line="1"/>
+		<GameArea id="548" name="三区（电信）" line="0"/>
+		<GameArea id="549" name="五区（电信）" line="0"/>
+		<GameArea id="550" name="十区（电信）" line="0"/>
+		<GameArea id="551" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="13" name="魔兽世界台服">
+		<GameArea id="552" name="全服" line="2"/>
+		<GameArea id="553" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="14" name="跑跑卡丁车">
+		<GameArea id="554" name="电信赛车场（一区）" line="0"/>
+		<GameArea id="555" name="电信赛车场（二区）" line="0"/>
+		<GameArea id="556" name="网通赛车场（一区）" line="1"/>
+		<GameArea id="557" name="网通赛车场（二区，新区）" line="1"/>
+		<GameArea id="558" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="15" name="QQ炫舞">
+		<GameArea id="559" name="华东二区（电信）" line="0"/>
+		<GameArea id="560" name="华东情缘（电信）" line="0"/>
+		<GameArea id="561" name="华东三区（电信）" line="0"/>
+		<GameArea id="562" name="华东四区（电信）" line="0"/>
+		<GameArea id="563" name="华东一区（电信）" line="0"/>
+		<GameArea id="564" name="华东之恋（电信）" line="0"/>
+		<GameArea id="565" name="华南二区（电信）" line="0"/>
+		<GameArea id="566" name="华南一区（电信）" line="0"/>
+		<GameArea id="567" name="华南之约（电信）" line="0"/>
+		<GameArea id="568" name="华中二区（电信）" line="0"/>
+		<GameArea id="569" name="华中一区（电信）" line="0"/>
+		<GameArea id="570" name="鹊舞江南（电信）" line="0"/>
+		<GameArea id="571" name="西北一区（电信）" line="0"/>
+		<GameArea id="572" name="西南二区（电信）" line="0"/>
+		<GameArea id="573" name="西南一区（电信）" line="0"/>
+		<GameArea id="574" name="邂逅南国（电信）" line="0"/>
+		<GameArea id="575" name="烟雨江南（电信）" line="0"/>
+		<GameArea id="576" name="广东专区（电信）" line="0"/>
+		<GameArea id="577" name="浪漫惊喜（电信）" line="0"/>
+		<GameArea id="578" name="北城之恋（网通）" line="1"/>
+		<GameArea id="579" name="蝶恋北风（网通）" line="1"/>
+		<GameArea id="580" name="东北二区（网通）" line="1"/>
+		<GameArea id="581" name="东北一区（网通）" line="1"/>
+		<GameArea id="582" name="华北二区（网通）" line="1"/>
+		<GameArea id="583" name="华北三区（网通）" line="1"/>
+		<GameArea id="584" name="华北天地（网通）" line="1"/>
+		<GameArea id="585" name="华北一区（网通）" line="1"/>
+		<GameArea id="2343" name="雪瑞北国（网通）" line="1"/>
+		<GameArea id="2344" name="甜蜜派对（网通）" line="1"/>
+		<GameArea id="2345" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="16" name="QQ飞车">
+		<GameArea id="586" name="电信区" line="0"/>
+		<GameArea id="587" name="网通区" line="1"/>
+		<GameArea id="588" name="电信二" line="0"/>
+		<GameArea id="589" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="17" name="问道">
+		<GameArea id="592" name="其他区服" line="2"/>
+		<GameArea id="2347" name="电信一区巴渝山城" line="0"/>
+		<GameArea id="2348" name="电信一区百里秦川" line="0"/>
+		<GameArea id="2349" name="电信一区沧海一笑" line="0"/>
+		<GameArea id="2350" name="电信一区飞天逐月" line="0"/>
+		<GameArea id="2351" name="电信一区鼓浪屿" line="0"/>
+		<GameArea id="2352" name="电信一区华山论剑" line="0"/>
+		<GameArea id="2353" name="电信一区黄果树" line="0"/>
+		<GameArea id="2354" name="电信一区黄鹤楼" line="0"/>
+		<GameArea id="2355" name="电信一区黄埔风云" line="0"/>
+		<GameArea id="2356" name="电信一区金顶佛光" line="0"/>
+		<GameArea id="2357" name="电信一区锦绣中华" line="0"/>
+		<GameArea id="2358" name="电信一区橘子洲头" line="0"/>
+		<GameArea id="2359" name="电信一区乐山大佛" line="0"/>
+		<GameArea id="2360" name="电信一区岭南风情" line="0"/>
+		<GameArea id="2361" name="电信一区流光异彩" line="0"/>
+		<GameArea id="2362" name="电信一区奇门遁甲" line="0"/>
+		<GameArea id="2363" name="电信一区钱塘观潮" line="0"/>
+		<GameArea id="2364" name="电信一区群星聚会" line="0"/>
+		<GameArea id="2365" name="电信一区柔情侠骨" line="0"/>
+		<GameArea id="2366" name="电信一区蜀南竹海" line="0"/>
+		<GameArea id="2367" name="电信一区天府情缘" line="0"/>
+		<GameArea id="2368" name="电信一区天罡北斗" line="0"/>
+		<GameArea id="2369" name="电信一区巍巍太行" line="0"/>
+		<GameArea id="2370" name="电信一区武当雄风" line="0"/>
+		<GameArea id="2371" name="电信一区仙踪飘渺" line="0"/>
+		<GameArea id="2372" name="电信一区香格里拉" line="0"/>
+		<GameArea id="2373" name="电信一区倚天屠龙" line="0"/>
+		<GameArea id="2374" name="电信一区豫园佳境" line="0"/>
+		<GameArea id="2375" name="电信一区钟山风雨" line="0"/>
+		<GameArea id="2376" name="电信一区珠海明珠" line="0"/>
+		<GameArea id="2377" name="电信二区比翼双飞" line="0"/>
+		<GameArea id="2378" name="电信二区蝶舞满天" line="0"/>
+		<GameArea id="2379" name="电信二区繁荣富强" line="0"/>
+		<GameArea id="2380" name="电信二区飞雪连天" line="0"/>
+		<GameArea id="2381" name="电信二区海阔天空" line="0"/>
+		<GameArea id="2382" name="电信二区红袖添香" line="0"/>
+		<GameArea id="2383" name="电信二区花好月圆" line="0"/>
+		<GameArea id="2384" name="电信二区吉祥如意" line="0"/>
+		<GameArea id="2385" name="电信二区江山万里" line="0"/>
+		<GameArea id="2386" name="电信二区君临天下" line="0"/>
+		<GameArea id="2387" name="电信二区凌霄宝殿" line="0"/>
+		<GameArea id="2388" name="电信二区落英缤纷" line="0"/>
+		<GameArea id="2389" name="电信二区蓬莱仙境" line="0"/>
+		<GameArea id="2390" name="电信二区千里婵娟" line="0"/>
+		<GameArea id="2391" name="电信二区千秋霸业" line="0"/>
+		<GameArea id="2392" name="电信二区乾坤无极" line="0"/>
+		<GameArea id="2393" name="电信二区情定今生" line="0"/>
+		<GameArea id="2394" name="电信二区曲院风荷" line="0"/>
+		<GameArea id="2395" name="电信二区如虎添翼" line="0"/>
+		<GameArea id="2396" name="电信二区世外桃源" line="0"/>
+		<GameArea id="2397" name="电信二区书声琅琅" line="0"/>
+		<GameArea id="2398" name="电信二区桃园结义" line="0"/>
+		<GameArea id="2399" name="电信二区天地雄心" line="0"/>
+		<GameArea id="2400" name="电信二区天时地利" line="0"/>
+		<GameArea id="2401" name="电信二区西湖映月" line="0"/>
+		<GameArea id="2402" name="电信二区雄霸天下" line="0"/>
+		<GameArea id="2403" name="电信二区扬州三月" line="0"/>
+		<GameArea id="2404" name="电信二区岳阳楼" line="0"/>
+		<GameArea id="2405" name="电信二区震古烁今" line="0"/>
+		<GameArea id="2406" name="电信二区众志成城" line="0"/>
+		<GameArea id="2407" name="电信三区百家争鸣" line="0"/>
+		<GameArea id="2408" name="电信三区碧海金鳞" line="0"/>
+		<GameArea id="2409" name="电信三区彩云之南" line="0"/>
+		<GameArea id="2410" name="电信三区春满人间" line="0"/>
+		<GameArea id="2411" name="电信三区东方巨龙" line="0"/>
+		<GameArea id="2412" name="电信三区洞庭人家" line="0"/>
+		<GameArea id="2413" name="电信三区飞龙在天" line="0"/>
+		<GameArea id="2414" name="电信三区风火连城" line="0"/>
+		<GameArea id="2415" name="电信三区凤凰古城" line="0"/>
+		<GameArea id="2416" name="电信三区扶摇万里" line="0"/>
+		<GameArea id="2417" name="电信三区虎丘剑池" line="0"/>
+		<GameArea id="2418" name="电信三区锦绣秦淮" line="0"/>
+		<GameArea id="2419" name="电信三区开天辟地" line="0"/>
+		<GameArea id="2420" name="电信三区灵隐禅宗" line="0"/>
+		<GameArea id="2421" name="电信三区内测专区" line="0"/>
+		<GameArea id="2422" name="电信三区七星踏斗" line="0"/>
+		<GameArea id="2423" name="电信三区麒麟献瑞" line="0"/>
+		<GameArea id="2424" name="电信三区千湖之境" line="0"/>
+		<GameArea id="2425" name="电信三区潜龙腾渊" line="0"/>
+		<GameArea id="2426" name="电信三区曲江流饮" line="0"/>
+		<GameArea id="2427" name="电信三区人杰地灵" line="0"/>
+		<GameArea id="2428" name="电信三区三生如梦" line="0"/>
+		<GameArea id="2429" name="电信三区神游六合" line="0"/>
+		<GameArea id="2430" name="电信三区天地玄黄" line="0"/>
+		<GameArea id="2431" name="电信三区天马行空" line="0"/>
+		<GameArea id="2432" name="电信三区天下平安" line="0"/>
+		<GameArea id="2433" name="电信三区问剑天下" line="0"/>
+		<GameArea id="2434" name="电信三区吴越灵峰" line="0"/>
+		<GameArea id="2435" name="电信三区烟雨江南" line="0"/>
+		<GameArea id="2436" name="电信三区一剑倾城" line="0"/>
+		<GameArea id="2437" name="电信三区一战功成" line="0"/>
+		<GameArea id="2438" name="电信三区鹰击长空" line="0"/>
+		<GameArea id="2439" name="电信三区游龙戏凤" line="0"/>
+		<GameArea id="2440" name="电信三区鱼跃龙门" line="0"/>
+		<GameArea id="2441" name="电信三区御剑封魔" line="0"/>
+		<GameArea id="2442" name="电信三区月满西楼" line="0"/>
+		<GameArea id="2443" name="电信三区走马登科" line="0"/>
+		<GameArea id="2444" name="网通一区北京古都" line="1"/>
+		<GameArea id="2445" name="网通一区避暑山庄" line="1"/>
+		<GameArea id="2446" name="网通一区长白天池" line="1"/>
+		<GameArea id="2447" name="网通一区得道飞升" line="1"/>
+		<GameArea id="2448" name="网通一区风雨征途" line="1"/>
+		<GameArea id="2449" name="网通一区海河之滨" line="1"/>
+		<GameArea id="2450" name="网通一区火树银花" line="1"/>
+		<GameArea id="2451" name="网通一区林海雪原" line="1"/>
+		<GameArea id="2452" name="网通一区龙门石窟" line="1"/>
+		<GameArea id="2453" name="网通一区龙盘泰山" line="1"/>
+		<GameArea id="2454" name="网通一区龙腾渤海" line="1"/>
+		<GameArea id="2455" name="网通一区卢沟晓月" line="1"/>
+		<GameArea id="2456" name="网通一区落雪缤纷" line="1"/>
+		<GameArea id="2457" name="网通一区名动天下" line="1"/>
+		<GameArea id="2458" name="网通一区明月婵心" line="1"/>
+		<GameArea id="2459" name="网通一区牡丹花城" line="1"/>
+		<GameArea id="2460" name="网通一区清风明月" line="1"/>
+		<GameArea id="2461" name="网通一区水泊梁山" line="1"/>
+		<GameArea id="2462" name="网通一区铁血丹心" line="1"/>
+		<GameArea id="2463" name="网通一区万里长城" line="1"/>
+		<GameArea id="2464" name="网通一区物华天宝" line="1"/>
+		<GameArea id="2465" name="网通一区笑傲江湖" line="1"/>
+		<GameArea id="2466" name="网通一区雪山飞狐" line="1"/>
+		<GameArea id="2467" name="网通一区雪照云光" line="1"/>
+		<GameArea id="2468" name="网通一区阳春白雪" line="1"/>
+		<GameArea id="2469" name="网通一区御剑飞仙" line="1"/>
+		<GameArea id="2470" name="网通一区逐鹿中原" line="1"/>
+		<GameArea id="2471" name="网通一区紫禁之颠" line="1"/>
+		<GameArea id="2472" name="网通一区紫气东来" line="1"/>
+		<GameArea id="2473" name="网通一区紫塞明珠" line="1"/>
+		<GameArea id="2474" name="网通二区八仙过海" line="1"/>
+		<GameArea id="2475" name="网通二区地久天长" line="1"/>
+		<GameArea id="2476" name="网通二区斗转星移" line="1"/>
+		<GameArea id="2477" name="网通二区飞马踏燕" line="1"/>
+		<GameArea id="2478" name="网通二区风起云涌" line="1"/>
+		<GameArea id="2479" name="网通二区风云化龙" line="1"/>
+		<GameArea id="2480" name="网通二区风云际会" line="1"/>
+		<GameArea id="2481" name="网通二区凤鸣九天" line="1"/>
+		<GameArea id="2482" name="网通二区海誓山盟" line="1"/>
+		<GameArea id="2483" name="网通二区皓月千里" line="1"/>
+		<GameArea id="2484" name="网通二区虎虎生威" line="1"/>
+		<GameArea id="2485" name="网通二区黄帝故里" line="1"/>
+		<GameArea id="2486" name="网通二区火凤朝阳" line="1"/>
+		<GameArea id="2487" name="网通二区金榜题名" line="1"/>
+		<GameArea id="2488" name="网通二区金风玉露" line="1"/>
+		<GameArea id="2489" name="网通二区雷动九天" line="1"/>
+		<GameArea id="2490" name="网通二区龙腾盛世" line="1"/>
+		<GameArea id="2491" name="网通二区倩女幽魂" line="1"/>
+		<GameArea id="2492" name="网通二区秋水长天" line="1"/>
+		<GameArea id="2493" name="网通二区瑞雪迎春" line="1"/>
+		<GameArea id="2494" name="网通二区天高气爽" line="1"/>
+		<GameArea id="2495" name="网通二区夏日清荷" line="1"/>
+		<GameArea id="2496" name="网通二区仙侣情缘" line="1"/>
+		<GameArea id="2497" name="网通二区星河漫卷" line="1"/>
+		<GameArea id="2498" name="网通二区玄武七星" line="1"/>
+		<GameArea id="2499" name="网通二区雪拥蓝关" line="1"/>
+		<GameArea id="2500" name="网通二区寻仙问道" line="1"/>
+		<GameArea id="2501" name="网通二区一剑惊天" line="1"/>
+		<GameArea id="2502" name="网通二区义薄云天" line="1"/>
+	</GameID>
+	<GameID id="18" name="天龙八部2">
+		<GameArea id="593" name="全国电信一区" line="0"/>
+		<GameArea id="594" name="东部电信" line="0"/>
+		<GameArea id="595" name="华东电信一区" line="0"/>
+		<GameArea id="596" name="华东电信二区" line="0"/>
+		<GameArea id="597" name="南部电信" line="0"/>
+		<GameArea id="598" name="华南电信一区" line="0"/>
+		<GameArea id="599" name="东部电信二区" line="0"/>
+		<GameArea id="600" name="中西部电信" line="0"/>
+		<GameArea id="601" name="华中电信一区" line="0"/>
+		<GameArea id="602" name="南部电信二区" line="0"/>
+		<GameArea id="603" name="西南电信一区" line="0"/>
+		<GameArea id="604" name="西北电信一区" line="0"/>
+		<GameArea id="605" name="网通全国一区" line="1"/>
+		<GameArea id="606" name="华北网通一区" line="1"/>
+		<GameArea id="607" name="华北网通二区" line="1"/>
+		<GameArea id="608" name="东北网通一区" line="1"/>
+		<GameArea id="609" name="华北网通二区" line="1"/>
+		<GameArea id="610" name="东北网通一区" line="1"/>
+		<GameArea id="611" name="移动宽带" line="2"/>
+		<GameArea id="612" name="网通专区" line="1"/>
+		<GameArea id="613" name="网通二区" line="1"/>
+	</GameID>
+	<GameID id="19" name="完美世界国际版">
+		<GameArea id="614" name="电信一区" line="0"/>
+		<GameArea id="615" name="电信二区" line="0"/>
+		<GameArea id="616" name="电信三区" line="0"/>
+		<GameArea id="617" name="电信四区" line="0"/>
+		<GameArea id="618" name="电信五区" line="0"/>
+		<GameArea id="619" name="电六+体验" line="2"/>
+		<GameArea id="620" name="网通一区" line="1"/>
+		<GameArea id="621" name="网通二区" line="1"/>
+		<GameArea id="622" name="新电信" line="0"/>
+		<GameArea id="623" name="新网通" line="1"/>
+	</GameID>
+	<GameID id="20" name="浩方电竞平台">
+		<GameArea id="624" name="全区" line="2"/>
+		<GameArea id="625" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="22" name="倩女幽魂Online">
+		<GameArea id="626" name="推荐专区" line="2"/>
+		<GameArea id="627" name="人间境（一区）" line="2"/>
+		<GameArea id="628" name="四海缘（二区）" line="2"/>
+		<GameArea id="629" name="三界河（三区）" line="2"/>
+		<GameArea id="630" name="神仙居（四区）" line="2"/>
+		<GameArea id="631" name="梦中梦（五区）" line="2"/>
+		<GameArea id="632" name="画中画（六区）" line="2"/>
+		<GameArea id="633" name="经典封测区" line="2"/>
+		<GameArea id="2334" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="23" name="诛仙2">
+		<GameArea id="634" name="电信一区" line="0"/>
+		<GameArea id="635" name="电信二区" line="0"/>
+		<GameArea id="636" name="电信三区" line="0"/>
+		<GameArea id="637" name="电信四区" line="0"/>
+		<GameArea id="638" name="电信五区" line="0"/>
+		<GameArea id="639" name="网通一区" line="1"/>
+		<GameArea id="640" name="网通二区" line="1"/>
+		<GameArea id="641" name="网通三区" line="1"/>
+		<GameArea id="642" name="新电信一区" line="0"/>
+		<GameArea id="643" name="新电信二区" line="0"/>
+		<GameArea id="644" name="新电信三区" line="0"/>
+		<GameArea id="645" name="新电信四区" line="0"/>
+		<GameArea id="646" name="新网通一区" line="1"/>
+		<GameArea id="647" name="新网通二区" line="1"/>
+		<GameArea id="648" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="24" name="泡泡战士">
+		<GameArea id="651" name="华东电信" line="0"/>
+		<GameArea id="3417" name="华南电信" line="0"/>
+		<GameArea id="3418" name="华北网通" line="1"/>
+		<GameArea id="3419" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="25" name="英雄联盟">
+		<GameArea id="654" name="艾欧尼亚电信一" line="0"/>
+		<GameArea id="2779" name="祖安电信二" line="0"/>
+		<GameArea id="2780" name="诺克萨斯电信三" line="0"/>
+		<GameArea id="2781" name="比尔吉沃特网通一" line="1"/>
+		<GameArea id="2782" name="德玛西亚" line="2"/>
+		<GameArea id="2783" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="26" name="征途2">
+		<GameArea id="657" name="电信区碧血丹心" line="0"/>
+		<GameArea id="2505" name="电信区碧血黄沙" line="0"/>
+		<GameArea id="2506" name="电信区风雨同舟" line="0"/>
+		<GameArea id="2507" name="电信区烽烟四起" line="0"/>
+		<GameArea id="2508" name="电信区凤舞九天" line="0"/>
+		<GameArea id="2509" name="电信区华山论剑" line="0"/>
+		<GameArea id="2510" name="电信区江湖风云" line="0"/>
+		<GameArea id="2511" name="电信区江山如画" line="0"/>
+		<GameArea id="2512" name="电信区锦绣河山" line="0"/>
+		<GameArea id="2513" name="电信区九霄风云" line="0"/>
+		<GameArea id="2514" name="电信区龙吟九州" line="0"/>
+		<GameArea id="2515" name="电信区明月天涯" line="0"/>
+		<GameArea id="2516" name="电信区缥缈凌云" line="0"/>
+		<GameArea id="2517" name="电信区气贯长虹" line="0"/>
+		<GameArea id="2518" name="电信区琴心剑胆" line="0"/>
+		<GameArea id="2519" name="电信区铁马冰河" line="0"/>
+		<GameArea id="2520" name="电信区卧虎藏龙" line="0"/>
+		<GameArea id="2521" name="电信区仙侣奇缘" line="0"/>
+		<GameArea id="2522" name="电信区笑傲江湖" line="0"/>
+		<GameArea id="2523" name="电信区携手同行（电信入口）" line="0"/>
+		<GameArea id="2524" name="电信区逐鹿中原" line="0"/>
+		<GameArea id="2525" name="电信区清风明月" line="0"/>
+		<GameArea id="2526" name="网通区傲视苍穹" line="1"/>
+		<GameArea id="2527" name="网通区碧海晴天" line="1"/>
+		<GameArea id="2528" name="网通区非诚勿扰" line="1"/>
+		<GameArea id="2529" name="网通区瀚海雄风" line="1"/>
+		<GameArea id="2530" name="网通区剑荡乾坤" line="1"/>
+		<GameArea id="2531" name="网通区剑舞春秋" line="1"/>
+		<GameArea id="2532" name="网通区金戈铁马" line="1"/>
+		<GameArea id="2533" name="网通区同舟共济" line="1"/>
+		<GameArea id="2534" name="网通区逍遥天下" line="1"/>
+		<GameArea id="2535" name="网通区携手同行（网通入口）" line="1"/>
+		<GameArea id="2536" name="网通区征战沙场" line="1"/>
+		<GameArea id="2537" name="网通区紫禁之巅" line="1"/>
+		<GameArea id="2538" name="网通区纵横四海" line="1"/>
+		<GameArea id="3178" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="27" name="三国杀">
+		<GameArea id="658" name="1区华东电信" line="0"/>
+		<GameArea id="659" name="2区全国网通" line="1"/>
+		<GameArea id="660" name="3区上海电信" line="0"/>
+		<GameArea id="661" name="4区华南电信" line="0"/>
+		<GameArea id="662" name="5区华中电信" line="0"/>
+		<GameArea id="663" name="6区全国网通" line="1"/>
+		<GameArea id="664" name="7区移动/铁通" line="2"/>
+		<GameArea id="665" name="8区全国双线" line="2"/>
+		<GameArea id="666" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="28" name="星际争霸2">
+		<GameArea id="667" name="国服" line="2"/>
+		<GameArea id="668" name="台服" line="2"/>
+		<GameArea id="669" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="29" name="老K游戏">
+		<GameArea id="670" name="深海狩猎" line="2"/>
+		<GameArea id="671" name="斗地主" line="2"/>
+		<GameArea id="672" name="梦红楼麻将" line="2"/>
+		<GameArea id="673" name="牛牛" line="2"/>
+		<GameArea id="674" name="连连看" line="2"/>
+		<GameArea id="675" name="字牌" line="2"/>
+		<GameArea id="676" name="桂柳麻将" line="2"/>
+		<GameArea id="677" name="漂亮金花" line="2"/>
+		<GameArea id="678" name="酒吧骰" line="2"/>
+		<GameArea id="679" name="五子棋" line="2"/>
+		<GameArea id="680" name="其他游戏" line="2"/>
+	</GameID>
+	<GameID id="30" name="龙神传说">
+		<GameArea id="681" name="网通一区" line="1"/>
+		<GameArea id="682" name="浙江特区" line="2"/>
+		<GameArea id="683" name="电信一区" line="0"/>
+		<GameArea id="684" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="31" name="捕鱼达人深海狩猎">
+		<GameArea id="685" name="所有大区" line="2"/>
+	</GameID>
+	<GameID id="32" name="寻仙">
+		<GameArea id="686" name="电信广东区" line="0"/>
+		<GameArea id="687" name="电信江苏区" line="0"/>
+		<GameArea id="688" name="电信上海区" line="0"/>
+		<GameArea id="689" name="电信西南区" line="0"/>
+		<GameArea id="690" name="电信浙江区" line="0"/>
+		<GameArea id="691" name="电信福建区" line="0"/>
+		<GameArea id="692" name="电信湖北区" line="0"/>
+		<GameArea id="693" name="电信四川区" line="0"/>
+		<GameArea id="694" name="电信西北区" line="0"/>
+		<GameArea id="695" name="电信安徽区" line="0"/>
+		<GameArea id="696" name="电信湖南区" line="0"/>
+		<GameArea id="697" name="电信广西区" line="0"/>
+		<GameArea id="698" name="电信江西区" line="0"/>
+		<GameArea id="699" name="电信华南区" line="0"/>
+		<GameArea id="700" name="电信华中区" line="0"/>
+		<GameArea id="701" name="电信华东区" line="0"/>
+		<GameArea id="702" name="网通北京区" line="1"/>
+		<GameArea id="703" name="网通华北区" line="1"/>
+		<GameArea id="704" name="网通东北区" line="1"/>
+		<GameArea id="705" name="网通河南区" line="1"/>
+		<GameArea id="706" name="网通山东区" line="1"/>
+		<GameArea id="707" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="33" name="SD敢达Online">
+		<GameArea id="708" name="阿纳海姆（华南电信）" line="0"/>
+		<GameArea id="709" name="弥赛亚（广东电信）" line="0"/>
+		<GameArea id="710" name="太阳之都（电信1）" line="0"/>
+		<GameArea id="711" name="阿克西斯（网通1）" line="1"/>
+		<GameArea id="712" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="34" name="彩虹岛">
+		<GameArea id="713" name="1区上海电信" line="0"/>
+		<GameArea id="714" name="2区网通专区" line="1"/>
+		<GameArea id="715" name="3区四川电信" line="0"/>
+		<GameArea id="716" name="4区西安电信" line="0"/>
+		<GameArea id="717" name="5区广东电信" line="0"/>
+		<GameArea id="718" name="6区武汉电信" line="0"/>
+		<GameArea id="719" name="7区四川电信二" line="0"/>
+		<GameArea id="720" name="8区南京电信" line="0"/>
+		<GameArea id="721" name="9区重庆电信" line="0"/>
+		<GameArea id="722" name="10区上海新浪" line="2"/>
+		<GameArea id="723" name="11区湖北电信" line="0"/>
+		<GameArea id="724" name="12区已合到9区" line="2"/>
+		<GameArea id="725" name="13区浙江移动" line="2"/>
+		<GameArea id="726" name="14区已合到4区" line="2"/>
+		<GameArea id="727" name="15区广州电信（新）" line="0"/>
+		<GameArea id="728" name="16区对外测试区" line="2"/>
+		<GameArea id="729" name="新世界（新）" line="2"/>
+		<GameArea id="2341" name="缘分天空" line="2"/>
+		<GameArea id="2342" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="35" name="传世群英传">
+		<GameArea id="730" name="盘古开天（1区全国电信）" line="0"/>
+		<GameArea id="731" name="花好月圆（13区全国电信）" line="0"/>
+		<GameArea id="732" name="群雄逐鹿（3区全国电信）" line="0"/>
+		<GameArea id="733" name="叱咤风云（5区全国电信）" line="0"/>
+		<GameArea id="734" name="凤舞神州（7区全国电信）" line="0"/>
+		<GameArea id="735" name="傲视苍穹（9区全国电信）" line="0"/>
+		<GameArea id="736" name="群英天下（10区全国电信）" line="0"/>
+		<GameArea id="737" name="金戈铁马（11区全国电信）" line="0"/>
+		<GameArea id="738" name="楚天争霸（湖北专区）" line="2"/>
+		<GameArea id="739" name="封闭测试电信区" line="0"/>
+		<GameArea id="740" name="跨服战场一（全国电信）" line="0"/>
+		<GameArea id="741" name="起点一区" line="2"/>
+		<GameArea id="742" name="普天同庆（14区全国网通）" line="1"/>
+		<GameArea id="743" name="雷霆万钧（2区全国网通）" line="1"/>
+		<GameArea id="744" name="傲视天下（4区全国网通）" line="1"/>
+		<GameArea id="745" name="龙腾九天（6区全国网通）" line="1"/>
+		<GameArea id="746" name="雄霸天下（8区全国网通" line="1"/>
+		<GameArea id="747" name="气吞山河（12区全国网通）" line="1"/>
+		<GameArea id="748" name="问鼎中华（华北专区）" line="2"/>
+		<GameArea id="749" name="封闭测试网通区" line="1"/>
+		<GameArea id="750" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="36" name="传奇归来">
+		<GameArea id="751" name="一区（电信）" line="0"/>
+		<GameArea id="752" name="二区（网通）" line="1"/>
+		<GameArea id="753" name="三区（电信）" line="0"/>
+		<GameArea id="754" name="四区（网通）" line="1"/>
+		<GameArea id="755" name="五区（电信）" line="0"/>
+		<GameArea id="756" name="六区（网通）" line="1"/>
+		<GameArea id="757" name="七区（电信）" line="0"/>
+		<GameArea id="758" name="八区（网通）" line="1"/>
+		<GameArea id="759" name="九区（电信）" line="0"/>
+		<GameArea id="760" name="十区（电信）" line="0"/>
+		<GameArea id="761" name="11区（网通）" line="1"/>
+		<GameArea id="762" name="12区（电信）" line="0"/>
+		<GameArea id="763" name="13区（电信）" line="0"/>
+		<GameArea id="764" name="14区（网通）" line="1"/>
+		<GameArea id="765" name="15区（电信）" line="0"/>
+		<GameArea id="766" name="16区（网通）" line="1"/>
+		<GameArea id="767" name="17区（电信）" line="0"/>
+		<GameArea id="768" name="18区（网通）" line="1"/>
+		<GameArea id="769" name="19区（电信）" line="0"/>
+		<GameArea id="770" name="20区（网通）" line="1"/>
+		<GameArea id="771" name="21区（电信）" line="0"/>
+		<GameArea id="772" name="体验专用服务器" line="2"/>
+		<GameArea id="773" name="刺客公测1区" line="2"/>
+		<GameArea id="774" name="刺客公测2区（网通）" line="2"/>
+		<GameArea id="775" name="传奇十年" line="2"/>
+		<GameArea id="3696" name="其他新区" line="2"/>
+	</GameID>
+	<GameID id="37" name="新传奇外传">
+		<GameArea id="776" name="新电信一区" line="0"/>
+		<GameArea id="777" name="新电信二区" line="0"/>
+		<GameArea id="778" name="新电信三区" line="0"/>
+		<GameArea id="779" name="新电信四区" line="0"/>
+		<GameArea id="780" name="新网通一区" line="1"/>
+		<GameArea id="781" name="新网通二区" line="1"/>
+		<GameArea id="782" name="新网通三区" line="1"/>
+		<GameArea id="783" name="新网通四区" line="1"/>
+		<GameArea id="784" name="内测区" line="2"/>
+		<GameArea id="785" name="活动服务器" line="2"/>
+		<GameArea id="786" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="38" name="传奇续章">
+		<GameArea id="787" name="贺岁区（电信）" line="0"/>
+		<GameArea id="788" name="贺岁区（网通）" line="1"/>
+		<GameArea id="789" name="玛法雄狮（一区电信）" line="0"/>
+		<GameArea id="790" name="热血战歌（二区网通）" line="1"/>
+		<GameArea id="791" name="黄金时代（三区电信）" line="0"/>
+		<GameArea id="792" name="招财进宝（四区网通）" line="1"/>
+		<GameArea id="793" name="天王生本（五区电信）" line="0"/>
+		<GameArea id="794" name="行会争霸（六区）" line="2"/>
+		<GameArea id="795" name="狼烟梦境（七区电信）" line="0"/>
+		<GameArea id="796" name="华山论剑（八区）" line="2"/>
+		<GameArea id="797" name="大展鸿图（九区）" line="2"/>
+		<GameArea id="798" name="霸者雄风（十区）" line="2"/>
+		<GameArea id="799" name="倾城之恋（十一区）" line="2"/>
+		<GameArea id="800" name="活动专用服务器" line="2"/>
+		<GameArea id="801" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="39" name="剑侠世界">
+		<GameArea id="802" name="如意区（网通）" line="1"/>
+		<GameArea id="803" name="吉祥区（电信）" line="0"/>
+		<GameArea id="804" name="金麟区（电信）" line="0"/>
+		<GameArea id="805" name="北斗区（电信）" line="0"/>
+		<GameArea id="806" name="紫薇区（网通）" line="1"/>
+		<GameArea id="807" name="玄武区（电信）" line="0"/>
+		<GameArea id="808" name="朱雀区（电信）" line="0"/>
+		<GameArea id="809" name="白虎区（网通）" line="1"/>
+		<GameArea id="810" name="青龙区（电信）" line="0"/>
+		<GameArea id="811" name="金牌联赛" line="2"/>
+		<GameArea id="812" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="40" name="劲舞团">
+		<GameArea id="813" name="西南一区(全国同城)" line="2"/>
+		<GameArea id="814" name="江苏浪淘沙（江苏二区）" line="2"/>
+		<GameArea id="815" name="陕西二红树林(陕西二区)" line="2"/>
+		<GameArea id="816" name="广东BOPOMO(广东二区)" line="2"/>
+		<GameArea id="817" name="全国电信(华中天空电信)" line="0"/>
+		<GameArea id="818" name="福建(电信)" line="0"/>
+		<GameArea id="819" name="华东一区(安徽电信)" line="0"/>
+		<GameArea id="820" name="新疆甘肃（特区）" line="2"/>
+		<GameArea id="821" name="湖南(久连)" line="2"/>
+		<GameArea id="822" name="四川天府(渝都靓影)" line="2"/>
+		<GameArea id="823" name="湖北(胜天易游)" line="2"/>
+		<GameArea id="824" name="西南二区(华中一区)" line="2"/>
+		<GameArea id="825" name="华南一区(华南三区)" line="2"/>
+		<GameArea id="826" name="西南三区(浪漫满屋)" line="2"/>
+		<GameArea id="827" name="西北一区(俊男靓女)" line="2"/>
+		<GameArea id="828" name="华东三区(时尚派对)" line="2"/>
+		<GameArea id="829" name="西南二区(缘分天空)" line="2"/>
+		<GameArea id="830" name="浙江华数" line="2"/>
+		<GameArea id="831" name="华南二区(电信)" line="0"/>
+		<GameArea id="832" name="江西名智" line="2"/>
+		<GameArea id="833" name="江苏浪淘沙" line="2"/>
+		<GameArea id="834" name="华东(绿色数码)" line="2"/>
+		<GameArea id="835" name="陕西（红树林西北)" line="2"/>
+		<GameArea id="836" name="广东BOPOMO" line="2"/>
+		<GameArea id="837" name="四川（天府热线)" line="2"/>
+		<GameArea id="838" name="华东一区(电信)" line="0"/>
+		<GameArea id="839" name="华东二区(电信)" line="0"/>
+		<GameArea id="840" name="西南一区(电信)" line="0"/>
+		<GameArea id="841" name="大华北(宠爱一生)" line="2"/>
+		<GameArea id="842" name="华北一区(劲舞友情)" line="2"/>
+		<GameArea id="843" name="河北网通(华北3G)" line="1"/>
+		<GameArea id="844" name="全国网通（劲舞秀场）" line="1"/>
+		<GameArea id="845" name="全国网通(华东网通)" line="1"/>
+		<GameArea id="846" name="河北（网通）" line="1"/>
+		<GameArea id="847" name="华中(天空SKY)" line="2"/>
+		<GameArea id="848" name="山东(万佳网络)" line="2"/>
+		<GameArea id="849" name="华北2区(浓情蜜意)" line="2"/>
+		<GameArea id="850" name="华北一区(网通)" line="1"/>
+		<GameArea id="851" name="黑龙江(辽河缘)" line="2"/>
+		<GameArea id="852" name="黑龙江(网通东北)" line="1"/>
+		<GameArea id="853" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="41" name="梦幻西游">
+		<GameArea id="854" name="安徽1区" line="2"/>
+		<GameArea id="855" name="安徽2区" line="2"/>
+		<GameArea id="856" name="北京1区" line="2"/>
+		<GameArea id="857" name="北京2区" line="2"/>
+		<GameArea id="858" name="测试区" line="2"/>
+		<GameArea id="859" name="福建1区" line="2"/>
+		<GameArea id="860" name="福建2区" line="2"/>
+		<GameArea id="861" name="广东1区" line="2"/>
+		<GameArea id="862" name="广东2区" line="2"/>
+		<GameArea id="863" name="广东3区" line="2"/>
+		<GameArea id="864" name="广东4区" line="2"/>
+		<GameArea id="865" name="广西1区" line="2"/>
+		<GameArea id="866" name="广西2区" line="2"/>
+		<GameArea id="867" name="贵州区" line="2"/>
+		<GameArea id="868" name="河北1区" line="2"/>
+		<GameArea id="869" name="河北2区" line="2"/>
+		<GameArea id="870" name="河北3区" line="2"/>
+		<GameArea id="871" name="河南1区" line="2"/>
+		<GameArea id="872" name="河南2区" line="2"/>
+		<GameArea id="873" name="河南3区" line="2"/>
+		<GameArea id="874" name="黑龙江区" line="2"/>
+		<GameArea id="875" name="湖北1区" line="2"/>
+		<GameArea id="876" name="湖北2区" line="2"/>
+		<GameArea id="877" name="湖南区" line="2"/>
+		<GameArea id="878" name="华北区" line="2"/>
+		<GameArea id="879" name="华南区" line="2"/>
+		<GameArea id="880" name="活动专区" line="2"/>
+		<GameArea id="881" name="吉林区" line="2"/>
+		<GameArea id="882" name="江苏1区" line="2"/>
+		<GameArea id="883" name="江苏2区" line="2"/>
+		<GameArea id="884" name="江苏3区" line="2"/>
+		<GameArea id="885" name="江西区" line="2"/>
+		<GameArea id="886" name="辽宁1区" line="2"/>
+		<GameArea id="887" name="辽宁2区" line="2"/>
+		<GameArea id="888" name="内蒙区" line="2"/>
+		<GameArea id="889" name="山东1区" line="2"/>
+		<GameArea id="890" name="山东2区" line="2"/>
+		<GameArea id="891" name="山东3区" line="2"/>
+		<GameArea id="892" name="山东4区" line="2"/>
+		<GameArea id="893" name="山东5区" line="2"/>
+		<GameArea id="894" name="山西区" line="2"/>
+		<GameArea id="895" name="陕西区" line="2"/>
+		<GameArea id="896" name="上海1区" line="2"/>
+		<GameArea id="897" name="上海2区" line="2"/>
+		<GameArea id="898" name="深圳1区" line="2"/>
+		<GameArea id="899" name="深圳2区" line="2"/>
+		<GameArea id="900" name="四川1区" line="2"/>
+		<GameArea id="901" name="四川2区" line="2"/>
+		<GameArea id="902" name="天津区" line="2"/>
+		<GameArea id="903" name="推荐区" line="2"/>
+		<GameArea id="904" name="西北区" line="2"/>
+		<GameArea id="905" name="月光宝盒" line="2"/>
+		<GameArea id="906" name="云南区" line="2"/>
+		<GameArea id="907" name="浙江1区" line="2"/>
+		<GameArea id="908" name="浙江2区" line="2"/>
+		<GameArea id="909" name="浙江3区" line="2"/>
+		<GameArea id="910" name="浙江4区" line="2"/>
+		<GameArea id="911" name="重庆区" line="2"/>
+		<GameArea id="912" name="追忆" line="2"/>
+		<GameArea id="913" name="无与伦比" line="2"/>
+		<GameArea id="914" name="帮派联赛" line="2"/>
+		<GameArea id="915" name="海外专区" line="2"/>
+		<GameArea id="916" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="42" name="蜀门">
+		<GameArea id="917" name="电信一区" line="0"/>
+		<GameArea id="918" name="电信二区" line="0"/>
+		<GameArea id="919" name="电信三区" line="0"/>
+		<GameArea id="920" name="电信四区" line="0"/>
+		<GameArea id="921" name="电信五区" line="0"/>
+		<GameArea id="922" name="电信六区" line="0"/>
+		<GameArea id="923" name="电信七区" line="0"/>
+		<GameArea id="924" name="电信八区" line="0"/>
+		<GameArea id="925" name="电信九区" line="0"/>
+		<GameArea id="926" name="电信十区" line="0"/>
+		<GameArea id="927" name="广东电信专区" line="0"/>
+		<GameArea id="928" name="重庆电信专区" line="0"/>
+		<GameArea id="929" name="网通一区" line="1"/>
+		<GameArea id="930" name="网通二区" line="1"/>
+		<GameArea id="931" name="网通三区" line="1"/>
+		<GameArea id="932" name="网通四区" line="1"/>
+		<GameArea id="933" name="网通五区" line="1"/>
+		<GameArea id="934" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="43" name="武林外传">
+		<GameArea id="935" name="电信一区" line="0"/>
+		<GameArea id="936" name="电信二区" line="0"/>
+		<GameArea id="937" name="电信三区" line="0"/>
+		<GameArea id="938" name="电信四区" line="0"/>
+		<GameArea id="939" name="网通一区" line="1"/>
+		<GameArea id="940" name="网通二区" line="1"/>
+		<GameArea id="941" name="网通三区" line="1"/>
+		<GameArea id="942" name="体验活动区" line="2"/>
+		<GameArea id="943" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="44" name="征途">
+		<GameArea id="944" name="电信区" line="0"/>
+		<GameArea id="945" name="网通区" line="1"/>
+		<GameArea id="946" name="新世界" line="2"/>
+		<GameArea id="947" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="45" name="传奇3">
+		<GameArea id="949" name="精英测试一区(电信)" line="0"/>
+		<GameArea id="2607" name="精英测试二区(双线)" line="2"/>
+		<GameArea id="2608" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="46" name="新英雄年代">
+		<GameArea id="950" name="官方最新区[新]乱世枭雄(光芒新区)电信" line="0"/>
+		<GameArea id="951" name="电信傲视风云" line="0"/>
+		<GameArea id="952" name="电信百川入海(烈焰新区)(电信)" line="0"/>
+		<GameArea id="953" name="电信封闭测试区" line="0"/>
+		<GameArea id="954" name="电信叱咤山河(雷霆区)" line="0"/>
+		<GameArea id="955" name="电信帝王霸业(烈焰新区)(电信)" line="0"/>
+		<GameArea id="956" name="电信撼天动地(烈焰新区)(电信)" line="0"/>
+		<GameArea id="957" name="电信剑舞江南(烈焰新区)(电信)" line="0"/>
+		<GameArea id="958" name="电信金戈铁骑" line="0"/>
+		<GameArea id="959" name="电信九州盖日(龙吟九州+遮天盖日)" line="0"/>
+		<GameArea id="960" name="电信乱世枭雄(光芒新区)(电信)" line="0"/>
+		<GameArea id="961" name="电信气贯长虹(烈焰新区)(电信)" line="0"/>
+		<GameArea id="962" name="电信圣域风云(风云剑侠+圣域帝国)" line="0"/>
+		<GameArea id="963" name="电信盛世神话(盛世天下+不灭神话)" line="0"/>
+		<GameArea id="964" name="电信天下争锋(一世争锋+龙霸天下)" line="0"/>
+		<GameArea id="965" name="电信铁甲豪情" line="0"/>
+		<GameArea id="966" name="电信万马独尊(万马独尊+雄霸天下)" line="0"/>
+		<GameArea id="967" name="电信王者争锋(王者江湖)(烈焰区)" line="0"/>
+		<GameArea id="968" name="电信雄霸湖广" line="0"/>
+		<GameArea id="969" name="电信英雄归来" line="0"/>
+		<GameArea id="970" name="电信纵横吴越" line="0"/>
+		<GameArea id="971" name="网通风云天地(毁天灭地+蟠天际地+玄武风云)" line="1"/>
+		<GameArea id="972" name="网通虎踞龙蟠" line="1"/>
+		<GameArea id="973" name="网通四海天涯(勇者天涯+东方四海)" line="1"/>
+		<GameArea id="974" name="网通合区" line="1"/>
+		<GameArea id="975" name="网通雪域争霸" line="1"/>
+		<GameArea id="976" name="网通雁南远征(烈焰新区)" line="1"/>
+		<GameArea id="977" name="网通浴血排山(排山倒海+浴血争霸)(烈焰区)" line="1"/>
+		<GameArea id="978" name="网通壮志豪杰(齐鲁豪杰)" line="1"/>
+		<GameArea id="979" name="合作区大漠豪情(烈焰新区)" line="2"/>
+		<GameArea id="980" name="合作区华北英雄(烈焰新区)(网通)" line="1"/>
+		<GameArea id="981" name="合作区万马独尊(万马独尊+雄霸天下)(烈焰区)" line="2"/>
+		<GameArea id="982" name="合作区西域雄风" line="2"/>
+		<GameArea id="983" name="合作区遮天盖日(王者之战)" line="2"/>
+		<GameArea id="984" name="合作区壮志江湖" line="2"/>
+		<GameArea id="985" name="跨服战1（电信）" line="0"/>
+		<GameArea id="986" name="跨服战1（网通）" line="1"/>
+		<GameArea id="987" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="47" name="成吉思汗2盛大版">
+		<GameArea id="988" name="盛大专区龙腾虎跃" line="2"/>
+		<GameArea id="989" name="盛大专区盛世辉煌" line="2"/>
+		<GameArea id="990" name="盛大专区前程似锦" line="2"/>
+		<GameArea id="991" name="盛大专区虎啸龙吟" line="2"/>
+		<GameArea id="992" name="盛大专区天外飞仙" line="2"/>
+		<GameArea id="993" name="盛大专区大漠飞鹰" line="2"/>
+		<GameArea id="994" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="48" name="QQ华夏">
+		<GameArea id="995" name="电信一区（华南）" line="0"/>
+		<GameArea id="996" name="电信二区（华东）" line="0"/>
+		<GameArea id="997" name="网通三区（北方）" line="1"/>
+		<GameArea id="998" name="电信四区（西部）" line="0"/>
+		<GameArea id="999" name="网通五区（东北）" line="1"/>
+		<GameArea id="1000" name="电信六区（华中）" line="0"/>
+		<GameArea id="1001" name="电信七区（华南）" line="0"/>
+		<GameArea id="1002" name="电信八区（华东）" line="0"/>
+		<GameArea id="1003" name="网通九区（北方）" line="1"/>
+		<GameArea id="1004" name="电信十区（华南）" line="0"/>
+		<GameArea id="1005" name="电信十一区（华南）" line="0"/>
+		<GameArea id="1006" name="电信十二区（华东）" line="0"/>
+		<GameArea id="1007" name="电信十三区（华南）" line="0"/>
+		<GameArea id="1008" name="网通十五区（北方）" line="1"/>
+		<GameArea id="1009" name="电信十六区（华南）" line="0"/>
+		<GameArea id="1010" name="网通十七区（华东）" line="1"/>
+		<GameArea id="1011" name="网通十八区（北方）" line="1"/>
+		<GameArea id="1012" name="电信十九区（华南）" line="0"/>
+		<GameArea id="1013" name="电信二十区（华南）" line="0"/>
+		<GameArea id="1014" name="电信二十一区（华东）" line="0"/>
+		<GameArea id="1015" name="网通二十二区（北方）" line="1"/>
+		<GameArea id="1016" name="电信二十三区（华南）" line="0"/>
+		<GameArea id="1017" name="电信二十四区（华南）" line="0"/>
+		<GameArea id="1018" name="电信二十五区（华东）" line="0"/>
+		<GameArea id="1019" name="电信二十六区（华南）" line="0"/>
+		<GameArea id="1020" name="网通二十七区（北方）" line="1"/>
+		<GameArea id="1021" name="移动二十八区" line="2"/>
+		<GameArea id="1022" name="电信二十九区（华南）" line="0"/>
+		<GameArea id="1023" name="电信三十区（华东）" line="0"/>
+		<GameArea id="1024" name="网通三十二区（北方）" line="1"/>
+		<GameArea id="1025" name="电信三十三区（华南）" line="0"/>
+		<GameArea id="1026" name="电信三十四区（华东）" line="0"/>
+		<GameArea id="1027" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="49" name="VS电竞平台">
+		<GameArea id="1028" name="全区" line="2"/>
+		<GameArea id="1029" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="50" name="英雄年代2">
+		<GameArea id="1030" name="黄鹤楼湖北专区" line="2"/>
+		<GameArea id="1031" name="疾风破月（电信）开发性内测区" line="0"/>
+		<GameArea id="1032" name="威震天下（电信）开发性内测区" line="0"/>
+		<GameArea id="1033" name="冲锋陷阵（电信）开发性内测区" line="0"/>
+		<GameArea id="1034" name="五星烈焰（电信）开发性内测区" line="0"/>
+		<GameArea id="1035" name="雷电之翼（网通）开发性内测区" line="1"/>
+		<GameArea id="1036" name="不删档恒测服（电信）" line="0"/>
+		<GameArea id="1037" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="51" name="QQ堂">
+		<GameArea id="1038" name="北部网通" line="1"/>
+		<GameArea id="1039" name="东部电信" line="0"/>
+		<GameArea id="1040" name="西部电信" line="0"/>
+		<GameArea id="1041" name="南部电信" line="0"/>
+		<GameArea id="1042" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="52" name="QQ音速">
+		<GameArea id="1043" name="西北电信一区" line="0"/>
+		<GameArea id="1044" name="华东电信一区" line="0"/>
+		<GameArea id="1045" name="上海电信" line="0"/>
+		<GameArea id="1046" name="广东电信" line="0"/>
+		<GameArea id="1047" name="西南电信一区" line="0"/>
+		<GameArea id="1048" name="华中电信一区" line="0"/>
+		<GameArea id="1049" name="广东电信二区" line="0"/>
+		<GameArea id="1050" name="东北网通一区" line="1"/>
+		<GameArea id="1051" name="华北网通一区" line="1"/>
+		<GameArea id="1052" name="挚爱永恒网通" line="1"/>
+		<GameArea id="1053" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="53" name="大明龙权">
+		<GameArea id="1054" name="百花谷+滕王阁（电信）" line="0"/>
+		<GameArea id="1055" name="大理城+九寨沟（电信）" line="0"/>
+		<GameArea id="1056" name="洞庭湖+烟雨楼（电信）" line="0"/>
+		<GameArea id="1057" name="断剑崖（电信）" line="0"/>
+		<GameArea id="1058" name="秦淮河+白云山（电信）" line="0"/>
+		<GameArea id="1059" name="上海滩+丹霞山（电信）" line="0"/>
+		<GameArea id="1060" name="桃花岛+莫愁湖（电信）" line="0"/>
+		<GameArea id="1061" name="望江楼（电信）" line="0"/>
+		<GameArea id="1062" name="无量山（电信）" line="0"/>
+		<GameArea id="1063" name="武夷山+阳澄湖（电信）" line="0"/>
+		<GameArea id="1064" name="状元坊+宝芝林（电信）" line="0"/>
+		<GameArea id="1065" name="白马寺+昆仑山（网通）" line="1"/>
+		<GameArea id="1066" name="长白山+松花江（网通）" line="1"/>
+		<GameArea id="1067" name="大明湖+北戴河（网通）" line="1"/>
+		<GameArea id="1068" name="绝情谷（网通）" line="1"/>
+		<GameArea id="1069" name="蓬莱阁+八达岭（网通）" line="1"/>
+		<GameArea id="1070" name="缥缈峰（网通）" line="1"/>
+		<GameArea id="1071" name="紫禁城（网通）" line="1"/>
+		<GameArea id="1072" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="54" name="绿色征途-腾讯版">
+		<GameArea id="1073" name="凤凰一区（合）（电信）" line="0"/>
+		<GameArea id="1074" name="凤凰八区（电信）" line="0"/>
+		<GameArea id="1075" name="凤凰九区（电信）" line="0"/>
+		<GameArea id="1076" name="凤凰六区（电信）" line="0"/>
+		<GameArea id="1077" name="凤凰七区（电信）" line="0"/>
+		<GameArea id="1078" name="凤凰四区（电信）" line="0"/>
+		<GameArea id="1079" name="蛟龙一区（合）（网通）" line="1"/>
+		<GameArea id="1080" name="蛟龙八区（网通）" line="1"/>
+		<GameArea id="1081" name="蛟龙九区（网通）" line="1"/>
+		<GameArea id="1082" name="蛟龙六区（网通）" line="1"/>
+		<GameArea id="1083" name="蛟龙七区（网通）" line="1"/>
+		<GameArea id="1084" name="蛟龙四区（网通）" line="1"/>
+		<GameArea id="1085" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="55" name="盟区">
+		<GameArea id="1086" name="电信一区" line="0"/>
+		<GameArea id="1087" name="全服" line="2"/>
+		<GameArea id="1088" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="56" name="酷派天空">
+		<GameArea id="1089" name="全服" line="2"/>
+		<GameArea id="1090" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="57" name="战地之王">
+		<GameArea id="1091" name="西南电信一区" line="0"/>
+		<GameArea id="1092" name="华东电信一区" line="0"/>
+		<GameArea id="1093" name="华南电信一区" line="0"/>
+		<GameArea id="1094" name="东北网通一区" line="1"/>
+		<GameArea id="1095" name="华北网通一区" line="1"/>
+		<GameArea id="1096" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="58" name="QQ幻想世界">
+		<GameArea id="1097" name="广东1区(电信)" line="0"/>
+		<GameArea id="1098" name="浙江1区(电信)" line="0"/>
+		<GameArea id="1099" name="华南电信" line="0"/>
+		<GameArea id="1100" name="华中电信" line="0"/>
+		<GameArea id="1101" name="江苏1区(电信)" line="0"/>
+		<GameArea id="1102" name="上海1区(电信)" line="0"/>
+		<GameArea id="1103" name="西部电信" line="0"/>
+		<GameArea id="1104" name="南方1区(电信)" line="0"/>
+		<GameArea id="1105" name="南方2区(电信)" line="0"/>
+		<GameArea id="1106" name="南方3区(电信)" line="0"/>
+		<GameArea id="1107" name="体验服(电信)" line="0"/>
+		<GameArea id="1108" name="东北1区(网通)" line="1"/>
+		<GameArea id="1109" name="北方1区(网通)" line="1"/>
+		<GameArea id="1110" name="网通1区" line="1"/>
+		<GameArea id="1111" name="网通2区" line="1"/>
+		<GameArea id="1112" name="网通3区" line="1"/>
+		<GameArea id="2676" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="59" name="QQ西游">
+		<GameArea id="1113" name="傲来国(电信)" line="0"/>
+		<GameArea id="1114" name="伏龙寺(电信)" line="0"/>
+		<GameArea id="1115" name="黑风山(电信)" line="0"/>
+		<GameArea id="1116" name="化龙池(电信)" line="0"/>
+		<GameArea id="1117" name="火焰山(电信)" line="0"/>
+		<GameArea id="1118" name="火云洞(电信)" line="0"/>
+		<GameArea id="1119" name="枯松涧(电信)" line="0"/>
+		<GameArea id="1120" name="落伽山(电信)" line="0"/>
+		<GameArea id="1121" name="南天门(电信)" line="0"/>
+		<GameArea id="1122" name="盘丝岭(电信)" line="0"/>
+		<GameArea id="1123" name="琵琶洞(电信)" line="0"/>
+		<GameArea id="1124" name="麒麟山(电信)" line="0"/>
+		<GameArea id="1125" name="千花洞(电信)" line="0"/>
+		<GameArea id="1126" name="青龙山(电信)" line="0"/>
+		<GameArea id="1127" name="晒经石(电信)" line="0"/>
+		<GameArea id="1128" name="狮驼岭(电信)" line="0"/>
+		<GameArea id="1129" name="双叉岭(电信)" line="0"/>
+		<GameArea id="1130" name="通天河(电信)" line="0"/>
+		<GameArea id="1131" name="须弥山(电信)" line="0"/>
+		<GameArea id="1132" name="焰空山(电信)" line="0"/>
+		<GameArea id="1133" name="鹰愁涧(电信)" line="0"/>
+		<GameArea id="1134" name="紫云山(电信)" line="0"/>
+		<GameArea id="1135" name="飞龙殿(电信)" line="0"/>
+		<GameArea id="1136" name="玉女峰(电信)" line="0"/>
+		<GameArea id="1137" name="天王殿(电信)" line="0"/>
+		<GameArea id="1138" name="太极殿(电信)" line="0"/>
+		<GameArea id="1139" name="紫金殿(电信)" line="0"/>
+		<GameArea id="1140" name="栖凤谷(电信)" line="0"/>
+		<GameArea id="1141" name="九龙壁(电信)" line="0"/>
+		<GameArea id="1142" name="奔雷山(电信)" line="0"/>
+		<GameArea id="1143" name="卧龙谷(电信)" line="0"/>
+		<GameArea id="1144" name="铸剑谷(电信)" line="0"/>
+		<GameArea id="1145" name="宣武门(电信)" line="0"/>
+		<GameArea id="1146" name="落樱谷(电信)" line="0"/>
+		<GameArea id="1147" name="朱紫国(电信)" line="0"/>
+		<GameArea id="1148" name="长安城(电信)" line="0"/>
+		<GameArea id="1149" name="白骨山(电信)" line="0"/>
+		<GameArea id="1150" name="缥缈峰(电信)" line="0"/>
+		<GameArea id="1151" name="玉门关(电信)" line="0"/>
+		<GameArea id="1152" name="广寒宫(电信)" line="0"/>
+		<GameArea id="1153" name="龙虎台(电信)" line="0"/>
+		<GameArea id="1154" name="白虎岭(网通)" line="1"/>
+		<GameArea id="1155" name="九重天(网通)" line="1"/>
+		<GameArea id="1156" name="两界山(网通)" line="1"/>
+		<GameArea id="1157" name="凌霄殿(网通)" line="1"/>
+		<GameArea id="1158" name="女儿国(网通)" line="1"/>
+		<GameArea id="1159" name="水晶宫(网通)" line="1"/>
+		<GameArea id="1160" name="望经楼(网通)" line="1"/>
+		<GameArea id="1161" name="五指山(网通)" line="1"/>
+		<GameArea id="1162" name="五庄观(网通)" line="1"/>
+		<GameArea id="1163" name="隐雾山(网通)" line="1"/>
+		<GameArea id="1164" name="紫竹林(网通)" line="1"/>
+		<GameArea id="1165" name="凤凰山(网通)" line="1"/>
+		<GameArea id="1166" name="紫禁城(网通)" line="1"/>
+		<GameArea id="1167" name="锁妖塔(网通)" line="1"/>
+		<GameArea id="1168" name="摩天崖(网通)" line="1"/>
+		<GameArea id="1169" name="封禅台(网通)" line="1"/>
+		<GameArea id="1170" name="昆仑山(网通)" line="1"/>
+		<GameArea id="1171" name="斩仙台(网通)" line="1"/>
+		<GameArea id="1172" name="蓬莱岛(网通)" line="1"/>
+		<GameArea id="1173" name="蟠桃园(网通)" line="1"/>
+		<GameArea id="1174" name="揽星台(网通)" line="1"/>
+		<GameArea id="1175" name="忘情崖(网通)" line="1"/>
+		<GameArea id="1176" name="归来峰(网通)" line="1"/>
+		<GameArea id="1177" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="60" name="QQ三国">
+		<GameArea id="1178" name="问鼎（网通）" line="1"/>
+		<GameArea id="1179" name="逐鹿（电信）" line="0"/>
+		<GameArea id="1180" name="上海（电信）" line="0"/>
+		<GameArea id="1181" name="广东（电信）" line="0"/>
+		<GameArea id="1182" name="华北（网通）" line="1"/>
+		<GameArea id="1183" name="浙江（电信）" line="0"/>
+		<GameArea id="1184" name="湖北（电信）" line="0"/>
+		<GameArea id="1185" name="江苏（电信）" line="0"/>
+		<GameArea id="1186" name="东北（网通）" line="1"/>
+		<GameArea id="1187" name="四川（电信）" line="0"/>
+		<GameArea id="1188" name="湖南（电信）" line="0"/>
+		<GameArea id="1189" name="福建（电信）" line="0"/>
+		<GameArea id="1190" name="深圳（电信）" line="0"/>
+		<GameArea id="1191" name="江西（电信）" line="0"/>
+		<GameArea id="1192" name="河北（网通）" line="1"/>
+		<GameArea id="1193" name="山东（网通）" line="1"/>
+		<GameArea id="1194" name="华东（电信）" line="0"/>
+		<GameArea id="2675" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="61" name="巨人时空争霸">
+		<GameArea id="1195" name="阿里云海（电信区）" line="0"/>
+		<GameArea id="1196" name="叱咤九州（电信区）" line="0"/>
+		<GameArea id="1197" name="帝国霸者（电信区）" line="0"/>
+		<GameArea id="1198" name="高歌猛进（电信区）" line="0"/>
+		<GameArea id="1199" name="龙行天下（电信区）" line="0"/>
+		<GameArea id="1200" name="时空争雄（电信区）" line="0"/>
+		<GameArea id="1201" name="战地雄师（电信区）" line="0"/>
+		<GameArea id="1202" name="战火燎原（电信区）" line="0"/>
+		<GameArea id="1203" name="争锋天下（电信区）" line="0"/>
+		<GameArea id="1204" name="烽鼓不息（网通区）" line="1"/>
+		<GameArea id="1205" name="乱世英豪（网通区）" line="1"/>
+		<GameArea id="1206" name="气吞山河（网通区）" line="1"/>
+		<GameArea id="1207" name="群英争雄（网通区）" line="1"/>
+		<GameArea id="1208" name="胜者为王（网通区）" line="1"/>
+		<GameArea id="1209" name="星云勇士（网通区）" line="1"/>
+		<GameArea id="1210" name="霸王雄心(电信入口)" line="0"/>
+		<GameArea id="1211" name="霸王雄心(网通入口)" line="1"/>
+		<GameArea id="1212" name="风云争霸(电信入口)" line="0"/>
+		<GameArea id="1213" name="风云争霸(网通入口)" line="1"/>
+		<GameArea id="1214" name="雷动苍穹(电信入口)" line="0"/>
+		<GameArea id="1215" name="雷动苍穹(网通入口)" line="1"/>
+		<GameArea id="1216" name="世外桃源(封测区-跨区英雄会专用电信入口)" line="0"/>
+		<GameArea id="1217" name="世外桃源(封测区-跨区英雄会专用网通入口)" line="1"/>
+		<GameArea id="1218" name="铁马风云(电信入口)" line="0"/>
+		<GameArea id="1219" name="铁马风云(网通入口)" line="1"/>
+		<GameArea id="1220" name="腥风血雨(电信入口)" line="0"/>
+		<GameArea id="1221" name="腥风血雨(网通入口)" line="1"/>
+		<GameArea id="1222" name="英雄世界(电信入口)" line="0"/>
+		<GameArea id="1223" name="英雄世界(网通入口)" line="1"/>
+		<GameArea id="1224" name="征战九州(电信入口)" line="0"/>
+		<GameArea id="1225" name="征战九州(网通入口)" line="1"/>
+		<GameArea id="1226" name="逐鹿天下(电信入口)" line="0"/>
+		<GameArea id="1227" name="逐鹿天下(网通入口)" line="1"/>
+		<GameArea id="1228" name="纵横疆场(电信入口)" line="0"/>
+		<GameArea id="1229" name="纵横疆场(网通入口)" line="1"/>
+		<GameArea id="2674" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="62" name="神魔大陆">
+		<GameArea id="1230" name="电信一区（东部）" line="0"/>
+		<GameArea id="1231" name="电信一区（西部）" line="0"/>
+		<GameArea id="1232" name="网通一区" line="1"/>
+		<GameArea id="2673" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="63" name="完美世界">
+		<GameArea id="1233" name="华东区" line="2"/>
+		<GameArea id="1234" name="华北区" line="2"/>
+		<GameArea id="1235" name="华中区" line="2"/>
+		<GameArea id="1236" name="东北区" line="2"/>
+		<GameArea id="1237" name="华南区" line="2"/>
+		<GameArea id="1238" name="西南区" line="2"/>
+		<GameArea id="1239" name="西北区" line="2"/>
+		<GameArea id="1240" name="校园网" line="2"/>
+		<GameArea id="1241" name="新电信" line="0"/>
+		<GameArea id="1242" name="新网通" line="1"/>
+		<GameArea id="2672" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="64" name="新奇迹世界">
+		<GameArea id="1243" name="新电信一区" line="0"/>
+		<GameArea id="1244" name="新电信二区" line="0"/>
+		<GameArea id="1245" name="新电信三区" line="0"/>
+		<GameArea id="1246" name="新电信四区" line="0"/>
+		<GameArea id="1247" name="新电信五区" line="0"/>
+		<GameArea id="1248" name="新电信六区" line="0"/>
+		<GameArea id="1249" name="新电信七区" line="0"/>
+		<GameArea id="1250" name="新电信八区" line="0"/>
+		<GameArea id="1251" name="新网通一区" line="1"/>
+		<GameArea id="1252" name="特林格战区" line="2"/>
+		<GameArea id="1253" name="新卓越战区" line="2"/>
+		<GameArea id="1254" name="伊瑟琳战区" line="2"/>
+		<GameArea id="2671" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="65" name="星尘传说">
+		<GameArea id="1255" name="（觉醒之翼1区）电信" line="0"/>
+		<GameArea id="1256" name="（觉醒之翼2区）网通" line="1"/>
+		<GameArea id="1257" name="（星空1区）电信" line="0"/>
+		<GameArea id="1258" name="（星空2区）网通" line="1"/>
+		<GameArea id="2670" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="66" name="天朝">
+		<GameArea id="1259" name="白虹贯日（电信）" line="0"/>
+		<GameArea id="1260" name="表里山河（电信）" line="0"/>
+		<GameArea id="1261" name="兵车之会（电信）" line="0"/>
+		<GameArea id="1262" name="高山流水（电信）" line="0"/>
+		<GameArea id="1263" name="问鼎中原（电信）" line="0"/>
+		<GameArea id="1264" name="一鸣惊人（电信）" line="0"/>
+		<GameArea id="1265" name="远交近攻（电信）" line="0"/>
+		<GameArea id="1266" name="承影（网通）" line="1"/>
+		<GameArea id="1267" name="赤霄（网通）" line="1"/>
+		<GameArea id="1268" name="龙渊（网通）" line="1"/>
+		<GameArea id="1269" name="泰阿（网通）" line="1"/>
+		<GameArea id="2669" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="67" name="飚车世界">
+		<GameArea id="1270" name="越野狂飙新电信" line="0"/>
+		<GameArea id="1271" name="极速传说新网通" line="1"/>
+		<GameArea id="1272" name="霓虹飞跃电信1" line="0"/>
+		<GameArea id="1273" name="悬崖追逐电信2" line="0"/>
+		<GameArea id="1274" name="热力追踪网通1" line="1"/>
+		<GameArea id="2668" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="68" name="风云">
+		<GameArea id="1275" name="风云横扫千军横扫千军" line="2"/>
+		<GameArea id="1276" name="诸神之战区(1区)电信" line="0"/>
+		<GameArea id="1277" name="诸神之战区(2区)网通" line="1"/>
+		<GameArea id="1278" name="诸神之战区(3区)电信" line="0"/>
+		<GameArea id="1279" name="诸神之战区(4区)网通" line="1"/>
+		<GameArea id="1280" name="诸神之战区(5区)电信" line="0"/>
+		<GameArea id="1281" name="诸神之战区(6区)电信" line="0"/>
+		<GameArea id="1282" name="诸神之战区(7区)电信" line="0"/>
+		<GameArea id="1283" name="诸神之战区(8区)网通" line="1"/>
+		<GameArea id="1284" name="诸神之战区(9区)电信" line="0"/>
+		<GameArea id="1285" name="诸神之战区(10区)网通" line="1"/>
+		<GameArea id="1286" name="诸神之战区(11区)电信" line="0"/>
+		<GameArea id="1287" name="诸神之战区(12区)电信" line="0"/>
+		<GameArea id="1288" name="诸神之战区(13区)网通" line="1"/>
+		<GameArea id="1289" name="诸神之战区(14区)电信" line="0"/>
+		<GameArea id="1290" name="诸神之战区(15区)网通" line="1"/>
+		<GameArea id="1291" name="诸神之战区(16区)电信" line="0"/>
+		<GameArea id="1292" name="诸神之战区(17区)网通" line="1"/>
+		<GameArea id="1293" name="诸神之战区(18区)电信" line="0"/>
+		<GameArea id="1294" name="诸神之战区(19区)网通" line="1"/>
+		<GameArea id="1295" name="诸神之战区(20区)电信" line="0"/>
+		<GameArea id="1296" name="诸神之战区(21区)电信" line="0"/>
+		<GameArea id="1297" name="诸神之战区(22区)网通" line="1"/>
+		<GameArea id="1298" name="诸神之战区(23区)电信" line="0"/>
+		<GameArea id="1299" name="风云(1区)电信" line="0"/>
+		<GameArea id="1300" name="风云(2区)电信" line="0"/>
+		<GameArea id="1301" name="风云(3区)电信" line="0"/>
+		<GameArea id="1302" name="风云(4区)电信" line="0"/>
+		<GameArea id="1303" name="风云(5区)电信" line="0"/>
+		<GameArea id="1304" name="风云(6区)电信" line="0"/>
+		<GameArea id="1305" name="风云(7区)网通" line="1"/>
+		<GameArea id="1306" name="风云(8区)网通" line="1"/>
+		<GameArea id="1307" name="风云(9区)电信" line="0"/>
+		<GameArea id="1308" name="风云(10区)电信" line="0"/>
+		<GameArea id="1309" name="风云(11区)网通" line="1"/>
+		<GameArea id="1310" name="风云(12区)电信" line="0"/>
+		<GameArea id="1311" name="风云(13区)电信" line="0"/>
+		<GameArea id="1312" name="风云(14区)电信" line="0"/>
+		<GameArea id="1313" name="风云(15区)电信" line="0"/>
+		<GameArea id="1314" name="风云(16区)网通" line="1"/>
+		<GameArea id="1315" name="风云(17区)电信" line="0"/>
+		<GameArea id="1316" name="风云(18区)网通" line="1"/>
+		<GameArea id="1317" name="风云(19区)电信" line="0"/>
+		<GameArea id="1318" name="风云(20区)电信" line="0"/>
+		<GameArea id="1319" name="风云(21区)网通" line="1"/>
+		<GameArea id="1320" name="风云(22区)电信" line="0"/>
+		<GameArea id="1321" name="风云(23区)电信" line="0"/>
+		<GameArea id="1322" name="风云(24区)网通" line="1"/>
+		<GameArea id="1323" name="风云(25区)电信" line="0"/>
+		<GameArea id="1324" name="风云(26区)电信" line="0"/>
+		<GameArea id="1325" name="风云(27区)网通" line="1"/>
+		<GameArea id="1326" name="风云(28区)电信" line="0"/>
+		<GameArea id="1327" name="风云(29区)网通" line="1"/>
+		<GameArea id="1328" name="风云(30区)电信" line="0"/>
+		<GameArea id="1329" name="风云(31区)电信" line="0"/>
+		<GameArea id="1330" name="风云(32区)网通" line="1"/>
+		<GameArea id="1331" name="风云(33区)电信" line="0"/>
+		<GameArea id="1332" name="风云(34区)网通" line="1"/>
+		<GameArea id="1333" name="风云(35区)电信" line="0"/>
+		<GameArea id="1334" name="风云(36区)电信" line="0"/>
+		<GameArea id="1335" name="问鼎天下(1区)电信" line="0"/>
+		<GameArea id="1336" name="问鼎天下(2区)网通" line="1"/>
+		<GameArea id="1337" name="问鼎天下(3区)电信" line="0"/>
+		<GameArea id="1338" name="问鼎天下(4区)电信" line="0"/>
+		<GameArea id="1339" name="问鼎天下(5区)电信" line="0"/>
+		<GameArea id="1340" name="问鼎天下(6区)网通" line="1"/>
+		<GameArea id="1341" name="问鼎天下(7区)电信" line="0"/>
+		<GameArea id="1342" name="问鼎天下(8区)网通" line="1"/>
+		<GameArea id="1343" name="问鼎天下(9区)电信" line="0"/>
+		<GameArea id="1344" name="问鼎天下(10区)网通" line="1"/>
+		<GameArea id="1345" name="问鼎天下(11区)电信" line="0"/>
+		<GameArea id="1346" name="问鼎天下(12区)网通" line="1"/>
+		<GameArea id="1347" name="问鼎天下(13区)电信" line="0"/>
+		<GameArea id="1348" name="问鼎天下(14区)网通" line="1"/>
+		<GameArea id="1349" name="问鼎天下(15区)电信" line="0"/>
+		<GameArea id="1350" name="问鼎天下(16区)网通" line="1"/>
+		<GameArea id="1351" name="问鼎天下(17区)电信" line="0"/>
+		<GameArea id="1352" name="问鼎天下(18区)网通" line="1"/>
+		<GameArea id="1353" name="问鼎天下(19区)电信" line="0"/>
+		<GameArea id="1354" name="问鼎天下(20区)网通" line="1"/>
+		<GameArea id="1355" name="问鼎天下(21区)电信" line="0"/>
+		<GameArea id="1356" name="问鼎天下(22区)网通" line="1"/>
+		<GameArea id="1357" name="问鼎天下(23区)电信" line="0"/>
+		<GameArea id="1358" name="问鼎天下(24区)网通" line="1"/>
+		<GameArea id="1359" name="问鼎天下(25区)电信" line="0"/>
+		<GameArea id="1360" name="问鼎天下(26区)网通" line="1"/>
+		<GameArea id="1361" name="问鼎天下(27区)电信" line="0"/>
+		<GameArea id="1362" name="问鼎天下(28区)电信" line="0"/>
+		<GameArea id="1363" name="问鼎天下(29区)电信" line="0"/>
+		<GameArea id="1364" name="问鼎天下(30区)网通" line="1"/>
+		<GameArea id="1365" name="问鼎天下(31区)电信" line="0"/>
+		<GameArea id="1366" name="问鼎天下(32区)电信" line="0"/>
+		<GameArea id="1367" name="问鼎天下(33区)电信" line="0"/>
+		<GameArea id="1368" name="问鼎天下(34区)网通" line="1"/>
+		<GameArea id="1369" name="问鼎天下(35区)电信" line="0"/>
+		<GameArea id="1370" name="问鼎天下(36区)电信" line="0"/>
+		<GameArea id="1371" name="问鼎天下(37区)电信" line="0"/>
+		<GameArea id="1372" name="问鼎天下(38区)网通" line="1"/>
+		<GameArea id="1373" name="问鼎天下(39区)电信" line="0"/>
+		<GameArea id="1374" name="问鼎天下(40区)电信" line="0"/>
+		<GameArea id="1375" name="问鼎天下(41区)电信" line="0"/>
+		<GameArea id="1376" name="问鼎天下(42区)网通" line="1"/>
+		<GameArea id="1377" name="问鼎天下(43区)电信" line="0"/>
+		<GameArea id="1378" name="问鼎天下(44区)网通" line="1"/>
+		<GameArea id="1379" name="问鼎天下(45区)电信" line="0"/>
+		<GameArea id="1380" name="问鼎天下(46区)网通" line="1"/>
+		<GameArea id="1381" name="武魂传说(1区)电信" line="0"/>
+		<GameArea id="1382" name="武魂传说(2区)电信" line="0"/>
+		<GameArea id="1383" name="武魂传说(3区)网通" line="1"/>
+		<GameArea id="1384" name="武魂传说(4区)电信" line="0"/>
+		<GameArea id="1385" name="武魂传说(5区)网通" line="1"/>
+		<GameArea id="1386" name="武魂传说(6区)电信" line="0"/>
+		<GameArea id="1387" name="武魂传说(7区)华东电信" line="0"/>
+		<GameArea id="1388" name="武魂传说(8区)网通" line="1"/>
+		<GameArea id="1389" name="武魂传说(9区)华东电信" line="0"/>
+		<GameArea id="1390" name="武魂传说(10区)网通" line="1"/>
+		<GameArea id="1391" name="武魂传说(11区)华南电信" line="0"/>
+		<GameArea id="1392" name="武魂传说(12区)网通" line="1"/>
+		<GameArea id="1393" name="武魂传说(13区)西南电信" line="0"/>
+		<GameArea id="1394" name="武魂传说(14区)华东电信" line="0"/>
+		<GameArea id="1395" name="武魂传说(15区)华东电信" line="0"/>
+		<GameArea id="1396" name="武魂传说(16区)网通" line="1"/>
+		<GameArea id="1397" name="武魂传说(17区)西南电信" line="0"/>
+		<GameArea id="1398" name="武魂传说(18区)电信" line="0"/>
+		<GameArea id="1399" name="武魂传说(19区)电信" line="0"/>
+		<GameArea id="1400" name="武魂传说(20区)网通" line="1"/>
+		<GameArea id="1401" name="武魂传说(21区)华东电信" line="0"/>
+		<GameArea id="1402" name="武魂传说(22区)网通" line="1"/>
+		<GameArea id="1403" name="武魂传说(23区)华南电信" line="0"/>
+		<GameArea id="1404" name="武魂传说(24区)网通" line="1"/>
+		<GameArea id="1405" name="武魂传说(26区)网通" line="1"/>
+		<GameArea id="1406" name="雄霸天下(1区)电信" line="0"/>
+		<GameArea id="1407" name="雄霸天下(2区)电信" line="0"/>
+		<GameArea id="1408" name="雄霸天下(3区)网通" line="1"/>
+		<GameArea id="1409" name="雄霸天下(4区)网通" line="1"/>
+		<GameArea id="1410" name="雄霸天下(5区)电信" line="0"/>
+		<GameArea id="1411" name="雄霸天下(6区)电信" line="0"/>
+		<GameArea id="1412" name="雄霸天下(7区)电信" line="0"/>
+		<GameArea id="1413" name="雄霸天下(8区)电信" line="0"/>
+		<GameArea id="1414" name="雄霸天下(9区)网通" line="1"/>
+		<GameArea id="1415" name="雄霸天下(10区)电信" line="0"/>
+		<GameArea id="1416" name="雄霸天下(11区)电信" line="0"/>
+		<GameArea id="1417" name="雄霸天下(12区)电信" line="0"/>
+		<GameArea id="1418" name="雄霸天下(13区)电信" line="0"/>
+		<GameArea id="1419" name="雄霸天下(14区)网通" line="1"/>
+		<GameArea id="1420" name="雄霸天下(15区)电信" line="0"/>
+		<GameArea id="1421" name="雄霸天下(17区)电信" line="0"/>
+		<GameArea id="1422" name="雄霸天下(18区)华东电信" line="0"/>
+		<GameArea id="1423" name="雄霸天下(19区)重庆电信" line="0"/>
+		<GameArea id="1424" name="雄霸天下(20区)网通" line="1"/>
+		<GameArea id="1425" name="雄霸天下(21区)电信" line="0"/>
+		<GameArea id="1426" name="雄霸天下(22区)上海电信" line="0"/>
+		<GameArea id="1427" name="雄霸天下(23区)网通" line="1"/>
+		<GameArea id="1428" name="雄霸天下(24区)电信" line="0"/>
+		<GameArea id="1429" name="雄霸天下(25区)网通" line="1"/>
+		<GameArea id="1430" name="雄霸天下(26区)电信" line="0"/>
+		<GameArea id="1431" name="雄霸天下(27区)电信" line="0"/>
+		<GameArea id="1432" name="雄霸天下(28区)电信" line="0"/>
+		<GameArea id="1433" name="雄霸天下(29区)网通" line="1"/>
+		<GameArea id="1434" name="雄霸天下(30区)电信" line="0"/>
+		<GameArea id="1435" name="雄霸天下(31区)电信" line="0"/>
+		<GameArea id="1436" name="雄霸天下(32区)网通" line="1"/>
+		<GameArea id="1437" name="雄霸天下(33区)电信" line="0"/>
+		<GameArea id="1438" name="雄霸天下(34区)电信" line="0"/>
+		<GameArea id="1439" name="雄霸天下(35区)网通" line="1"/>
+		<GameArea id="1440" name="雄霸天下(36区)电信" line="0"/>
+		<GameArea id="1441" name="雄霸天下(37区)电信" line="0"/>
+		<GameArea id="2667" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="69" name="坦克世界">
+		<GameArea id="1442" name="南方电信一区" line="0"/>
+		<GameArea id="1443" name="北方联通一区" line="1"/>
+		<GameArea id="2666" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="70" name="夺宝传世">
+		<GameArea id="1444" name="夺宝公测区（全国电信）" line="0"/>
+		<GameArea id="1445" name="夺宝一区（全国电信）" line="0"/>
+		<GameArea id="1446" name="夺宝三区（全国电信）" line="0"/>
+		<GameArea id="1447" name="夺宝五区（全国电信）" line="0"/>
+		<GameArea id="1448" name="夺宝公测区（全国网通）" line="1"/>
+		<GameArea id="1449" name="夺宝二区（全国网通）" line="1"/>
+		<GameArea id="1450" name="夺宝四区（全国网通）" line="1"/>
+		<GameArea id="1451" name="夺宝六区（全国网通）" line="1"/>
+		<GameArea id="1452" name="夺宝七区(全国电信)" line="0"/>
+		<GameArea id="1453" name="夺宝八区(全国网通)" line="1"/>
+		<GameArea id="1454" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="71" name="极光世界">
+		<GameArea id="1455" name="电信一区" line="0"/>
+		<GameArea id="1456" name="电信二区" line="0"/>
+		<GameArea id="1457" name="电信三区" line="0"/>
+		<GameArea id="1458" name="网通一区" line="1"/>
+		<GameArea id="1459" name="网通二区" line="1"/>
+		<GameArea id="2665" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="72" name="街头篮球">
+		<GameArea id="1460" name="街球地带（华东1）电信" line="0"/>
+		<GameArea id="1461" name="涂鸦区域（华中1）电信" line="0"/>
+		<GameArea id="1462" name="斗牛圣地（西南1）电信" line="0"/>
+		<GameArea id="1463" name="岭南疾速（华南1）电信" line="0"/>
+		<GameArea id="1464" name="飞跃秦关（西北1）电信" line="0"/>
+		<GameArea id="1465" name="纯真年代（华东2）电信" line="0"/>
+		<GameArea id="1466" name="嘻哈部落（东北1）网通" line="1"/>
+		<GameArea id="1467" name="自由天空（华北1）网通" line="1"/>
+		<GameArea id="1468" name="商都篮球（华中1）网通" line="1"/>
+		<GameArea id="2664" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="73" name="梦三国">
+		<GameArea id="1469" name="火烧赤壁（华东电信一区）" line="0"/>
+		<GameArea id="1470" name="桃园结义（华东电信二区）" line="0"/>
+		<GameArea id="1471" name="夷陵之战（电信新区）" line="0"/>
+		<GameArea id="1472" name="群雄竞起（华南电信）" line="0"/>
+		<GameArea id="1473" name="草船借箭（网通一区）" line="1"/>
+		<GameArea id="1474" name="水淹七军（网通新区）" line="1"/>
+		<GameArea id="1475" name="技术测试区" line="2"/>
+		<GameArea id="1476" name="火烧连营" line="2"/>
+		<GameArea id="1477" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="74" name="梦想世界">
+		<GameArea id="1478" name="电信一区" line="0"/>
+		<GameArea id="1479" name="电信二区" line="0"/>
+		<GameArea id="1480" name="网通一区" line="1"/>
+		<GameArea id="1481" name="网通二区" line="1"/>
+		<GameArea id="2663" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="75" name="诺亚传说">
+		<GameArea id="1482" name="华南电信" line="0"/>
+		<GameArea id="1483" name="华东电信" line="0"/>
+		<GameArea id="1484" name="华西电信" line="0"/>
+		<GameArea id="1485" name="华北网通" line="1"/>
+		<GameArea id="2662" name="东北网通" line="1"/>
+		<GameArea id="2728" name="双线区" line="2"/>
+		<GameArea id="2729" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="76" name="泡泡堂">
+		<GameArea id="1486" name="一区开心乐园（电信）" line="0"/>
+		<GameArea id="1487" name="二区梦幻王国（电信）" line="0"/>
+		<GameArea id="1488" name="三区童话世界（电信）" line="0"/>
+		<GameArea id="1489" name="四区缘分天空（网通）" line="1"/>
+		<GameArea id="1490" name="五区星梦奇缘（电信）" line="0"/>
+		<GameArea id="1491" name="六区紫禁之巅（新区）" line="2"/>
+		<GameArea id="2661" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="77" name="奇迹">
+		<GameArea id="1492" name="怀旧专区" line="2"/>
+		<GameArea id="1493" name="华东电信" line="0"/>
+		<GameArea id="1494" name="全国电信" line="0"/>
+		<GameArea id="2659" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="78" name="起凡">
+		<GameArea id="1495" name="电信上海专区" line="0"/>
+		<GameArea id="1496" name="网通山东专区" line="1"/>
+		<GameArea id="1497" name="电信江苏专区" line="0"/>
+		<GameArea id="1498" name="网通河北专区" line="1"/>
+		<GameArea id="1499" name="网通辽宁专区" line="1"/>
+		<GameArea id="1500" name="网通黑龙江" line="1"/>
+		<GameArea id="1501" name="网通吉林专区" line="1"/>
+		<GameArea id="1502" name="电信湖南湖北" line="0"/>
+		<GameArea id="1503" name="网通河南专区" line="1"/>
+		<GameArea id="1504" name="电信江西专区" line="0"/>
+		<GameArea id="1505" name="电信广东专区" line="0"/>
+		<GameArea id="1506" name="电信浙江专区" line="0"/>
+		<GameArea id="1507" name="电信四川专区" line="0"/>
+		<GameArea id="2660" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="79" name="新热血英豪">
+		<GameArea id="1508" name="世界大会" line="2"/>
+		<GameArea id="1509" name="拳霸天下" line="2"/>
+		<GameArea id="1510" name="义薄云天" line="2"/>
+		<GameArea id="1511" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="80" name="远征Online">
+		<GameArea id="1512" name="电信一区" line="0"/>
+		<GameArea id="1513" name="电信二区" line="0"/>
+		<GameArea id="1514" name="电信三区" line="0"/>
+		<GameArea id="1515" name="网通一区" line="1"/>
+		<GameArea id="1516" name="网通二区" line="1"/>
+		<GameArea id="1517" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="81" name="醉逍遥">
+		<GameArea id="1518" name="电信一区-全国电信" line="0"/>
+		<GameArea id="1519" name="电信二区-华南电信" line="0"/>
+		<GameArea id="1520" name="电信三区-华东电信" line="0"/>
+		<GameArea id="1521" name="电信四区-全国电信" line="0"/>
+		<GameArea id="1522" name="网通一区-全国网通" line="1"/>
+		<GameArea id="1523" name="网通二区-全国网通" line="1"/>
+		<GameArea id="1524" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="82" name="QQ仙侠传">
+		<GameArea id="1525" name="华南电信1区" line="0"/>
+		<GameArea id="1526" name="华南电信2区" line="0"/>
+		<GameArea id="1527" name="华东电信1区" line="0"/>
+		<GameArea id="1528" name="华东电信2区" line="0"/>
+		<GameArea id="1529" name="华东电信3区" line="0"/>
+		<GameArea id="1530" name="华中电信1区" line="0"/>
+		<GameArea id="1531" name="西南电信1区" line="0"/>
+		<GameArea id="1532" name="西南电信2区" line="0"/>
+		<GameArea id="1533" name="华北网通1区" line="1"/>
+		<GameArea id="1534" name="华北网通2区" line="1"/>
+		<GameArea id="1535" name="华北网通3区" line="1"/>
+		<GameArea id="1536" name="东北网通1区" line="1"/>
+		<GameArea id="1537" name="东北网通2区" line="1"/>
+		<GameArea id="1538" name="西北电信1区" line="0"/>
+		<GameArea id="1539" name="优先体验区" line="2"/>
+		<GameArea id="1540" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="83" name="QQ自由幻想">
+		<GameArea id="1541" name="电信好玩幻想" line="0"/>
+		<GameArea id="1542" name="电信猫猫城" line="0"/>
+		<GameArea id="1543" name="电信世外桃源" line="0"/>
+		<GameArea id="1544" name="电信绿野之战" line="0"/>
+		<GameArea id="1545" name="电信名动风云" line="0"/>
+		<GameArea id="1546" name="电信天外飞仙" line="0"/>
+		<GameArea id="1547" name="电信飞鹤神殿" line="0"/>
+		<GameArea id="1548" name="电信幻荧银月" line="0"/>
+		<GameArea id="1549" name="电信梦回缘溪" line="0"/>
+		<GameArea id="1550" name="电信星落桃源" line="0"/>
+		<GameArea id="1551" name="电信幻想之巅" line="0"/>
+		<GameArea id="1552" name="电信虚空之城" line="0"/>
+		<GameArea id="1553" name="电信深海迷宫" line="0"/>
+		<GameArea id="1554" name="电信瑶池龙宫" line="0"/>
+		<GameArea id="1555" name="电信碧野天空" line="0"/>
+		<GameArea id="1556" name="电信天都（上海）" line="0"/>
+		<GameArea id="1557" name="电信吟松谷（广东）" line="0"/>
+		<GameArea id="1558" name="网通楼兰（北京）" line="1"/>
+		<GameArea id="1559" name="网通空灵无泪" line="1"/>
+		<GameArea id="1560" name="网通盛世迷城" line="1"/>
+		<GameArea id="1561" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="84" name="QQ游戏">
+		<GameArea id="1562" name="本地游戏" line="2"/>
+		<GameArea id="1563" name="最热游戏" line="2"/>
+		<GameArea id="1564" name="比赛专区" line="2"/>
+		<GameArea id="1565" name="欢乐游戏" line="2"/>
+		<GameArea id="1566" name="休闲竞技游戏" line="2"/>
+		<GameArea id="1567" name="麻将类游戏" line="2"/>
+		<GameArea id="1568" name="牌类游戏" line="2"/>
+		<GameArea id="1569" name="棋类游戏" line="2"/>
+		<GameArea id="1570" name="网页游戏" line="2"/>
+		<GameArea id="1571" name="大中型网游" line="2"/>
+		<GameArea id="1572" name="儿童社区" line="2"/>
+		<GameArea id="1573" name="合作网游专区" line="2"/>
+		<GameArea id="1574" name="测试专区" line="2"/>
+		<GameArea id="1575" name="Q游超级游乐场" line="2"/>
+		<GameArea id="1576" name="QQ对战平台" line="2"/>
+		<GameArea id="1577" name="用户服务中心" line="2"/>
+		<GameArea id="1578" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="85" name="仙途">
+		<GameArea id="1579" name="电信区" line="0"/>
+		<GameArea id="1580" name="网通区" line="1"/>
+		<GameArea id="1581" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="86" name="神鬼世界">
+		<GameArea id="1582" name="新电信区" line="0"/>
+		<GameArea id="1583" name="电信一区" line="0"/>
+		<GameArea id="1584" name="新网通区" line="1"/>
+		<GameArea id="1585" name="网通一区" line="1"/>
+		<GameArea id="1586" name="体验区" line="2"/>
+	</GameID>
+	<GameID id="87" name="成吉思汗2">
+		<GameArea id="3079" name="电信一-二区" line="0"/>
+		<GameArea id="3080" name="电信全国三区" line="0"/>
+		<GameArea id="3081" name="电信四-五区" line="0"/>
+		<GameArea id="3082" name="电信六-九区" line="0"/>
+		<GameArea id="3083" name="电信全国十区" line="0"/>
+		<GameArea id="3084" name="网通一-二区" line="1"/>
+		<GameArea id="3085" name="网通三-四区" line="1"/>
+		<GameArea id="3086" name="网通五-六区" line="1"/>
+		<GameArea id="3087" name="龙枪区" line="2"/>
+		<GameArea id="3088" name="傲剑区" line="2"/>
+		<GameArea id="3089" name="巨斧区" line="2"/>
+		<GameArea id="3090" name="骏马区" line="2"/>
+		<GameArea id="3091" name="诗圣区" line="2"/>
+		<GameArea id="3092" name="帝王区" line="2"/>
+		<GameArea id="3093" name="劲弩区" line="2"/>
+		<GameArea id="3094" name="狂刀区" line="2"/>
+		<GameArea id="3095" name="苍山区" line="2"/>
+		<GameArea id="3096" name="神仙区" line="2"/>
+		<GameArea id="3097" name="珍宝区" line="2"/>
+		<GameArea id="3098" name="神器区" line="2"/>
+		<GameArea id="3099" name="北斗区" line="2"/>
+		<GameArea id="3100" name="金典区" line="2"/>
+		<GameArea id="3101" name="名胜区" line="2"/>
+		<GameArea id="3102" name="名胜区" line="2"/>
+		<GameArea id="3103" name="名将区" line="2"/>
+		<GameArea id="3104" name="精武区" line="2"/>
+		<GameArea id="3105" name="军魂区" line="2"/>
+		<GameArea id="3106" name="佳酿区" line="2"/>
+		<GameArea id="3107" name="宏栋区" line="2"/>
+		<GameArea id="3108" name="凌霄区" line="2"/>
+		<GameArea id="3109" name="仙宝区" line="2"/>
+		<GameArea id="3110" name="奇谋区" line="2"/>
+		<GameArea id="3111" name="豪侠区" line="2"/>
+		<GameArea id="3112" name="皇权区" line="2"/>
+		<GameArea id="3113" name="争霸区" line="2"/>
+		<GameArea id="3114" name="体验区" line="2"/>
+		<GameArea id="3115" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="88" name="魔界2">
+		<GameArea id="1587" name="华东电信一区" line="0"/>
+		<GameArea id="1588" name="华东电信二区" line="0"/>
+		<GameArea id="1589" name="华东电信三区" line="0"/>
+		<GameArea id="1590" name="华南电信一区" line="0"/>
+		<GameArea id="1591" name="华南电信二区" line="0"/>
+		<GameArea id="1592" name="华中电信一区" line="0"/>
+		<GameArea id="1593" name="西南电信一区" line="0"/>
+		<GameArea id="1594" name="西南电信二区" line="0"/>
+		<GameArea id="1595" name="华北联通一区" line="1"/>
+		<GameArea id="1596" name="东北联通一区" line="1"/>
+		<GameArea id="1597" name="东北联通二区" line="1"/>
+		<GameArea id="1598" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="89" name="疯狂赛车2">
+		<GameArea id="1599" name="一区 极速乐园（南方电信）" line="0"/>
+		<GameArea id="1600" name="二区 欢乐时速（北方网通）" line="1"/>
+		<GameArea id="1601" name="三区 藏宝海湾（电信推荐）" line="0"/>
+		<GameArea id="1602" name="四区 紫荆之巅（北京网通）" line="1"/>
+		<GameArea id="1603" name="五区 我行我速（电信新区）" line="0"/>
+		<GameArea id="1604" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="91" name="洛奇">
+		<GameArea id="3215" name="电信-玛丽" line="0"/>
+		<GameArea id="3216" name="电信-鲁拉里" line="0"/>
+		<GameArea id="3217" name="电信-克莉斯特" line="0"/>
+		<GameArea id="3218" name="电信-普莱达" line="0"/>
+		<GameArea id="3219" name="电信-迪恩（新服）" line="0"/>
+		<GameArea id="3220" name="网通-普雷丝" line="1"/>
+		<GameArea id="3221" name="网通-佩恩（新服）" line="1"/>
+	</GameID>
+	<GameID id="92" name="大话西游2">
+		<GameArea id="1605" name="流金岁月" line="2"/>
+		<GameArea id="1606" name="缘分天空" line="2"/>
+		<GameArea id="1607" name="山西新区" line="2"/>
+		<GameArea id="1608" name="西游记" line="2"/>
+		<GameArea id="1609" name="星耀乾坤" line="2"/>
+		<GameArea id="1610" name="一生所爱" line="2"/>
+		<GameArea id="1611" name="良辰美景" line="2"/>
+		<GameArea id="1612" name="祥和如意" line="2"/>
+		<GameArea id="1613" name="岁寒三友" line="2"/>
+		<GameArea id="1614" name="九天揽月" line="2"/>
+		<GameArea id="1615" name="彩云之南" line="2"/>
+		<GameArea id="1616" name="烽火连城" line="2"/>
+		<GameArea id="1617" name="河北新区" line="2"/>
+		<GameArea id="1618" name="金玉良缘" line="2"/>
+		<GameArea id="1619" name="水榭听香" line="2"/>
+		<GameArea id="1620" name="一战倾城" line="2"/>
+		<GameArea id="1621" name="八仙过海" line="2"/>
+		<GameArea id="1622" name="凤求凰" line="2"/>
+		<GameArea id="1623" name="再世情缘" line="2"/>
+		<GameArea id="1624" name="终南胜雪" line="2"/>
+		<GameArea id="1625" name="群英荟萃" line="2"/>
+		<GameArea id="1626" name="陕西新区" line="2"/>
+		<GameArea id="1627" name="刀剑如梦" line="2"/>
+		<GameArea id="1628" name="本草纲目" line="2"/>
+		<GameArea id="1629" name="青梅煮酒" line="2"/>
+		<GameArea id="1630" name="天地武魂" line="2"/>
+		<GameArea id="1631" name="陕西专区" line="2"/>
+		<GameArea id="1632" name="锦绣中华" line="2"/>
+		<GameArea id="1633" name="花样年华" line="2"/>
+		<GameArea id="1634" name="天涯相随" line="2"/>
+		<GameArea id="1635" name="镜花水月" line="2"/>
+		<GameArea id="1636" name="河南新区" line="2"/>
+		<GameArea id="1637" name="笑嫣然" line="2"/>
+		<GameArea id="1638" name="梦回奔日" line="2"/>
+		<GameArea id="1639" name="蓬莱仙岛" line="2"/>
+		<GameArea id="1640" name="小窗红烛" line="2"/>
+		<GameArea id="1641" name="气吞山河" line="2"/>
+		<GameArea id="1642" name="山东新区" line="2"/>
+		<GameArea id="1643" name="群雄逐鹿I" line="2"/>
+		<GameArea id="1644" name="群雄逐鹿II" line="2"/>
+		<GameArea id="1645" name="群雄逐鹿III" line="2"/>
+		<GameArea id="1646" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="93" name="天下2">
+		<GameArea id="1647" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="100" name="热斗传说">
+		<GameArea id="2839" name="碧水方天（电信）" line="0"/>
+		<GameArea id="2840" name="避暑山庄（电信二区）" line="0"/>
+		<GameArea id="2841" name="浮游都市（网通）" line="1"/>
+		<GameArea id="2842" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="101" name="功夫小子">
+		<GameArea id="2658" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="102" name="大航海时代台服">
+		<GameArea id="2657" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="103" name="新倚天剑与屠龙刀">
+		<GameArea id="2656" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="104" name="新飞飞">
+		<GameArea id="2655" name="其他区服" line="2"/>
+		<GameArea id="2968" name="迷幻王子-摩羯座" line="2"/>
+		<GameArea id="2969" name="迷幻王子-巨蟹座" line="2"/>
+		<GameArea id="2970" name="迷幻王子-射手座" line="2"/>
+		<GameArea id="2971" name="迷幻王子-织女座" line="2"/>
+		<GameArea id="2972" name="迷幻王子-狮子座" line="2"/>
+		<GameArea id="2973" name="迷幻王子-水瓶座" line="2"/>
+		<GameArea id="2974" name="迷幻王子-麒麟座" line="2"/>
+		<GameArea id="2975" name="星梦奇缘-仙后座" line="2"/>
+		<GameArea id="2976" name="星梦奇缘-大熊座" line="2"/>
+		<GameArea id="2977" name="星梦奇缘-天枰座" line="2"/>
+		<GameArea id="2978" name="星梦奇缘-轩辕做" line="2"/>
+		<GameArea id="2979" name="塔罗异界-梵妮座" line="2"/>
+		<GameArea id="2980" name="塔罗异界-紫薇座" line="2"/>
+		<GameArea id="2981" name="塔罗异界-卡伊座" line="2"/>
+		<GameArea id="2982" name="塔罗异界-凤凰座" line="2"/>
+		<GameArea id="2983" name="混沌学园-南冕座" line="2"/>
+		<GameArea id="2984" name="混沌学园-赤焰座" line="2"/>
+		<GameArea id="2985" name="混沌学园-火云座" line="2"/>
+		<GameArea id="2986" name="混沌学园-北冕座" line="2"/>
+		<GameArea id="2987" name="混沌学园-北辰座" line="2"/>
+		<GameArea id="2988" name="混沌学园-双鱼座" line="2"/>
+	</GameID>
+	<GameID id="105" name="光速城市">
+		<GameArea id="2654" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="106" name="梦幻聊斋">
+		<GameArea id="1648" name="满月区（电信）" line="0"/>
+		<GameArea id="1649" name="流水去（电信）" line="0"/>
+		<GameArea id="1650" name="全国电信一区" line="0"/>
+		<GameArea id="1651" name="惜花区（网通）" line="1"/>
+		<GameArea id="1652" name="全国网通一区" line="1"/>
+		<GameArea id="1653" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="107" name="英雄岛">
+		<GameArea id="1654" name="电信一区（华南）" line="0"/>
+		<GameArea id="1655" name="网通二区（北方）" line="1"/>
+		<GameArea id="1656" name="电信三区（华东）" line="0"/>
+		<GameArea id="1657" name="电信四区（西南）" line="0"/>
+		<GameArea id="1658" name="电信五区（华南）" line="0"/>
+		<GameArea id="1659" name="网通六区（北方）" line="1"/>
+		<GameArea id="1660" name="七区（移动专区）" line="2"/>
+		<GameArea id="1661" name="联赛专区" line="2"/>
+		<GameArea id="1662" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="108" name="仙剑Online">
+		<GameArea id="1663" name="电信大区" line="0"/>
+		<GameArea id="1664" name="电信九区" line="0"/>
+		<GameArea id="1665" name="网通一区" line="1"/>
+		<GameArea id="1666" name="网通三区" line="1"/>
+		<GameArea id="1667" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="109" name="热舞派对">
+		<GameArea id="1668" name="华东一区" line="2"/>
+		<GameArea id="1669" name="华南一区" line="2"/>
+		<GameArea id="1670" name="西部一区" line="2"/>
+		<GameArea id="1671" name="华东二区" line="2"/>
+		<GameArea id="1672" name="华南二区（湖南电信）" line="0"/>
+		<GameArea id="1673" name="华南三区（舞动天南）" line="2"/>
+		<GameArea id="1674" name="东北一区" line="2"/>
+		<GameArea id="1675" name="华北一区" line="2"/>
+		<GameArea id="1676" name="东北二区" line="2"/>
+		<GameArea id="1677" name="华中二区" line="2"/>
+		<GameArea id="1678" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="110" name="自在飞车">
+		<GameArea id="1679" name="电信一区" line="0"/>
+		<GameArea id="1680" name="网通一区" line="1"/>
+		<GameArea id="1681" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="111" name="名将三国">
+		<GameArea id="1682" name="电信区华东" line="0"/>
+		<GameArea id="1683" name="电信区华南" line="0"/>
+		<GameArea id="1684" name="电信区西南" line="0"/>
+		<GameArea id="1685" name="网通区华北" line="1"/>
+		<GameArea id="1686" name="网通区东北" line="1"/>
+		<GameArea id="1687" name="测试区" line="2"/>
+		<GameArea id="1688" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="112" name="热血战队">
+		<GameArea id="1690" name="南方电信" line="0"/>
+		<GameArea id="2330" name="北方网通" line="1"/>
+		<GameArea id="2331" name="上海电信" line="0"/>
+		<GameArea id="2332" name="移动专区" line="2"/>
+		<GameArea id="2333" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="113" name="封神榜2">
+		<GameArea id="1691" name="电信" line="0"/>
+		<GameArea id="1692" name="网通" line="1"/>
+		<GameArea id="1693" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="114" name="创世西游">
+		<GameArea id="1694" name="推荐区" line="2"/>
+		<GameArea id="1695" name="开天辟地" line="2"/>
+		<GameArea id="1696" name="广东" line="2"/>
+		<GameArea id="1697" name="山东" line="2"/>
+		<GameArea id="1698" name="江苏" line="2"/>
+		<GameArea id="1699" name="浙江" line="2"/>
+		<GameArea id="1700" name="河南" line="2"/>
+		<GameArea id="1701" name="河北" line="2"/>
+		<GameArea id="1702" name="北京" line="2"/>
+		<GameArea id="1703" name="四川" line="2"/>
+		<GameArea id="1704" name="陕西" line="2"/>
+		<GameArea id="1705" name="上海" line="2"/>
+		<GameArea id="1706" name="竞技专区" line="2"/>
+		<GameArea id="1707" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="115" name="雷电OL">
+		<GameArea id="1708" name="全国电信" line="0"/>
+		<GameArea id="1709" name="华东电信" line="0"/>
+		<GameArea id="1710" name="华北网通" line="1"/>
+		<GameArea id="1711" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="116" name="神鬼传奇">
+		<GameArea id="1712" name="电信区" line="0"/>
+		<GameArea id="1713" name="网通区" line="1"/>
+		<GameArea id="1714" name="体验区" line="2"/>
+		<GameArea id="1715" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="117" name="鬼吹灯外传">
+		<GameArea id="1716" name="电信区" line="0"/>
+		<GameArea id="1717" name="网通区" line="1"/>
+		<GameArea id="1718" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="118" name="侠义世界">
+		<GameArea id="1719" name="电信一区" line="0"/>
+		<GameArea id="1720" name="网通一区" line="1"/>
+		<GameArea id="1721" name="电信二区" line="0"/>
+		<GameArea id="1722" name="网通二区" line="1"/>
+		<GameArea id="1723" name="尊荣体验区" line="2"/>
+		<GameArea id="1724" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="119" name="口袋西游">
+		<GameArea id="1725" name="电信一区" line="0"/>
+		<GameArea id="1726" name="电信二区" line="0"/>
+		<GameArea id="1727" name="电信西部" line="0"/>
+		<GameArea id="1728" name="网通一区" line="1"/>
+		<GameArea id="1729" name="网通二区" line="1"/>
+		<GameArea id="1730" name="电信新区" line="0"/>
+		<GameArea id="1731" name="网通新区" line="1"/>
+		<GameArea id="1732" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="120" name="热血世界">
+		<GameArea id="1733" name="电信区" line="0"/>
+		<GameArea id="1734" name="网通区" line="1"/>
+		<GameArea id="1735" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="121" name="丝路传说">
+		<GameArea id="1736" name="电信一区" line="0"/>
+		<GameArea id="1737" name="网通一区" line="1"/>
+		<GameArea id="1738" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="122" name="魔界">
+		<GameArea id="1739" name="新《魔界》电信大区" line="0"/>
+		<GameArea id="1740" name="新《魔界》联通大区" line="1"/>
+		<GameArea id="1741" name="新《魔界》双网大区" line="2"/>
+		<GameArea id="1742" name="新《魔界》电信新区" line="0"/>
+		<GameArea id="1743" name="新《魔界》联通新区" line="1"/>
+		<GameArea id="1744" name="新《魔界》双网新区" line="2"/>
+		<GameArea id="1745" name="战神光辉电信" line="0"/>
+		<GameArea id="1746" name="战神光辉联通（原网通）" line="1"/>
+		<GameArea id="1747" name="战神光辉双网" line="2"/>
+		<GameArea id="1748" name="盛大《魔界》电信" line="0"/>
+		<GameArea id="1749" name="盛大《魔界》联通（原网通）" line="1"/>
+		<GameArea id="2653" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="123" name="三国群英传2Online">
+		<GameArea id="1750" name="电信一区" line="0"/>
+		<GameArea id="1751" name="电信二区" line="0"/>
+		<GameArea id="1752" name="电信三区" line="0"/>
+		<GameArea id="1753" name="网通一区" line="1"/>
+		<GameArea id="1754" name="畅玩区电信" line="0"/>
+		<GameArea id="1755" name="畅玩区网通" line="1"/>
+		<GameArea id="1756" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="124" name="狼队">
+		<GameArea id="1757" name="电信华南大区" line="0"/>
+		<GameArea id="1758" name="电信华中西南大区" line="0"/>
+		<GameArea id="1759" name="网通东北大区" line="1"/>
+		<GameArea id="1760" name="网通华北大区" line="1"/>
+		<GameArea id="1761" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="125" name="凤舞天骄">
+		<GameArea id="1762" name="官方双线战区" line="2"/>
+		<GameArea id="1763" name="官方电信战区" line="0"/>
+		<GameArea id="1764" name="官方网通战区" line="1"/>
+		<GameArea id="1765" name="区域合作战区" line="2"/>
+		<GameArea id="1766" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="126" name="龙魂online">
+		<GameArea id="1767" name="电信区" line="0"/>
+		<GameArea id="1768" name="网通区" line="1"/>
+		<GameArea id="1769" name="双线区" line="2"/>
+		<GameArea id="1770" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="127" name="巨星">
+		<GameArea id="1771" name="电信欢唱区" line="0"/>
+		<GameArea id="1772" name="网通欢唱区" line="1"/>
+		<GameArea id="1773" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="128" name="梦幻诛仙">
+		<GameArea id="1774" name="华东电信一区" line="0"/>
+		<GameArea id="1775" name="华东电信二区" line="0"/>
+		<GameArea id="1776" name="华东电信三区" line="0"/>
+		<GameArea id="1777" name="华东电信五区" line="0"/>
+		<GameArea id="1778" name="华南电信一区" line="0"/>
+		<GameArea id="1779" name="华南电信二区" line="0"/>
+		<GameArea id="1780" name="西部电信一区" line="0"/>
+		<GameArea id="1781" name="东北网通" line="1"/>
+		<GameArea id="1782" name="华北网通一区" line="1"/>
+		<GameArea id="1783" name="华北网通二区" line="1"/>
+		<GameArea id="1784" name="华北网通三区" line="1"/>
+		<GameArea id="1785" name="华北网通五区" line="1"/>
+		<GameArea id="1786" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="129" name="冒险岛">
+		<GameArea id="1787" name="全部区服" line="2"/>
+		<GameArea id="1788" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="130" name="nba2k11">
+		<GameArea id="1789" name="所有区服" line="2"/>
+		<GameArea id="1790" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="131" name="神武逍遥外传">
+		<GameArea id="1791" name="电信一区" line="0"/>
+		<GameArea id="1792" name="网通一区" line="1"/>
+		<GameArea id="1793" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="132" name="PlanetSide">
+		<GameArea id="1794" name="Gemini" line="2"/>
+		<GameArea id="1795" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="133" name="大话水浒">
+		<GameArea id="1796" name="电信一区" line="0"/>
+		<GameArea id="1797" name="电信二区" line="0"/>
+		<GameArea id="1798" name="电信三区" line="0"/>
+		<GameArea id="1799" name="电信四区" line="0"/>
+		<GameArea id="1800" name="电信五区" line="0"/>
+		<GameArea id="1801" name="网通一区" line="1"/>
+		<GameArea id="1802" name="网通二区" line="1"/>
+		<GameArea id="1803" name="网通三区" line="1"/>
+		<GameArea id="1804" name="网通四区" line="1"/>
+		<GameArea id="1805" name="电信体验服" line="0"/>
+		<GameArea id="1806" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="134" name="剑侠情缘网络版">
+		<GameArea id="1807" name="其他区服" line="2"/>
+		<GameArea id="1808" name="1区华东" line="2"/>
+		<GameArea id="1809" name="2区华东" line="2"/>
+		<GameArea id="1810" name="3区华北" line="2"/>
+		<GameArea id="1811" name="4区华南" line="2"/>
+		<GameArea id="1812" name="5区西南" line="2"/>
+		<GameArea id="1813" name="6区西南" line="2"/>
+		<GameArea id="1814" name="7区华中" line="2"/>
+		<GameArea id="1815" name="8区东北" line="2"/>
+		<GameArea id="1816" name="9区西北" line="2"/>
+		<GameArea id="1817" name="10区西北" line="2"/>
+		<GameArea id="1818" name="11区江苏" line="2"/>
+		<GameArea id="1819" name="12区山东" line="2"/>
+		<GameArea id="1820" name="13区湖北" line="2"/>
+		<GameArea id="1821" name="14区黑龙江" line="2"/>
+		<GameArea id="1822" name="15区山西" line="2"/>
+		<GameArea id="1823" name="16区河南" line="2"/>
+		<GameArea id="1824" name="17区甘肃" line="2"/>
+		<GameArea id="1825" name="18区北京" line="2"/>
+		<GameArea id="1826" name="19区辽宁" line="2"/>
+		<GameArea id="1827" name="20区华东/华中电信" line="0"/>
+		<GameArea id="1828" name="21区教育网" line="2"/>
+		<GameArea id="1829" name="22区华东" line="2"/>
+		<GameArea id="1830" name="23区华南" line="2"/>
+		<GameArea id="1831" name="24区华中" line="2"/>
+		<GameArea id="1832" name="25区华南" line="2"/>
+		<GameArea id="1833" name="26区华东" line="2"/>
+		<GameArea id="1834" name="27区1服华北网通" line="1"/>
+		<GameArea id="1835" name="藏龙卧虎电信" line="0"/>
+		<GameArea id="1836" name="逐鹿九州网通" line="1"/>
+		<GameArea id="1837" name="烽火连城100区电信" line="0"/>
+		<GameArea id="1838" name="烽火连城102区网通" line="1"/>
+		<GameArea id="1839" name="烽火连城105区电信" line="0"/>
+		<GameArea id="1840" name="烽火连城117区网通" line="1"/>
+		<GameArea id="1841" name="烽火连城118区电信" line="0"/>
+		<GameArea id="1842" name="烽火连城126区电信" line="0"/>
+		<GameArea id="1843" name="烽火连城127区电信" line="0"/>
+		<GameArea id="1844" name="烽火连城128区网通" line="1"/>
+		<GameArea id="1845" name="风云再起2010新版" line="2"/>
+		<GameArea id="1846" name="中越对抗赛预赛专服" line="2"/>
+	</GameID>
+	<GameID id="135" name="女神Online">
+		<GameArea id="1847" name="马来西亚区" line="2"/>
+		<GameArea id="1848" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="136" name="暗黑破坏神2">
+		<GameArea id="1849" name="Asia(韩服)" line="2"/>
+		<GameArea id="2652" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="137" name="西游记">
+		<GameArea id="1850" name="单线区-蟠桃园（电信）" line="0"/>
+		<GameArea id="1851" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="138" name="蜀山神话">
+		<GameArea id="1852" name="电信区" line="0"/>
+		<GameArea id="1853" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="139" name="天之游侠">
+		<GameArea id="1854" name="伊凡之血电信" line="0"/>
+		<GameArea id="1855" name="无道游侠12服网通" line="1"/>
+		<GameArea id="1856" name="无道游侠11服电信" line="0"/>
+		<GameArea id="1857" name="无道游侠4服电信" line="0"/>
+		<GameArea id="1858" name="无道游侠2服网通" line="1"/>
+		<GameArea id="1859" name="无道奇境专区电信" line="0"/>
+		<GameArea id="1860" name="闪电之魂电信" line="0"/>
+		<GameArea id="1861" name="战争之歌网通" line="1"/>
+		<GameArea id="1862" name="血色天空" line="2"/>
+		<GameArea id="1863" name="一区八服电信" line="0"/>
+		<GameArea id="1864" name="一区一服电信" line="0"/>
+		<GameArea id="1865" name="五区十一服网通" line="1"/>
+		<GameArea id="1866" name="五区一服" line="2"/>
+		<GameArea id="1867" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="140" name="SAGA战地2">
+		<GameArea id="1868" name="战地2 网通" line="1"/>
+		<GameArea id="1869" name="战地2 电信" line="0"/>
+		<GameArea id="1870" name="PR模组" line="2"/>
+		<GameArea id="2651" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="141" name="SAGA战地2叛逆连队">
+		<GameArea id="1871" name="电信区" line="0"/>
+		<GameArea id="1872" name="网通区" line="1"/>
+		<GameArea id="2650" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="142" name="SAGA战地1942">
+		<GameArea id="1873" name="电信区" line="0"/>
+		<GameArea id="1874" name="网通区" line="1"/>
+		<GameArea id="2649" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="143" name="SAGA战地2142">
+		<GameArea id="1875" name="电信区" line="0"/>
+		<GameArea id="1876" name="网通区" line="1"/>
+		<GameArea id="2648" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="144" name="SAGA荣誉勋章2010">
+		<GameArea id="1877" name="电信区" line="0"/>
+		<GameArea id="1878" name="网通区" line="1"/>
+		<GameArea id="2647" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="145" name="SAGA锁定现代空战">
+		<GameArea id="1879" name="电信区" line="0"/>
+		<GameArea id="1880" name="网通区" line="1"/>
+		<GameArea id="2646" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="146" name="英雄连Online">
+		<GameArea id="1881" name="东部电信" line="0"/>
+		<GameArea id="1882" name="西部电信" line="0"/>
+		<GameArea id="1883" name="网通专区" line="1"/>
+		<GameArea id="1884" name="电信" line="0"/>
+		<GameArea id="1885" name="网通" line="1"/>
+		<GameArea id="1886" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="147" name="卓越之剑2">
+		<GameArea id="1887" name="电信一区 " line="0"/>
+		<GameArea id="1888" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="148" name="Rohan">
+		<GameArea id="1889" name="港服" line="2"/>
+		<GameArea id="1890" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="149" name="新天骄">
+		<GameArea id="1891" name="免费二四区" line="2"/>
+		<GameArea id="1892" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="150" name="壮志凌云美服">
+		<GameArea id="1893" name="美服" line="2"/>
+		<GameArea id="1894" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="151" name="华夏免费版">
+		<GameArea id="1895" name="一区（电信）" line="0"/>
+		<GameArea id="1896" name="三区（网通）" line="1"/>
+		<GameArea id="1897" name="八区（电信）{与二十三区合}" line="0"/>
+		<GameArea id="1898" name="二十三区（电信）{与八区合}" line="0"/>
+		<GameArea id="1899" name="三十一区（电信）" line="0"/>
+		<GameArea id="1900" name="三十二区（网通）" line="1"/>
+		<GameArea id="1901" name="三十五区（电信）{与三十一区合}" line="0"/>
+		<GameArea id="1902" name="三十六区（网通）{与三十二区合}" line="1"/>
+		<GameArea id="1903" name="三十七区（电信）*新" line="0"/>
+		<GameArea id="1904" name="三十八区（网通）*新 " line="1"/>
+		<GameArea id="1905" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="152" name="网球宝贝">
+		<GameArea id="1906" name="电信区" line="0"/>
+		<GameArea id="1907" name="网通区" line="1"/>
+		<GameArea id="1908" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="153" name="魔卡MOKAOnline">
+		<GameArea id="1909" name="恋之小镇" line="2"/>
+		<GameArea id="2645" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="154" name="星际家园怀旧版">
+		<GameArea id="1910" name="电信区" line="0"/>
+		<GameArea id="1911" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="155" name="伊希歐之夢台灣">
+		<GameArea id="1912" name="月之祭" line="2"/>
+		<GameArea id="1913" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="156" name="NBA2KONLINE">
+		<GameArea id="1914" name="电信区" line="0"/>
+		<GameArea id="1915" name="网通区" line="1"/>
+		<GameArea id="2644" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="157" name="冲浪传奇">
+		<GameArea id="1916" name="冲浪传奇" line="2"/>
+		<GameArea id="2643" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="158" name="创世">
+		<GameArea id="1917" name="峰峦叠翠" line="2"/>
+		<GameArea id="1918" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="159" name="常熟同城游戏中心">
+		<GameArea id="1919" name="常熟电信" line="0"/>
+		<GameArea id="1920" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="160" name="爆爆王台服">
+		<GameArea id="1921" name="电信" line="0"/>
+		<GameArea id="1922" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="161" name="掌门人对战平台">
+		<GameArea id="1923" name="北京双线" line="2"/>
+		<GameArea id="1924" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="162" name="霸王">
+		<GameArea id="1925" name="电信怀旧区" line="0"/>
+		<GameArea id="1926" name="电信一区" line="0"/>
+		<GameArea id="1927" name="电信二区" line="0"/>
+		<GameArea id="1928" name="三江网络专区" line="2"/>
+		<GameArea id="1929" name="网通一区" line="1"/>
+		<GameArea id="1930" name="网通怀旧区" line="1"/>
+		<GameArea id="1931" name="北方专区" line="2"/>
+		<GameArea id="1932" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="163" name="网通挑战">
+		<GameArea id="1933" name="电信区" line="0"/>
+		<GameArea id="1934" name="网通区" line="1"/>
+		<GameArea id="1935" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="164" name="全球使命">
+		<GameArea id="1936" name="电信一区" line="0"/>
+		<GameArea id="1937" name="网通一区" line="1"/>
+		<GameArea id="2642" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="165" name="QQ对战平台">
+		<GameArea id="1938" name="电信区" line="0"/>
+		<GameArea id="1939" name="网通区" line="1"/>
+		<GameArea id="1940" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="166" name="疯狂坦克2">
+		<GameArea id="1941" name="韩服" line="2"/>
+		<GameArea id="1942" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="167" name="星际家园收费版">
+		<GameArea id="1943" name="电信珈琳星" line="0"/>
+		<GameArea id="1944" name="网通爱萨星" line="1"/>
+		<GameArea id="1945" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="168" name="炫舞吧">
+		<GameArea id="1946" name="非诚勿扰电信" line="0"/>
+		<GameArea id="1947" name="倾城之恋网通" line="1"/>
+		<GameArea id="1948" name="天上人间原电1" line="2"/>
+		<GameArea id="1949" name="宠爱人生原网1" line="2"/>
+		<GameArea id="1950" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="169" name="天堂2">
+		<GameArea id="1951" name="电信区" line="0"/>
+		<GameArea id="1952" name="网通区" line="1"/>
+		<GameArea id="1953" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="170" name="天堂1">
+		<GameArea id="1954" name="免费区" line="2"/>
+		<GameArea id="1955" name="时间区" line="2"/>
+		<GameArea id="1956" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="171" name="红宝石">
+		<GameArea id="1957" name="RG中国火龙一区" line="2"/>
+		<GameArea id="1958" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="172" name="鹿鼎记">
+		<GameArea id="1960" name="华中电信金戈铁马" line="0"/>
+		<GameArea id="2873" name="华中电信烽火连城" line="0"/>
+		<GameArea id="2874" name="华中电信纵横沙场" line="0"/>
+		<GameArea id="2875" name="华中电信星火燎原" line="0"/>
+		<GameArea id="2876" name="西南电信英明神武" line="0"/>
+		<GameArea id="2877" name="西南电信鸟生鱼汤" line="0"/>
+		<GameArea id="2878" name="西南电信仙福永享" line="0"/>
+		<GameArea id="2879" name="西南电信寿与天齐" line="0"/>
+		<GameArea id="2880" name="华南电信追云逐月" line="0"/>
+		<GameArea id="2881" name="华南电信谁与争锋" line="0"/>
+		<GameArea id="2882" name="华南电信气吞山河" line="0"/>
+		<GameArea id="2883" name="华南电信唯我独尊" line="0"/>
+		<GameArea id="2884" name="全国电信王者之志" line="0"/>
+		<GameArea id="2885" name="全国电信御龙在天" line="0"/>
+		<GameArea id="2886" name="全国电信义薄云天" line="0"/>
+		<GameArea id="2887" name="全国电信侠骨柔情" line="0"/>
+		<GameArea id="2888" name="华东电信凤舞天翔" line="0"/>
+		<GameArea id="2889" name="华东电信虎胆龙威" line="0"/>
+		<GameArea id="2890" name="华东电信英雄本色" line="0"/>
+		<GameArea id="2891" name="华东电信仗剑天涯" line="0"/>
+		<GameArea id="2892" name="华东电信君临天下" line="0"/>
+		<GameArea id="2893" name="华东电信霸世王道" line="0"/>
+		<GameArea id="2894" name="华东电信醉酒江湖" line="0"/>
+		<GameArea id="2895" name="华东电信逍遥侠道" line="0"/>
+		<GameArea id="2896" name="东北网通龙行天下" line="1"/>
+		<GameArea id="2897" name="东北网通凤飞九天" line="1"/>
+		<GameArea id="2898" name="东北网通锦绣山河" line="1"/>
+		<GameArea id="2899" name="东北网通江山如画" line="1"/>
+		<GameArea id="2900" name="华北网通逐鹿中原" line="1"/>
+		<GameArea id="2901" name="华北网通问鼎天下" line="1"/>
+		<GameArea id="2902" name="华北网通雄霸天下" line="1"/>
+		<GameArea id="2903" name="华北网通血战江湖" line="1"/>
+		<GameArea id="2904" name="全国网通猛龙过江" line="1"/>
+		<GameArea id="2905" name="全国网通龙城飞将" line="1"/>
+		<GameArea id="2906" name="全国网通江湖浪子" line="1"/>
+		<GameArea id="2907" name="全国网通盖世英雄" line="1"/>
+		<GameArea id="2908" name="内测区上书房" line="2"/>
+		<GameArea id="2909" name="内测区皇极殿" line="2"/>
+		<GameArea id="2910" name="内测区藏经阁" line="2"/>
+		<GameArea id="2911" name="内测区紫霄宫" line="2"/>
+		<GameArea id="2912" name="内测区奉天殿" line="2"/>
+		<GameArea id="2913" name="内测区紫禁城" line="2"/>
+		<GameArea id="2914" name="内测区丽春院" line="2"/>
+		<GameArea id="2915" name="内测区百花谷" line="2"/>
+		<GameArea id="2916" name="内测区神机营" line="2"/>
+		<GameArea id="2917" name="内测区八旗军" line="2"/>
+		<GameArea id="2918" name="内测区天地会" line="2"/>
+		<GameArea id="2919" name="内测区铁剑门" line="2"/>
+		<GameArea id="2920" name="内测区青龙谷" line="2"/>
+		<GameArea id="2921" name="内测区白虎山" line="2"/>
+		<GameArea id="2922" name="内测区朱雀岛" line="2"/>
+		<GameArea id="2923" name="内测区玄武潭" line="2"/>
+		<GameArea id="2924" name="内测区龙虎卫" line="2"/>
+		<GameArea id="2925" name="内测区神策军" line="2"/>
+		<GameArea id="2926" name="内测区聚义堂" line="2"/>
+		<GameArea id="2927" name="内测区英雄楼" line="2"/>
+		<GameArea id="2928" name="双线体验区骁骑营" line="2"/>
+		<GameArea id="2929" name="双线体验区神龙教" line="2"/>
+		<GameArea id="2930" name="双线体验区沐王府" line="2"/>
+		<GameArea id="2931" name="双线体验区青木堂" line="2"/>
+		<GameArea id="2932" name="双线体验区罗刹国" line="2"/>
+		<GameArea id="2933" name="双线体验区通吃岛" line="2"/>
+		<GameArea id="2934" name="双线体验区长乐坊" line="2"/>
+		<GameArea id="2935" name="双线体验区瘦头陀" line="2"/>
+		<GameArea id="2936" name="华南电信破阵子" line="0"/>
+		<GameArea id="3365" name="华南电信将进酒" line="0"/>
+		<GameArea id="3366" name="华南电信如梦令" line="0"/>
+		<GameArea id="3367" name="华南电信少年游" line="0"/>
+		<GameArea id="3368" name="全国电信锦衣卫" line="0"/>
+		<GameArea id="3369" name="全国电信聚贤庄" line="0"/>
+		<GameArea id="3370" name="全国电信侠客岛" line="0"/>
+		<GameArea id="3371" name="全国电信逍遥谷" line="0"/>
+		<GameArea id="3372" name="全国电信千古一帝" line="0"/>
+		<GameArea id="3373" name="全国电信指点江山" line="0"/>
+		<GameArea id="3374" name="全国电信龙头大哥" line="0"/>
+		<GameArea id="3375" name="全国电信一统江湖" line="0"/>
+		<GameArea id="3376" name="全国电信楼兰古城" line="0"/>
+		<GameArea id="3377" name="全国电信紫禁之巅" line="0"/>
+		<GameArea id="3378" name="全国电信天上人间" line="0"/>
+		<GameArea id="3379" name="全国电信暮光之城" line="0"/>
+		<GameArea id="3380" name="全国电信鹰击长空" line="0"/>
+		<GameArea id="3381" name="全国电信劈星斩月" line="0"/>
+		<GameArea id="3382" name="全国电信剑舞春秋" line="0"/>
+		<GameArea id="3383" name="全国电信斗破苍穹" line="0"/>
+		<GameArea id="3384" name="全国电信傲视群雄" line="0"/>
+		<GameArea id="3385" name="全国电信雷霆万钧" line="0"/>
+		<GameArea id="3386" name="全国电信蛟龙出海" line="0"/>
+		<GameArea id="3387" name="全国电信苍狼啸月" line="0"/>
+		<GameArea id="3388" name="华东电信木兰轩" line="0"/>
+		<GameArea id="3389" name="华东电信壮士阁" line="0"/>
+		<GameArea id="3390" name="华东电信美人坊" line="0"/>
+		<GameArea id="3391" name="华东电信豪杰亭" line="0"/>
+		<GameArea id="3392" name="华东电信倾城之恋" line="0"/>
+		<GameArea id="3393" name="华东电信游龙戏凤" line="0"/>
+		<GameArea id="3394" name="华东电信爱琴公寓" line="0"/>
+		<GameArea id="3395" name="华东电信烟雨江南" line="0"/>
+		<GameArea id="3396" name="全国网通忘忧谷" line="1"/>
+		<GameArea id="3397" name="全国网通忆情山" line="1"/>
+		<GameArea id="3398" name="全国网通思过崖" line="1"/>
+		<GameArea id="3399" name="全国网通绝情谷" line="1"/>
+		<GameArea id="3400" name="全国网通龙吟九州" line="1"/>
+		<GameArea id="3401" name="全国网通虎啸青川" line="1"/>
+		<GameArea id="3402" name="全国网通南征北战" line="1"/>
+		<GameArea id="3403" name="全国网通豪气冲天" line="1"/>
+		<GameArea id="3404" name="全国网通龙腾盛世" line="1"/>
+		<GameArea id="3405" name="全国网通剑指苍穹" line="1"/>
+		<GameArea id="3406" name="全国网通鹿鼎公" line="1"/>
+		<GameArea id="3407" name="全国网通白龙使" line="1"/>
+		<GameArea id="3408" name="华北网通三藩盟" line="1"/>
+		<GameArea id="3409" name="华北网通龙骑营" line="1"/>
+		<GameArea id="3410" name="华北网通鬼王旗" line="1"/>
+		<GameArea id="3411" name="华北网通五岳盟" line="1"/>
+		<GameArea id="3412" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="173" name="霹雳小组4黑帮风云汉化版1.1">
+		<GameArea id="1961" name="所有服务器" line="2"/>
+	</GameID>
+	<GameID id="174" name="世纪奇迹">
+		<GameArea id="1962" name="世纪奇迹[总区]" line="2"/>
+		<GameArea id="1963" name="世纪奇迹盛世区今天新开] " line="2"/>
+		<GameArea id="1964" name="世纪奇迹17区[合并总区]" line="2"/>
+		<GameArea id="2641" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="175" name="神话">
+		<GameArea id="1965" name="电信一区" line="0"/>
+		<GameArea id="1966" name="网通一区" line="1"/>
+		<GameArea id="1967" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="176" name="梦幻古龙">
+		<GameArea id="1968" name="虎虎生威" line="2"/>
+		<GameArea id="1969" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="177" name="一起玩175平台">
+		<GameArea id="1970" name="cs1.5死亡服" line="2"/>
+		<GameArea id="1971" name="cs1.5标准服" line="2"/>
+		<GameArea id="2640" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="178" name="SAMP">
+		<GameArea id="1972" name="SAMP所有服务器" line="2"/>
+		<GameArea id="2639" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="179" name="苍天归来">
+		<GameArea id="1973" name="苍天归来一区" line="2"/>
+		<GameArea id="1974" name="三区铁骑争鸣" line="2"/>
+		<GameArea id="2638" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="180" name="三界奇缘">
+		<GameArea id="1975" name="电信区乾坤圈" line="0"/>
+		<GameArea id="1976" name="电信区风火轮" line="0"/>
+		<GameArea id="1977" name="电信区玲珑塔" line="0"/>
+		<GameArea id="1978" name="电信区Q记家园" line="0"/>
+		<GameArea id="1979" name="电信区混天凌" line="0"/>
+		<GameArea id="1980" name="电信区火灵枪" line="0"/>
+		<GameArea id="1981" name="电信区紫金铃" line="0"/>
+		<GameArea id="1982" name="网通区斗转星移" line="1"/>
+		<GameArea id="1983" name="网通区飞龙在天" line="1"/>
+		<GameArea id="1984" name="网通区Q记故土" line="1"/>
+		<GameArea id="1985" name="网通区太虚幻境" line="1"/>
+		<GameArea id="1986" name="网通区神龙摆尾" line="1"/>
+		<GameArea id="2637" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="181" name="降龙之剑">
+		<GameArea id="1987" name="楚天云雨" line="2"/>
+		<GameArea id="1988" name="天地豪情" line="2"/>
+		<GameArea id="1989" name="三山五岳" line="2"/>
+		<GameArea id="1990" name="乱世山河" line="2"/>
+		<GameArea id="1991" name="江湖霸业" line="2"/>
+		<GameArea id="1992" name="卧虎藏龙" line="2"/>
+		<GameArea id="1993" name="三星在天" line="2"/>
+		<GameArea id="1994" name="三足鼎立" line="2"/>
+		<GameArea id="1995" name="一手遮天" line="2"/>
+		<GameArea id="1996" name="长风万里" line="2"/>
+		<GameArea id="1997" name="百战江湖" line="2"/>
+		<GameArea id="1998" name="勇冠三军" line="2"/>
+		<GameArea id="1999" name="碧海九洲" line="2"/>
+		<GameArea id="2000" name="壮志论剑" line="2"/>
+		<GameArea id="2001" name="凤舞九州" line="2"/>
+		<GameArea id="2002" name="苍龙天下" line="2"/>
+		<GameArea id="2003" name="地上天宫" line="2"/>
+		<GameArea id="2004" name="龙腾云霄" line="2"/>
+		<GameArea id="2005" name="战天斗地" line="2"/>
+		<GameArea id="2636" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="182" name="梦幻龙族">
+		<GameArea id="2006" name="电信一区" line="0"/>
+		<GameArea id="2007" name="电信二区" line="0"/>
+		<GameArea id="2008" name="电信三区" line="0"/>
+		<GameArea id="2009" name="网通一区" line="1"/>
+		<GameArea id="2635" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="183" name="勇士OL">
+		<GameArea id="2010" name="华中电信" line="0"/>
+		<GameArea id="2011" name="华南电信" line="0"/>
+		<GameArea id="2012" name="全国电信" line="0"/>
+		<GameArea id="2013" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="184" name="烽火传奇3">
+		<GameArea id="2014" name="电信浴火重生" line="0"/>
+		<GameArea id="2015" name="电信横扫千军" line="0"/>
+		<GameArea id="2016" name="电信烽火连城" line="0"/>
+		<GameArea id="2017" name="网通浴火重生" line="1"/>
+		<GameArea id="2018" name="网通横扫千军" line="1"/>
+		<GameArea id="2019" name="网通烽火连城" line="1"/>
+		<GameArea id="2634" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="185" name="圣魔之血">
+		<GameArea id="2020" name="信仰圣域(全国)" line="2"/>
+		<GameArea id="2021" name="网通一区(全国)" line="1"/>
+		<GameArea id="2022" name="电信一区(全国)" line="0"/>
+		<GameArea id="2023" name="电信二区(华东)" line="0"/>
+		<GameArea id="2024" name="电信三区(华南)" line="0"/>
+		<GameArea id="2025" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="186" name="科洛斯">
+		<GameArea id="2026" name="京华烟云" line="2"/>
+		<GameArea id="2027" name="荣耀天下" line="2"/>
+		<GameArea id="2028" name="野蛮王座" line="2"/>
+		<GameArea id="2029" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="187" name="JJ比赛">
+		<GameArea id="2030" name="全区" line="2"/>
+	</GameID>
+	<GameID id="188" name="千年3">
+		<GameArea id="2031" name="1区(网通)" line="1"/>
+		<GameArea id="2032" name="2区(电信)" line="0"/>
+		<GameArea id="2033" name="3区(电信)" line="0"/>
+		<GameArea id="2034" name="5区(电信)" line="0"/>
+		<GameArea id="2035" name="7区(电信)" line="0"/>
+		<GameArea id="2036" name="9区(电信)" line="0"/>
+		<GameArea id="2037" name="11区(电信)" line="0"/>
+		<GameArea id="2038" name="15区(电信)" line="0"/>
+		<GameArea id="2039" name="18区(电信)" line="0"/>
+		<GameArea id="2040" name="21区(电信)" line="0"/>
+		<GameArea id="2041" name="22区(电信)" line="0"/>
+		<GameArea id="2042" name="24区(电信)" line="0"/>
+		<GameArea id="2043" name="26区(电信)" line="0"/>
+		<GameArea id="2044" name="28区(电信)" line="0"/>
+		<GameArea id="2045" name="30区(电信)" line="0"/>
+		<GameArea id="2046" name="32区(电信)" line="0"/>
+		<GameArea id="2047" name="34区(电信)" line="0"/>
+		<GameArea id="2048" name="36区(电信)" line="0"/>
+		<GameArea id="2049" name="38区(电信)" line="0"/>
+		<GameArea id="2050" name="4区(网通)" line="1"/>
+		<GameArea id="2051" name="6区(网通)" line="1"/>
+		<GameArea id="2052" name="8区(网通)" line="1"/>
+		<GameArea id="2053" name="10区(网通)" line="1"/>
+		<GameArea id="2054" name="12区(网通)" line="1"/>
+		<GameArea id="2055" name="13区(网通)" line="1"/>
+		<GameArea id="2056" name="16区(网通)" line="1"/>
+		<GameArea id="2057" name="17区" line="2"/>
+		<GameArea id="2058" name="19区(网通)" line="1"/>
+		<GameArea id="2059" name="20区(网通)" line="1"/>
+		<GameArea id="2060" name="23区(网通)" line="1"/>
+		<GameArea id="2061" name="25区(网通)" line="1"/>
+		<GameArea id="2062" name="27区(网通)" line="1"/>
+		<GameArea id="2063" name="29区(网通)" line="1"/>
+		<GameArea id="2064" name="31区(网通)" line="1"/>
+		<GameArea id="2065" name="33区(网通)" line="1"/>
+		<GameArea id="2066" name="35区(网通)" line="1"/>
+		<GameArea id="2067" name="37区(网通)" line="1"/>
+		<GameArea id="2068" name="39区(网通)" line="1"/>
+		<GameArea id="2633" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="189" name="七彩龙神1.80">
+		<GameArea id="2069" name="全新飞龙传奇" line="2"/>
+		<GameArea id="2070" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="190" name="梦回传奇">
+		<GameArea id="2071" name="梦回传奇所有区服" line="2"/>
+		<GameArea id="2504" name="全国电信三区上天宫" line="0"/>
+		<GameArea id="2632" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="191" name="特种部队">
+		<GameArea id="2072" name="电信1" line="0"/>
+		<GameArea id="2073" name="网通1" line="1"/>
+		<GameArea id="2074" name="网通2" line="1"/>
+		<GameArea id="2631" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="192" name="七龙珠Online台服">
+		<GameArea id="2075" name="孙悟饭爷爷伺服器" line="2"/>
+		<GameArea id="2076" name="布马伺服器" line="2"/>
+		<GameArea id="2077" name="龟仙人伺服器" line="2"/>
+		<GameArea id="2078" name="乌龙伺服器" line="2"/>
+		<GameArea id="2079" name="亚姆伺服器" line="2"/>
+		<GameArea id="2080" name="其他服务器" line="2"/>
+	</GameID>
+	<GameID id="193" name="梁山传奇">
+		<GameArea id="2081" name="铁血丹心电信一线" line="0"/>
+		<GameArea id="2082" name="铁血丹心电信二线" line="0"/>
+		<GameArea id="2083" name="铁血丹心电信三线" line="0"/>
+		<GameArea id="2084" name="铁血丹心网通" line="1"/>
+		<GameArea id="2630" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="194" name="龙之大陆">
+		<GameArea id="2085" name="电信区" line="0"/>
+		<GameArea id="2086" name="网通区" line="1"/>
+		<GameArea id="2087" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="195" name="原始传奇">
+		<GameArea id="2088" name="原始王者(电信)一线" line="0"/>
+		<GameArea id="2089" name="原始王者(电信)二线" line="0"/>
+		<GameArea id="2090" name="原始王者(电信)三线" line="0"/>
+		<GameArea id="2091" name="原始王者(电信)四线" line="0"/>
+		<GameArea id="2092" name="原始江湖(网通) 一线" line="1"/>
+		<GameArea id="2093" name="原始江湖(网通)二线" line="1"/>
+		<GameArea id="2094" name="原始江湖(网通)三线" line="1"/>
+		<GameArea id="2095" name="原始江湖(网通)四线" line="1"/>
+		<GameArea id="2629" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="196" name="游了传奇">
+		<GameArea id="2096" name="游子传奇(电信区)" line="0"/>
+		<GameArea id="2628" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="197" name="卡巴拉岛台服">
+		<GameArea id="2097" name="永恒系" line="2"/>
+		<GameArea id="2098" name="宝石系" line="2"/>
+		<GameArea id="2099" name="口孔系" line="2"/>
+		<GameArea id="2100" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="198" name="魔钥">
+		<GameArea id="2101" name="华东电信" line="0"/>
+		<GameArea id="2102" name="华南电信" line="0"/>
+		<GameArea id="2103" name="华北网通" line="1"/>
+		<GameArea id="2104" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="199" name="天翼决">
+		<GameArea id="2105" name="电信服务器" line="0"/>
+		<GameArea id="2106" name="网通服务器" line="1"/>
+		<GameArea id="2107" name="海外服务器" line="2"/>
+		<GameArea id="2627" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="200" name="天源4591">
+		<GameArea id="2108" name="电信1区" line="0"/>
+		<GameArea id="2109" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="201" name="幻灵游侠2.5">
+		<GameArea id="2110" name="梦幻国度" line="2"/>
+		<GameArea id="2111" name="风之谷" line="2"/>
+		<GameArea id="2112" name="情深似海" line="2"/>
+		<GameArea id="2113" name="君临天下" line="2"/>
+		<GameArea id="2114" name="惟我独尊" line="2"/>
+		<GameArea id="2626" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="202" name="圣斗士online">
+		<GameArea id="2115" name="冰河座电信" line="0"/>
+		<GameArea id="2116" name="星矢座电信" line="0"/>
+		<GameArea id="2117" name="巨蟹座电信" line="0"/>
+		<GameArea id="2118" name="天龙座电信" line="0"/>
+		<GameArea id="2119" name="一辉座网通" line="1"/>
+		<GameArea id="2120" name="紫龙座网通" line="1"/>
+		<GameArea id="2121" name="天坛座网通" line="1"/>
+		<GameArea id="2122" name="天马座网通" line="1"/>
+		<GameArea id="2625" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="203" name="投名状OL">
+		<GameArea id="2123" name="第一大区" line="2"/>
+		<GameArea id="2124" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="204" name="反恐行动">
+		<GameArea id="2125" name="电信区" line="0"/>
+		<GameArea id="2126" name="联通区" line="1"/>
+		<GameArea id="2127" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="205" name="诛复传奇">
+		<GameArea id="2128" name="电信区" line="0"/>
+		<GameArea id="2129" name="网通区" line="1"/>
+		<GameArea id="2130" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="206" name="蜀山新传">
+		<GameArea id="2131" name="全国电信区" line="0"/>
+		<GameArea id="2132" name="全国网通区" line="1"/>
+		<GameArea id="2133" name="新疆专区" line="2"/>
+		<GameArea id="2134" name="华北专区" line="2"/>
+		<GameArea id="2135" name="电娱专区" line="2"/>
+		<GameArea id="2136" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="207" name="出发">
+		<GameArea id="2137" name="电信一区" line="0"/>
+		<GameArea id="2138" name="网通一区" line="1"/>
+		<GameArea id="2139" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="208" name="西游天下">
+		<GameArea id="2140" name="凌霄城" line="2"/>
+		<GameArea id="2141" name="黄金城" line="2"/>
+		<GameArea id="2142" name="天外天" line="2"/>
+		<GameArea id="2143" name="揽月阁" line="2"/>
+		<GameArea id="2144" name="五指山" line="2"/>
+		<GameArea id="2145" name="繁花海" line="2"/>
+		<GameArea id="2146" name="凤栖木" line="2"/>
+		<GameArea id="2147" name="凤凰涅槃" line="2"/>
+		<GameArea id="2148" name="侍语境" line="2"/>
+		<GameArea id="2149" name="凌波殿" line="2"/>
+		<GameArea id="2150" name="通天河" line="2"/>
+		<GameArea id="2151" name="南海普陀" line="2"/>
+		<GameArea id="2152" name="东海龙宫" line="2"/>
+		<GameArea id="2153" name="水帘洞天" line="2"/>
+		<GameArea id="2154" name="金蝉寺" line="2"/>
+		<GameArea id="2155" name="英雄岛" line="2"/>
+		<GameArea id="2156" name="火焰山" line="2"/>
+		<GameArea id="2157" name="雷音寺" line="2"/>
+		<GameArea id="2158" name="两界山" line="2"/>
+		<GameArea id="2159" name="方寸山" line="2"/>
+		<GameArea id="2160" name="定海神针" line="2"/>
+		<GameArea id="2161" name="雷音古刹" line="2"/>
+		<GameArea id="2162" name="凌霄宝殿" line="2"/>
+		<GameArea id="2163" name="天王殿" line="2"/>
+		<GameArea id="2164" name="太虚境" line="2"/>
+		<GameArea id="2165" name="火云洞" line="2"/>
+		<GameArea id="2166" name="万寿山" line="2"/>
+		<GameArea id="2167" name="须弥山" line="2"/>
+		<GameArea id="2168" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="209" name="剑侠情缘网络版2">
+		<GameArea id="2169" name="100区华东电信" line="0"/>
+		<GameArea id="2170" name="101区华东电信" line="0"/>
+		<GameArea id="2171" name="102区华北网通" line="1"/>
+		<GameArea id="2172" name="103华中电信" line="0"/>
+		<GameArea id="2173" name="104区华东电信" line="0"/>
+		<GameArea id="2174" name="105区华北网通" line="1"/>
+		<GameArea id="2175" name="106区华东电信" line="0"/>
+		<GameArea id="2176" name="107区华东电信" line="0"/>
+		<GameArea id="2177" name="108区东北网通" line="1"/>
+		<GameArea id="2178" name="109区西北电信" line="0"/>
+		<GameArea id="2179" name="110区华南电信" line="0"/>
+		<GameArea id="2180" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="210" name="决战双城">
+		<GameArea id="2181" name="电信区-精英封测区" line="0"/>
+		<GameArea id="2182" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="211" name="绿色征途">
+		<GameArea id="2183" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="212" name="大海战2">
+		<GameArea id="2184" name="俾斯麦" line="2"/>
+		<GameArea id="2185" name="皇家方舟" line="2"/>
+		<GameArea id="2186" name="马赛" line="2"/>
+		<GameArea id="2187" name="勇敢" line="2"/>
+		<GameArea id="2188" name="阿尔萨斯" line="2"/>
+		<GameArea id="2189" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="213" name="R2">
+		<GameArea id="2190" name="电信区列王纷争" line="0"/>
+		<GameArea id="2191" name="电信区龙战八荒" line="0"/>
+		<GameArea id="2192" name="电信区创世审判" line="0"/>
+		<GameArea id="2193" name="网通区圣殿赞歌" line="1"/>
+		<GameArea id="2194" name="网通区天下布武" line="1"/>
+		<GameArea id="2195" name="网通区战神出征" line="1"/>
+		<GameArea id="2196" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="214" name="封神">
+		<GameArea id="2197" name="一区混沌初开" line="2"/>
+		<GameArea id="2198" name="一区硒鼓垂钓" line="2"/>
+		<GameArea id="2199" name="一区河洛乾坤" line="2"/>
+		<GameArea id="2200" name="二区凤鸣鼓山" line="2"/>
+		<GameArea id="2201" name="二区蓬莱仙境" line="2"/>
+		<GameArea id="2202" name="二区鸿蒙天地" line="2"/>
+		<GameArea id="2203" name="三区梦境朝歌" line="2"/>
+		<GameArea id="2204" name="三区昆仑祥瑞" line="2"/>
+		<GameArea id="2205" name="三区封神台" line="2"/>
+		<GameArea id="2624" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="215" name="神谕传奇">
+		<GameArea id="2206" name="神谕传奇电信26号激情新区" line="0"/>
+		<GameArea id="2207" name="神谕传奇电信激情专区" line="0"/>
+		<GameArea id="2208" name="神谕传奇电信激情老区" line="0"/>
+		<GameArea id="2209" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="216" name="冒险岛online台服">
+		<GameArea id="2210" name="测试机" line="2"/>
+		<GameArea id="2211" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="217" name="仙境传说">
+		<GameArea id="2212" name="普隆德拉(上海/广州/北京)" line="2"/>
+		<GameArea id="2213" name="天空之城(杨博电信)" line="0"/>
+		<GameArea id="2214" name="森林峡谷(电信)" line="0"/>
+		<GameArea id="2215" name="圣域之门(电信)" line="0"/>
+		<GameArea id="2216" name="诸神之城(网通)" line="1"/>
+		<GameArea id="2217" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="218" name="Steam平台">
+		<GameArea id="2218" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="219" name="黑色阴谋">
+		<GameArea id="2219" name="星宿" line="2"/>
+		<GameArea id="2220" name="紫微星" line="2"/>
+		<GameArea id="2221" name="蓝凝星" line="2"/>
+		<GameArea id="2222" name="北极星" line="2"/>
+		<GameArea id="2223" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="220" name="吞食天地1免费版台服">
+		<GameArea id="2224" name="24.吞食免费16(台湾)推荐" line="2"/>
+		<GameArea id="2225" name="19.吞食免费15(香港)推荐" line="2"/>
+		<GameArea id="2226" name="16.吞食免费14-1(台湾)壅塞" line="2"/>
+		<GameArea id="2227" name="23.吞食免费14-2(台湾)推荐" line="2"/>
+		<GameArea id="2228" name="15.吞食免费13(台湾)壅塞" line="2"/>
+		<GameArea id="2229" name="14.吞食免费12(香港)壅塞" line="2"/>
+		<GameArea id="2230" name="13.吞食免费11(台湾)壅塞" line="2"/>
+		<GameArea id="2231" name="09.吞食免费9(香港)壅塞" line="2"/>
+		<GameArea id="2232" name="01.吞食免费1-1(台湾)壅塞" line="2"/>
+		<GameArea id="2233" name="20.吞食免费1-4(台湾)推荐" line="2"/>
+		<GameArea id="2234" name="11.吞食免费1-2(台湾)壅塞" line="2"/>
+		<GameArea id="2235" name="17.吞食免费1-3(台湾)推荐" line="2"/>
+		<GameArea id="2236" name="02.吞食免费2-1(台湾)壅塞" line="2"/>
+		<GameArea id="2237" name="18.吞食免费2-2(台湾)推荐" line="2"/>
+		<GameArea id="2238" name="03.吞食免费3-1(台湾)推荐" line="2"/>
+		<GameArea id="2239" name="12.吞食免费3-2(台湾)壅塞" line="2"/>
+		<GameArea id="2240" name="21.吞食免费3-3(台湾)推荐" line="2"/>
+		<GameArea id="2241" name="04.吞食免费4(香港)壅塞" line="2"/>
+		<GameArea id="2242" name="05.吞食免费5(香港)壅塞" line="2"/>
+		<GameArea id="2243" name="06.吞食免费6(香港)壅塞" line="2"/>
+		<GameArea id="2244" name="07.吞食免费7-1(台湾)壅塞" line="2"/>
+		<GameArea id="2245" name="22.吞食免费7-2(台湾)壅塞" line="2"/>
+		<GameArea id="2246" name="08.吞食免费8(香港)壅塞" line="2"/>
+		<GameArea id="2247" name="10.吞食免费10(台湾)壅塞" line="2"/>
+		<GameArea id="2623" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="221" name="新天下无双怀旧版">
+		<GameArea id="2248" name="情义无双电信" line="0"/>
+		<GameArea id="2249" name="红莲绚烂电信" line="0"/>
+		<GameArea id="2250" name="紫禁之巅网通" line="1"/>
+		<GameArea id="2251" name="鹤击月华网通" line="1"/>
+		<GameArea id="2622" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="222" name="星空恋曲">
+		<GameArea id="2252" name="加纳维学院" line="2"/>
+		<GameArea id="2253" name="雅典娜学院" line="2"/>
+		<GameArea id="2254" name="梅杜莎学院" line="2"/>
+		<GameArea id="2255" name="波塞顿学院" line="2"/>
+		<GameArea id="2256" name="哈迪斯学院" line="2"/>
+		<GameArea id="2257" name="潘多拉学院" line="2"/>
+		<GameArea id="2258" name="独角兽学院" line="2"/>
+		<GameArea id="2259" name="丘比特学院" line="2"/>
+		<GameArea id="2260" name="天马学院" line="2"/>
+		<GameArea id="2620" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="223" name="QQ仙境">
+		<GameArea id="2261" name="电信1区" line="0"/>
+		<GameArea id="2262" name="网通1区" line="1"/>
+		<GameArea id="2263" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="224" name="英雄无敌在线">
+		<GameArea id="2264" name="电信一区" line="0"/>
+		<GameArea id="2265" name="电信二区" line="0"/>
+		<GameArea id="2266" name="网通一区" line="1"/>
+		<GameArea id="2267" name="经典大区" line="2"/>
+		<GameArea id="2619" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="225" name="剑侠贰外传">
+		<GameArea id="2268" name="一区电信雁门关" line="0"/>
+		<GameArea id="2269" name="一区电信武夷山" line="0"/>
+		<GameArea id="2270" name="一区电信桃花岛" line="0"/>
+		<GameArea id="2271" name="一区电信龙门镇" line="0"/>
+		<GameArea id="2272" name="一区电信光明顶" line="0"/>
+		<GameArea id="2273" name="一区电信点苍山" line="0"/>
+		<GameArea id="2274" name="一区电信药王谷" line="0"/>
+		<GameArea id="2275" name="一区电信梁山泊" line="0"/>
+		<GameArea id="2276" name="一区电信杏花村" line="0"/>
+		<GameArea id="2277" name="一区电信云梦泽" line="0"/>
+		<GameArea id="2278" name="一区电信冰心洞 " line="0"/>
+		<GameArea id="2279" name="一区电信清风阁" line="0"/>
+		<GameArea id="2280" name="一区电信紫云轩" line="0"/>
+		<GameArea id="2281" name="一区电信武林盟" line="0"/>
+		<GameArea id="2282" name="一区电信凝月宫 " line="0"/>
+		<GameArea id="2283" name="一区电信玉融峰" line="0"/>
+		<GameArea id="2284" name="一区电信霜风崖" line="0"/>
+		<GameArea id="2285" name="一区电信烟霞谷" line="0"/>
+		<GameArea id="2286" name="二区电信绿林盟主" line="0"/>
+		<GameArea id="2287" name="二区电信九绝剑魔" line="0"/>
+		<GameArea id="2288" name="二区电信吴越老祖" line="0"/>
+		<GameArea id="2289" name="二区电信枪神赢天" line="0"/>
+		<GameArea id="2290" name="二区电信火羽流光" line="0"/>
+		<GameArea id="2291" name="三区网通天涯海角" line="1"/>
+		<GameArea id="2292" name="三区网通天师秘境" line="1"/>
+		<GameArea id="2293" name="三区网通王旗部落" line="1"/>
+		<GameArea id="2294" name="三区网通沙漠迷宫" line="1"/>
+		<GameArea id="2295" name="三区网通暮雪山庄" line="1"/>
+		<GameArea id="2296" name="三区网通太虚幻境" line="1"/>
+		<GameArea id="2297" name="三区网通剑门飞雪" line="1"/>
+		<GameArea id="2298" name="三区网通丰都迷城" line="1"/>
+		<GameArea id="2299" name="三区网通剑阁蜀道" line="1"/>
+		<GameArea id="2300" name="三区网通楼兰晓月" line="1"/>
+		<GameArea id="2301" name="三区网通双剑诛邪" line="1"/>
+		<GameArea id="2302" name="三区网通天阴圣地" line="1"/>
+		<GameArea id="2618" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="226" name="真封神">
+		<GameArea id="2303" name="电信区重生复活仙境" line="0"/>
+		<GameArea id="2304" name="电信区米果" line="0"/>
+		<GameArea id="2305" name="电信区封神" line="0"/>
+		<GameArea id="2306" name="电信区神界正统" line="0"/>
+		<GameArea id="2307" name="电信区天下" line="0"/>
+		<GameArea id="2308" name="电信区霸业" line="0"/>
+		<GameArea id="2309" name="网通区激荡天佑" line="1"/>
+		<GameArea id="2310" name="网通区风云" line="1"/>
+		<GameArea id="2311" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="227" name="铁血迷情Online">
+		<GameArea id="2312" name="完美2011电信新区" line="0"/>
+		<GameArea id="2313" name="完美2011联通新区" line="1"/>
+		<GameArea id="2314" name="完美电信一区" line="0"/>
+		<GameArea id="2315" name="完美联通一区" line="1"/>
+		<GameArea id="2316" name="完美跨服战场区" line="2"/>
+		<GameArea id="2317" name=" 2010暑假新区" line="2"/>
+		<GameArea id="2318" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="228" name="吞食天地收费服龙图智库运营">
+		<GameArea id="2539" name="北京1" line="2"/>
+		<GameArea id="2617" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="229" name="决战NEO">
+		<GameArea id="2540" name="VIP金钻双线" line="2"/>
+		<GameArea id="2541" name="VIP铂金双线" line="2"/>
+		<GameArea id="2542" name="VIP金石双线" line="2"/>
+		<GameArea id="2543" name="巴贝拉星双线" line="2"/>
+		<GameArea id="2544" name="泰斯拉星双线" line="2"/>
+		<GameArea id="2545" name="梅利奥星双线" line="2"/>
+		<GameArea id="2546" name="贝纳德星电信" line="0"/>
+		<GameArea id="2547" name="南冕星座电信" line="0"/>
+		<GameArea id="2548" name="仙女星座电信" line="0"/>
+		<GameArea id="2549" name="卫斯特星电信" line="0"/>
+		<GameArea id="2550" name="纳希牧夫电信" line="0"/>
+		<GameArea id="2551" name="乔纳德星电信" line="0"/>
+		<GameArea id="2552" name="北冕星座电信" line="0"/>
+		<GameArea id="2553" name="仙后星座电信" line="0"/>
+		<GameArea id="2554" name="伊斯特星电信" line="0"/>
+		<GameArea id="2555" name="凯希御夫电信" line="0"/>
+		<GameArea id="2556" name="卡瑞纳星网通" line="1"/>
+		<GameArea id="2557" name="大熊星座网通" line="1"/>
+		<GameArea id="2558" name="凤凰星座网通" line="1"/>
+		<GameArea id="2559" name="德瑞纳星网通" line="1"/>
+		<GameArea id="2560" name="小熊星座网通" line="1"/>
+		<GameArea id="2561" name="孔雀星座网通" line="1"/>
+		<GameArea id="2616" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="230" name="蛮荒">
+		<GameArea id="2562" name="server01" line="2"/>
+		<GameArea id="2615" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="231" name="新侠义道">
+		<GameArea id="2563" name="歃血为盟电信" line="0"/>
+		<GameArea id="2564" name="刀光剑影电信" line="0"/>
+		<GameArea id="2565" name="飞雪连天电信" line="0"/>
+		<GameArea id="2566" name="新威震四海电信" line="0"/>
+		<GameArea id="2567" name="王者斗雪电信" line="0"/>
+		<GameArea id="2568" name="唯我林寒电信" line="0"/>
+		<GameArea id="2569" name="雾龙傲剑电信" line="0"/>
+		<GameArea id="2570" name="八方龙腾电信" line="0"/>
+		<GameArea id="2571" name="蝶语天香电信" line="0"/>
+		<GameArea id="2572" name="兵临城下网通" line="1"/>
+		<GameArea id="2573" name="异域江湖网通" line="1"/>
+		<GameArea id="2574" name="笑书神侠网通" line="1"/>
+		<GameArea id="2575" name="新七宝琉璃网通" line="1"/>
+		<GameArea id="2576" name="巅峰神功网通" line="1"/>
+		<GameArea id="2577" name="沧海嫣红网通" line="1"/>
+		<GameArea id="2578" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="233" name="卡卡家园">
+		<GameArea id="2582" name="卡戎星" line="2"/>
+		<GameArea id="2583" name="海伦星" line="2"/>
+		<GameArea id="2584" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="234" name="Fs2online">
+		<GameArea id="2585" name="遗忘传说" line="2"/>
+		<GameArea id="2612" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="235" name="超级跑跑">
+		<GameArea id="2586" name="电信一区(天使之翼)" line="0"/>
+		<GameArea id="2587" name="网通一区(仙之树林)" line="1"/>
+		<GameArea id="2588" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="236" name="奇迹世界2">
+		<GameArea id="2589" name="阿瑞斯电信" line="0"/>
+		<GameArea id="2590" name="维纳斯网通" line="1"/>
+		<GameArea id="2591" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="237" name="FIFAONLINE2">
+		<GameArea id="2592" name="广东1区（电信）" line="0"/>
+		<GameArea id="2593" name="四川1区（电信）" line="0"/>
+		<GameArea id="2594" name="西北大区（电信）" line="0"/>
+		<GameArea id="2595" name="西南大区（电信）" line="0"/>
+		<GameArea id="2596" name="华南大区（电信）" line="0"/>
+		<GameArea id="2597" name="上海1区（电信）" line="0"/>
+		<GameArea id="2598" name="浙江1区（电信）" line="0"/>
+		<GameArea id="2599" name="江苏1区（电信）" line="0"/>
+		<GameArea id="2600" name="华中大区（电信）" line="0"/>
+		<GameArea id="2601" name="华东大区（电信）" line="0"/>
+		<GameArea id="2602" name="北京1区（网通）" line="1"/>
+		<GameArea id="2603" name="山东1区（网通）" line="1"/>
+		<GameArea id="2604" name="辽宁1区（网通）" line="1"/>
+		<GameArea id="2605" name="华北大区（网通）" line="1"/>
+		<GameArea id="2606" name="东北大区（网通）" line="1"/>
+		<GameArea id="2613" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="238" name="魔咒2">
+		<GameArea id="2609" name="绿色回归版" line="2"/>
+		<GameArea id="2610" name="海纳百川" line="2"/>
+		<GameArea id="2611" name="风生水起" line="2"/>
+		<GameArea id="2614" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="239" name="洛奇英雄传">
+		<GameArea id="2677" name="广东一区" line="2"/>
+		<GameArea id="2678" name="广东二区" line="2"/>
+		<GameArea id="2679" name="上海一区" line="2"/>
+		<GameArea id="2680" name="上海二区" line="2"/>
+		<GameArea id="2681" name="四川一区" line="2"/>
+		<GameArea id="2682" name="四川二区" line="2"/>
+		<GameArea id="3414" name="山东一区" line="2"/>
+		<GameArea id="3415" name="天津一区" line="2"/>
+		<GameArea id="3416" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="240" name="FIFA11">
+		<GameArea id="2683" name="全区" line="2"/>
+		<GameArea id="2684" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="241" name="三国策">
+		<GameArea id="2685" name="电信一" line="0"/>
+		<GameArea id="2686" name="电信二" line="0"/>
+		<GameArea id="2687" name="电信三（新区）" line="0"/>
+		<GameArea id="2688" name="联通一" line="1"/>
+		<GameArea id="2689" name="联通二" line="1"/>
+		<GameArea id="2690" name="联通三（新区）" line="1"/>
+		<GameArea id="2691" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="242" name="仙侣奇缘2">
+		<GameArea id="2692" name="12区（电信）" line="0"/>
+		<GameArea id="2693" name="13区（电信）" line="0"/>
+		<GameArea id="2794" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="243" name="刀剑英雄">
+		<GameArea id="2694" name="全国电信一" line="0"/>
+		<GameArea id="2695" name="全国网通一" line="1"/>
+		<GameArea id="2696" name="西北二区" line="2"/>
+		<GameArea id="2697" name="华东二区" line="2"/>
+		<GameArea id="2698" name="华中二区" line="2"/>
+		<GameArea id="2699" name="华南二区" line="2"/>
+		<GameArea id="2700" name="西南二区" line="2"/>
+		<GameArea id="2701" name="格斗专区" line="2"/>
+		<GameArea id="2702" name="测试专区" line="2"/>
+		<GameArea id="2703" name="华北一区" line="2"/>
+		<GameArea id="2704" name="东北一区" line="2"/>
+		<GameArea id="2705" name="西北一区" line="2"/>
+		<GameArea id="2706" name="华东一区" line="2"/>
+		<GameArea id="2707" name="华中一区" line="2"/>
+		<GameArea id="2708" name="华南一区" line="2"/>
+		<GameArea id="2709" name="西南一区" line="2"/>
+		<GameArea id="2710" name="东北二区" line="2"/>
+		<GameArea id="2711" name="华北二区" line="2"/>
+		<GameArea id="2712" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="244" name="幻魔之眼">
+		<GameArea id="2713" name="五海用户登陆" line="2"/>
+		<GameArea id="2714" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="245" name="华夏2">
+		<GameArea id="2715" name="电信八区（华南）" line="0"/>
+		<GameArea id="2716" name="电信一区（华南）" line="0"/>
+		<GameArea id="2717" name="电信二区（华东）" line="0"/>
+		<GameArea id="2718" name="电信三区（华中）" line="0"/>
+		<GameArea id="2719" name="电信四区（西南）" line="0"/>
+		<GameArea id="2720" name="电信七区（西北）" line="0"/>
+		<GameArea id="2721" name="电信九区（华东）" line="0"/>
+		<GameArea id="2722" name="网通五区（华北）" line="1"/>
+		<GameArea id="2723" name="网通六区（东北）" line="1"/>
+		<GameArea id="2724" name="网通十区（网通）" line="1"/>
+		<GameArea id="2725" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="246" name="samp非凡部落">
+		<GameArea id="2726" name="全区" line="2"/>
+		<GameArea id="2727" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="247" name="霸业传奇">
+		<GameArea id="2730" name="六月A到R组网通激情大区" line="1"/>
+		<GameArea id="2731" name="英雄荣誉" line="2"/>
+		<GameArea id="2732" name="血战沙场" line="2"/>
+		<GameArea id="2733" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="248" name="ProjectReality0957">
+		<GameArea id="2734" name="RC" line="2"/>
+		<GameArea id="2735" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="249" name="彩虹世界（彩虹岛美服）">
+		<GameArea id="2736" name="龙猫妹妹" line="2"/>
+		<GameArea id="2737" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="250" name="开心ol">
+		<GameArea id="2738" name="福建电信1区（共6服）" line="0"/>
+		<GameArea id="2739" name="广东电信1区（共8服）" line="0"/>
+		<GameArea id="2740" name="广东电信2区（共3服）" line="0"/>
+		<GameArea id="2741" name="浙江电信1区（共6服）" line="0"/>
+		<GameArea id="2742" name="上海电信1区（共8服）" line="0"/>
+		<GameArea id="2743" name="江苏电信1区（共8服）" line="0"/>
+		<GameArea id="2744" name="四川电信1区（共5服）" line="0"/>
+		<GameArea id="2745" name="湖北电信1区（共2服）" line="0"/>
+		<GameArea id="2746" name="安徽电信1区（共1服）" line="0"/>
+		<GameArea id="2747" name="广西电信1区（共2服）" line="0"/>
+		<GameArea id="2748" name="湖南电信1区（共2服）" line="0"/>
+		<GameArea id="2749" name="云南电信1区（共2服）" line="0"/>
+		<GameArea id="2750" name="江西电信1区（共1服）" line="0"/>
+		<GameArea id="2751" name="陕西电信1区（共1服）" line="0"/>
+		<GameArea id="2752" name="山东网通1区（共6服）" line="1"/>
+		<GameArea id="2753" name="北京网通1区（共9服）" line="1"/>
+		<GameArea id="2754" name="东北网通1区（共3服）" line="1"/>
+		<GameArea id="2755" name="河南网通1区（共3服）" line="1"/>
+		<GameArea id="2756" name="河北网通1区（共2服）" line="1"/>
+		<GameArea id="2757" name="黑龙江网通1区（共2服）" line="1"/>
+		<GameArea id="2758" name="香港大区（共2区）" line="2"/>
+		<GameArea id="2793" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="251" name="中华英雄龙虎门">
+		<GameArea id="2759" name="电信区龙虎门" line="0"/>
+		<GameArea id="2760" name="电信区雄霸" line="0"/>
+		<GameArea id="2761" name="电信区卧虎" line="0"/>
+		<GameArea id="2762" name="网通区电光毒龙钻" line="1"/>
+		<GameArea id="2763" name="网通区苍穹" line="1"/>
+		<GameArea id="2792" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="252" name="永恒冒险">
+		<GameArea id="2764" name="永恒电信" line="0"/>
+		<GameArea id="2765" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="253" name="御龙在天">
+		<GameArea id="2766" name="内测专区内测服务器" line="2"/>
+		<GameArea id="2767" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="254" name="月影传说">
+		<GameArea id="2768" name="电信区泉州府" line="0"/>
+		<GameArea id="2769" name="网通区藏剑" line="1"/>
+		<GameArea id="2770" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="255" name="忐忑网络">
+		<GameArea id="2771" name="英雄无内功合击1-6组" line="2"/>
+		<GameArea id="2772" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="256" name="机战">
+		<GameArea id="2773" name="第十大区（网通区）北京一区" line="1"/>
+		<GameArea id="2774" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="257" name="十二之天贰">
+		<GameArea id="2775" name="电信雄霸天下" line="0"/>
+		<GameArea id="2791" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="258" name="神话网络">
+		<GameArea id="2776" name="神话六月份网络总区" line="2"/>
+		<GameArea id="2777" name="神话七月升级版浮云一区电信" line="0"/>
+		<GameArea id="2778" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="259" name="巫师之怒台服">
+		<GameArea id="2784" name="光之森林" line="2"/>
+		<GameArea id="2785" name="冰封边境" line="2"/>
+		<GameArea id="2786" name="水晶之都" line="2"/>
+		<GameArea id="2787" name="永聚岛" line="2"/>
+		<GameArea id="2788" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="260" name="侠义道II">
+		<GameArea id="2789" name="全部区服" line="2"/>
+		<GameArea id="2790" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="261" name="再战辉煌">
+		<GameArea id="2795" name="再战辉煌" line="2"/>
+		<GameArea id="2796" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="262" name="真三国无双OL">
+		<GameArea id="2797" name="电信一区（华东）" line="0"/>
+		<GameArea id="2798" name="电信四区（华南）" line="0"/>
+		<GameArea id="2799" name="网通一区（华北）" line="1"/>
+		<GameArea id="2800" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="263" name="Game淘游戏平台">
+		<GameArea id="2803" name="明星三缺一" line="2"/>
+		<GameArea id="2864" name="明星斗地主" line="2"/>
+		<GameArea id="2865" name="明星拖拉机" line="2"/>
+		<GameArea id="2866" name="王牌接龙" line="2"/>
+		<GameArea id="2867" name="王牌锄" line="2"/>
+		<GameArea id="2868" name="大地" line="2"/>
+		<GameArea id="2869" name="决战连连看" line="2"/>
+		<GameArea id="2870" name="仙界传" line="2"/>
+		<GameArea id="2871" name="唯舞独尊" line="2"/>
+		<GameArea id="2872" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="264" name="全民足球">
+		<GameArea id="2804" name="激情内测区" line="2"/>
+		<GameArea id="2805" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="265" name="魔力宝贝">
+		<GameArea id="2806" name="牧羊" line="2"/>
+		<GameArea id="2807" name="金牛" line="2"/>
+		<GameArea id="2808" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="266" name="大话西游之战歌">
+		<GameArea id="2809" name="天界天下无双" line="2"/>
+		<GameArea id="2810" name="天界浪淘沙" line="2"/>
+		<GameArea id="2811" name="天界天若有情" line="2"/>
+		<GameArea id="2812" name="天界月光宝盒" line="2"/>
+		<GameArea id="2813" name="地界仙履奇缘" line="2"/>
+		<GameArea id="2814" name="地界梦回长安" line="2"/>
+		<GameArea id="2815" name="地界逐鹿天下" line="2"/>
+		<GameArea id="2816" name="地界问鼎中原" line="2"/>
+		<GameArea id="2817" name="地界蝶恋花" line="2"/>
+		<GameArea id="2818" name="地界岱宗如何" line="2"/>
+		<GameArea id="2819" name="地界霸者横栏" line="2"/>
+		<GameArea id="2820" name="地界丹霞旭日" line="2"/>
+		<GameArea id="2821" name="人界仗剑天涯" line="2"/>
+		<GameArea id="2822" name="人界瑞雪丰年" line="2"/>
+		<GameArea id="2823" name="人界王者归来" line="2"/>
+		<GameArea id="2824" name="人界战无不胜" line="2"/>
+		<GameArea id="2825" name="人界长乐未央" line="2"/>
+		<GameArea id="2826" name="人界英雄本色" line="2"/>
+		<GameArea id="2827" name="人界破阵曲" line="2"/>
+		<GameArea id="2828" name="人界君临天下" line="2"/>
+		<GameArea id="2829" name="人界壮志凌云" line="2"/>
+		<GameArea id="2830" name="人界夏日终年" line="2"/>
+		<GameArea id="2831" name="测试战歌试玩" line="2"/>
+		<GameArea id="2832" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="267" name="穿越火线美服">
+		<GameArea id="2833" name="美服" line="2"/>
+		<GameArea id="2834" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="268" name="混乱冒险泰国服">
+		<GameArea id="2835" name="Mars" line="2"/>
+		<GameArea id="2836" name="Lunar" line="2"/>
+		<GameArea id="2837" name="Mercury" line="2"/>
+		<GameArea id="2838" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="269" name="捌捌网络绿色版">
+		<GameArea id="2843" name="1区" line="2"/>
+		<GameArea id="2844" name="2区" line="2"/>
+		<GameArea id="2845" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="270" name="艾尔之光台服">
+		<GameArea id="2846" name="台服" line="2"/>
+		<GameArea id="2847" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="271" name="龙之谷畅玩版">
+		<GameArea id="2848" name="电信区" line="0"/>
+		<GameArea id="2849" name="网通区" line="1"/>
+		<GameArea id="2850" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="272" name="中华龙塔">
+		<GameArea id="2851" name="电信一区烈风平原" line="0"/>
+		<GameArea id="2852" name="电信一区灰雾森林" line="0"/>
+		<GameArea id="2853" name="电信一区幽者魔岩" line="0"/>
+		<GameArea id="2854" name="电信一区萤火之地" line="0"/>
+		<GameArea id="2855" name="电信一区暮色巢穴" line="0"/>
+		<GameArea id="2856" name="电信二区精灵湖" line="0"/>
+		<GameArea id="2857" name="联通一区雪域冰峰" line="1"/>
+		<GameArea id="2858" name="联通一区东塘古道" line="1"/>
+		<GameArea id="2859" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="273" name="巨商港服">
+		<GameArea id="2860" name="商1" line="2"/>
+		<GameArea id="2861" name="商2" line="2"/>
+		<GameArea id="2862" name="商3" line="2"/>
+		<GameArea id="2863" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="274" name="黄易群侠传OL">
+		<GameArea id="2937" name="战神图录-1" line="2"/>
+		<GameArea id="2938" name="战神图录-2" line="2"/>
+		<GameArea id="2939" name="战神图录-3" line="2"/>
+		<GameArea id="2940" name="战神图录-4" line="2"/>
+		<GameArea id="2941" name="逐鹿中原-1" line="2"/>
+		<GameArea id="2942" name="逐鹿中原-2" line="2"/>
+		<GameArea id="2943" name="逐鹿中原-3" line="2"/>
+		<GameArea id="2944" name="逐鹿中原-4" line="2"/>
+		<GameArea id="2945" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="275" name="机甲世纪">
+		<GameArea id="2946" name="双线1区电信入口-幻神" line="0"/>
+		<GameArea id="2947" name="双线1区网通入口-幻神" line="1"/>
+		<GameArea id="2948" name="电信2区-战戟" line="0"/>
+		<GameArea id="2949" name="网通2区-天火" line="1"/>
+		<GameArea id="2950" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="276" name="剑舞江南">
+		<GameArea id="2951" name="官方电信战区" line="0"/>
+		<GameArea id="2952" name="官方网通战区" line="1"/>
+		<GameArea id="2953" name="官方多线战区" line="2"/>
+		<GameArea id="2954" name="乱斗锦标赛战区" line="2"/>
+		<GameArea id="2955" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="277" name="宠物森林">
+		<GameArea id="2956" name="双线一区-梦幻之都-电信" line="0"/>
+		<GameArea id="2957" name="双线一区-梦幻之都-网通" line="1"/>
+		<GameArea id="2958" name="华东-空中堡垒" line="2"/>
+		<GameArea id="2959" name="华东-黑莓庄园" line="2"/>
+		<GameArea id="2960" name="华北-皇家海盗" line="2"/>
+		<GameArea id="2961" name="精英测试大区" line="2"/>
+		<GameArea id="2962" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="278" name="迪士尼魔幻飞板">
+		<GameArea id="2963" name="空中都市" line="2"/>
+		<GameArea id="2964" name="奇迹之海" line="2"/>
+		<GameArea id="2965" name="魔法大陆" line="2"/>
+		<GameArea id="2966" name="测试区" line="2"/>
+		<GameArea id="2967" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="279" name="风雨寻秦">
+		<GameArea id="2989" name="正式公测1区合入超级战区" line="2"/>
+		<GameArea id="2990" name="卧虎藏龙合入江山美人" line="2"/>
+		<GameArea id="2991" name="战国回归" line="2"/>
+		<GameArea id="2992" name="狼烟四起" line="2"/>
+		<GameArea id="2996" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="280" name="烽火情缘">
+		<GameArea id="2993" name="金戈铁马-电信" line="0"/>
+		<GameArea id="2994" name="金戈铁马-网通" line="1"/>
+		<GameArea id="2995" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="281" name="封神榜国际板">
+		<GameArea id="2997" name="封神台" line="2"/>
+		<GameArea id="2998" name="瑶池" line="2"/>
+		<GameArea id="2999" name="朝歌" line="2"/>
+		<GameArea id="3000" name="西岐" line="2"/>
+		<GameArea id="3001" name="潼关" line="2"/>
+		<GameArea id="3002" name="陈塘关" line="2"/>
+		<GameArea id="3003" name="万仙阵" line="2"/>
+		<GameArea id="3004" name="诛仙阵" line="2"/>
+		<GameArea id="3005" name="崇城大营" line="2"/>
+		<GameArea id="3006" name="玉虚宫" line="2"/>
+		<GameArea id="3007" name="碧游宫" line="2"/>
+		<GameArea id="3008" name="远古战场" line="2"/>
+		<GameArea id="3009" name="牧野" line="2"/>
+		<GameArea id="3010" name="摘星台" line="2"/>
+		<GameArea id="3011" name="麒麟崖" line="2"/>
+		<GameArea id="3012" name="罗浮洞" line="2"/>
+		<GameArea id="3013" name="三仙岛" line="2"/>
+		<GameArea id="3014" name="青龙关" line="2"/>
+		<GameArea id="3015" name="玲珑塔" line="2"/>
+		<GameArea id="3016" name="朱雀台" line="2"/>
+		<GameArea id="3017" name="玄武殿" line="2"/>
+		<GameArea id="3018" name="佳梦关" line="2"/>
+		<GameArea id="3019" name="降龙洞" line="2"/>
+		<GameArea id="3020" name="伏虎山" line="2"/>
+		<GameArea id="3021" name="九宫山" line="2"/>
+		<GameArea id="3022" name="凤凰岭" line="2"/>
+		<GameArea id="3023" name="蓬莱岛" line="2"/>
+		<GameArea id="3024" name="通天崖" line="2"/>
+		<GameArea id="3025" name="神仙谷" line="2"/>
+		<GameArea id="3026" name="仙魔殿" line="2"/>
+		<GameArea id="3027" name="飞仙殿" line="2"/>
+		<GameArea id="3028" name="凌霄殿" line="2"/>
+		<GameArea id="3029" name="乾元山" line="2"/>
+		<GameArea id="3030" name="洞天" line="2"/>
+		<GameArea id="3031" name="福地" line="2"/>
+		<GameArea id="3032" name="云梦泽" line="2"/>
+		<GameArea id="3033" name="宝德门" line="2"/>
+		<GameArea id="3034" name="金庭山" line="2"/>
+		<GameArea id="3035" name="狱法山" line="2"/>
+		<GameArea id="3037" name="轩云阁" line="2"/>
+		<GameArea id="3038" name="紫玄洞" line="2"/>
+		<GameArea id="3039" name="金陵宫" line="2"/>
+		<GameArea id="3040" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="282" name="海盗王OL">
+		<GameArea id="3041" name="华东大区" line="2"/>
+		<GameArea id="3042" name="怀旧电信区" line="0"/>
+		<GameArea id="3043" name="华东二区" line="2"/>
+		<GameArea id="3044" name="华东三区" line="2"/>
+		<GameArea id="3045" name="华北大区" line="2"/>
+		<GameArea id="3046" name="怀旧网通区" line="1"/>
+		<GameArea id="3047" name="联众网通" line="1"/>
+		<GameArea id="3048" name="华北二区" line="2"/>
+		<GameArea id="3049" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="283" name="航海世纪">
+		<GameArea id="3050" name="网通一区荣誉号" line="1"/>
+		<GameArea id="3051" name="网通二区新天地号" line="1"/>
+		<GameArea id="3052" name="网通十一区新元龙" line="1"/>
+		<GameArea id="3053" name="电信一区荣誉号" line="0"/>
+		<GameArea id="3054" name="电信二区海魂号" line="0"/>
+		<GameArea id="3055" name="电信七区闪耀者号" line="0"/>
+		<GameArea id="3056" name="电信三十区亚特兰蒂斯号" line="0"/>
+		<GameArea id="3057" name="电信三十三区曙光号" line="0"/>
+		<GameArea id="3058" name="双线三十四区海玄号" line="2"/>
+		<GameArea id="3059" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="284" name="重返神州">
+		<GameArea id="3060" name="问鼎区" line="2"/>
+		<GameArea id="3061" name="中原区" line="2"/>
+		<GameArea id="3062" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="285" name="经典传奇3">
+		<GameArea id="3063" name="雷霆区" line="2"/>
+		<GameArea id="3064" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="286" name="天下传奇">
+		<GameArea id="3065" name="天下梁山一区" line="2"/>
+		<GameArea id="3066" name="天下梁山二区" line="2"/>
+		<GameArea id="3067" name="天下梁山三区" line="2"/>
+		<GameArea id="3068" name="天下幽灵1-3" line="2"/>
+		<GameArea id="3069" name="天下争夺1-3" line="2"/>
+		<GameArea id="3070" name="天下夸父1-3" line="2"/>
+		<GameArea id="3071" name="天下极品1-3" line="2"/>
+		<GameArea id="3072" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="287" name="特战先锋">
+		<GameArea id="3073" name="封测区" line="2"/>
+		<GameArea id="3074" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="288" name="成吉思汗怀旧版">
+		<GameArea id="3075" name="全国双线一区烽烟再起" line="2"/>
+		<GameArea id="3076" name="全国双线一区战火重燃" line="2"/>
+		<GameArea id="3077" name="全国双线一区铁血雄心" line="2"/>
+		<GameArea id="3078" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="289" name="神仙传">
+		<GameArea id="3116" name="电信VIP女娲" line="0"/>
+		<GameArea id="3117" name="网通VIP万灵城" line="1"/>
+		<GameArea id="3118" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="290" name="三国群英传online">
+		<GameArea id="3119" name="真武（联通）" line="1"/>
+		<GameArea id="3120" name="啸天万夫（电信）" line="0"/>
+		<GameArea id="3121" name="跨世（电信）" line="0"/>
+		<GameArea id="3122" name="神将（电信）" line="0"/>
+		<GameArea id="3123" name="虎牢关白帝城（电信）" line="0"/>
+		<GameArea id="3124" name="逐鹿苍穹轮回（电信）" line="0"/>
+		<GameArea id="3125" name="至尊翔龙（电信）" line="0"/>
+		<GameArea id="3126" name="苍龙华容道（电信）" line="0"/>
+		<GameArea id="3127" name="一匡天下（双线）" line="2"/>
+		<GameArea id="3128" name="开阳龙腾（双线）" line="2"/>
+		<GameArea id="3129" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="291" name="水果奇迹">
+		<GameArea id="3130" name="草莓区" line="2"/>
+		<GameArea id="3131" name="水果区" line="2"/>
+	</GameID>
+	<GameID id="292" name="传奇外传">
+		<GameArea id="3132" name="鹏程万里（1区电信）" line="0"/>
+		<GameArea id="3133" name="前程似锦（2区网通）" line="1"/>
+		<GameArea id="3134" name="群雄逐鹿（3区电信）" line="0"/>
+		<GameArea id="3135" name="君临天下（4区网通）" line="1"/>
+		<GameArea id="3136" name="叱咤风云（5区电信）" line="0"/>
+		<GameArea id="3137" name="继往开来（6区网通）" line="1"/>
+		<GameArea id="3138" name="风云雷电（7区电信）" line="0"/>
+		<GameArea id="3139" name="胜者为王（8区电信）" line="0"/>
+		<GameArea id="3140" name="风云再起（9区网通）" line="1"/>
+		<GameArea id="3141" name="傲江湖（10区电信）" line="0"/>
+		<GameArea id="3142" name="壮志凌云（11区网通）" line="1"/>
+		<GameArea id="3143" name="风花雪月（12区电信）" line="0"/>
+		<GameArea id="3144" name="龙腾九天（13区网通）" line="1"/>
+		<GameArea id="3145" name="吉祥如意（14区电信）" line="0"/>
+		<GameArea id="3146" name="天上人间（15区网通）" line="1"/>
+		<GameArea id="3147" name="书剑恩仇（16区电信）" line="0"/>
+		<GameArea id="3148" name="玛法决战（17区网通）" line="1"/>
+		<GameArea id="3149" name="欢乐圣诞（18区电信)" line="0"/>
+		<GameArea id="3150" name="瑞雪丰年（19区网通）" line="1"/>
+		<GameArea id="3151" name="决战王城（20区电信）" line="0"/>
+		<GameArea id="3152" name="兵临城下（21区网通)" line="1"/>
+		<GameArea id="3153" name="[新]双雄争霸（22区电信）" line="0"/>
+		<GameArea id="3154" name="[新] 凤凰涅槃(23区网通)" line="1"/>
+		<GameArea id="3155" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="293" name="武林群侠传2">
+		<GameArea id="3156" name="网通区豪侠凯旋" line="1"/>
+		<GameArea id="3157" name="电信区君王枭雄" line="0"/>
+		<GameArea id="3158" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="294" name="铁血奇迹">
+		<GameArea id="3159" name="铁血总区60区" line="2"/>
+		<GameArea id="3160" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="295" name="大话西游3">
+		<GameArea id="3161" name="四川区" line="2"/>
+		<GameArea id="3162" name="福建区" line="2"/>
+		<GameArea id="3163" name="内蒙古区" line="2"/>
+		<GameArea id="3164" name="江苏区" line="2"/>
+		<GameArea id="3165" name="陕西区" line="2"/>
+		<GameArea id="3166" name="河北区" line="2"/>
+		<GameArea id="3167" name="广东区" line="2"/>
+		<GameArea id="3168" name="山西区" line="2"/>
+		<GameArea id="3169" name="山东区" line="2"/>
+		<GameArea id="3170" name="河南区" line="2"/>
+		<GameArea id="3171" name="云南区" line="2"/>
+		<GameArea id="3172" name="浙江区" line="2"/>
+		<GameArea id="3173" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="296" name="英雄2">
+		<GameArea id="3174" name="电信一区摘星台功勋" line="0"/>
+		<GameArea id="3175" name="电信二区麒麟山功勋" line="0"/>
+		<GameArea id="3176" name="网通一区七星湖功勋" line="1"/>
+		<GameArea id="3177" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="297" name="混乱冒险欧洲服">
+		<GameArea id="3179" name="GSPch1" line="2"/>
+		<GameArea id="3180" name="GSPch2" line="2"/>
+		<GameArea id="3181" name="GSPch3" line="2"/>
+		<GameArea id="3182" name="GSPch4" line="2"/>
+		<GameArea id="3183" name="GSPch5" line="2"/>
+		<GameArea id="3184" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="298" name="桃花源记">
+		<GameArea id="3185" name="世外桃源（电信）" line="0"/>
+		<GameArea id="3186" name="世外桃源（网通）" line="1"/>
+		<GameArea id="3187" name="上善若水（电信）" line="0"/>
+		<GameArea id="3188" name="上善若水（网通）" line="1"/>
+		<GameArea id="3189" name="迦蓝仙境（电信）" line="0"/>
+		<GameArea id="3190" name="迦蓝仙境（网通）" line="1"/>
+		<GameArea id="3191" name="缘定三生（电信）" line="0"/>
+		<GameArea id="3192" name="缘定三生（网通）" line="1"/>
+		<GameArea id="3193" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="299" name="神兵传奇盛大版">
+		<GameArea id="3194" name="盛世一区龙腾盛世" line="2"/>
+		<GameArea id="3195" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="300" name="精灵">
+		<GameArea id="3196" name="永恒世界（怀旧服）" line="2"/>
+		<GameArea id="3197" name="雄霸天下（PK服）" line="2"/>
+		<GameArea id="3198" name="活动" line="2"/>
+		<GameArea id="3199" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="301" name="决战">
+		<GameArea id="3200" name="巴贝拉星（双线）" line="2"/>
+		<GameArea id="3201" name="泰斯拉星（双线）" line="2"/>
+		<GameArea id="3202" name="决战老服（双线）" line="2"/>
+		<GameArea id="3206" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="303" name="迅雷问鼎">
+		<GameArea id="3207" name="电信一区" line="0"/>
+		<GameArea id="3208" name="网通一区" line="1"/>
+		<GameArea id="3209" name="双线区" line="2"/>
+		<GameArea id="3225" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="304" name="龙骑士">
+		<GameArea id="3210" name="赤焰战场（BGP双线）" line="2"/>
+		<GameArea id="3211" name="2011-双线新区" line="2"/>
+		<GameArea id="3212" name="兔年新区（双线）" line="2"/>
+		<GameArea id="3213" name="双线大区" line="2"/>
+		<GameArea id="3214" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="305" name="新密传">
+		<GameArea id="3222" name="电信一区" line="0"/>
+		<GameArea id="3223" name="网通一区" line="1"/>
+		<GameArea id="3224" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="307" name="生肖传说">
+		<GameArea id="3230" name="电信-似水流年" line="0"/>
+		<GameArea id="3231" name="电信-蝶恋花" line="0"/>
+		<GameArea id="3232" name="电信-涅槃升仙" line="0"/>
+		<GameArea id="3233" name="电信-碧瑶宫" line="0"/>
+		<GameArea id="3234" name="电信-凌霄城" line="0"/>
+		<GameArea id="3235" name="联通-仙山琼阁" line="1"/>
+		<GameArea id="3236" name="联通-春草园" line="1"/>
+		<GameArea id="3237" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="308" name="仙侣奇缘3">
+		<GameArea id="3238" name="梦舞仙苑" line="2"/>
+		<GameArea id="3239" name="真情修仙" line="2"/>
+		<GameArea id="3240" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="309" name="逐鹿天下">
+		<GameArea id="3241" name="电信一区-图穷匕见" line="0"/>
+		<GameArea id="3242" name="电信一区-巅峰对决" line="0"/>
+		<GameArea id="3243" name="电信一区-朝秦暮楚" line="0"/>
+		<GameArea id="3244" name="电信一区-城下之盟" line="0"/>
+		<GameArea id="3245" name="电信一区-风声鹤唳" line="0"/>
+		<GameArea id="3246" name="电信一区-揭竿起义" line="0"/>
+		<GameArea id="3247" name="网通一区-逐鹿中原" line="1"/>
+		<GameArea id="3248" name="网通一区-出奇制胜" line="1"/>
+		<GameArea id="3249" name="老战国区-仁者无敌" line="2"/>
+		<GameArea id="3250" name="老战国区-冰雪初融" line="2"/>
+		<GameArea id="3251" name="老战国区-锋芒再现" line="2"/>
+		<GameArea id="3252" name="老战国区-凤舞九天" line="2"/>
+		<GameArea id="3253" name="老战国区-金戈铁马" line="2"/>
+		<GameArea id="3254" name="逐鹿天下区-网通" line="1"/>
+		<GameArea id="3255" name="逐鹿天下区-义薄云天" line="2"/>
+		<GameArea id="3256" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="310" name="智通竞答">
+		<GameArea id="3257" name="官方圣城区-智通圣城" line="2"/>
+		<GameArea id="3258" name="官方圣城区-湖南圣城" line="2"/>
+		<GameArea id="3259" name="官方圣城区-河北圣城" line="2"/>
+		<GameArea id="3260" name="官方圣城区-北京圣城" line="2"/>
+		<GameArea id="3261" name="官方圣城区-上海圣城" line="2"/>
+		<GameArea id="3262" name="官方圣城区-浙江圣城" line="2"/>
+		<GameArea id="3263" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="311" name="风云武逸">
+		<GameArea id="3264" name="虎跃" line="2"/>
+		<GameArea id="3265" name="龙腾" line="2"/>
+		<GameArea id="3266" name="天龙地虎" line="2"/>
+		<GameArea id="3267" name="风云再现" line="2"/>
+		<GameArea id="3268" name="飘渺峰" line="2"/>
+		<GameArea id="3269" name="终南山" line="2"/>
+		<GameArea id="3270" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="312" name="天镜">
+		<GameArea id="3271" name="一区（电信）谁与争锋" line="0"/>
+		<GameArea id="3272" name="一区（电信）梦回虚空" line="0"/>
+		<GameArea id="3273" name="二区（电信）七重陵" line="0"/>
+		<GameArea id="3274" name="二区（电信）冰风谷" line="0"/>
+		<GameArea id="3275" name="三区（网通/联通）欣月楼" line="1"/>
+		<GameArea id="3276" name="三区（网通/联通）落叶亭" line="1"/>
+		<GameArea id="3277" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="313" name="侠盗列车手圣安地列斯联机版">
+		<GameArea id="3278" name="风云再起" line="2"/>
+		<GameArea id="3279" name="完美天空" line="2"/>
+		<GameArea id="3280" name="联合人生" line="2"/>
+		<GameArea id="3281" name="自由城" line="2"/>
+		<GameArea id="3282" name="SFTDM" line="2"/>
+		<GameArea id="3283" name="测试服" line="2"/>
+		<GameArea id="3284" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="314" name="天子">
+		<GameArea id="3285" name="电信88区移山倒海" line="0"/>
+		<GameArea id="3286" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="315" name="mir3美服">
+		<GameArea id="3287" name="mir3美服" line="2"/>
+		<GameArea id="3288" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="316" name="绿茶西游">
+		<GameArea id="3289" name="南天门" line="2"/>
+		<GameArea id="3290" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="317" name="幻影传奇">
+		<GameArea id="3291" name="幻影传奇D组" line="2"/>
+		<GameArea id="3292" name="幻影传奇C组" line="2"/>
+		<GameArea id="3293" name="幻影传奇B组" line="2"/>
+		<GameArea id="3294" name="幻影传奇A组" line="2"/>
+		<GameArea id="3295" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="318" name="台山ACE">
+		<GameArea id="3296" name="台山ACE" line="2"/>
+		<GameArea id="3297" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="319" name="游戏人生">
+		<GameArea id="3298" name="诺亚方舟" line="2"/>
+		<GameArea id="3299" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="320" name="盛世三国">
+		<GameArea id="3300" name="征战四方" line="2"/>
+		<GameArea id="3301" name="烽火连营" line="2"/>
+		<GameArea id="3302" name="群雄逐鹿" line="2"/>
+		<GameArea id="3303" name="过关斩将" line="2"/>
+		<GameArea id="3304" name="横扫千军" line="2"/>
+		<GameArea id="3305" name="乘胜追击" line="2"/>
+		<GameArea id="3306" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="321" name="乐透游戏">
+		<GameArea id="3307" name="九江1" line="2"/>
+		<GameArea id="3308" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="322" name="飚车">
+		<GameArea id="3309" name="小试牛刀电信" line="0"/>
+		<GameArea id="3310" name="小试牛刀电信2" line="0"/>
+		<GameArea id="3311" name="小试牛刀网通" line="1"/>
+		<GameArea id="3312" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="323" name="456游戏平台">
+		<GameArea id="3313" name="两帮" line="2"/>
+		<GameArea id="3314" name="德州扑克" line="2"/>
+		<GameArea id="3315" name="欢乐五张" line="2"/>
+		<GameArea id="3316" name="欢乐至尊" line="2"/>
+		<GameArea id="3317" name="斗牛" line="2"/>
+		<GameArea id="3318" name="连连看" line="2"/>
+		<GameArea id="3319" name="龙珠" line="2"/>
+		<GameArea id="3320" name="台球" line="2"/>
+		<GameArea id="3321" name="双扣" line="2"/>
+		<GameArea id="3322" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="324" name="178刀锋网络">
+		<GameArea id="3323" name="刀锋网络01区" line="2"/>
+		<GameArea id="3324" name="刀锋网络02区" line="2"/>
+		<GameArea id="3325" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="325" name="盛世传奇">
+		<GameArea id="3326" name="双线一区热血战歌" line="2"/>
+		<GameArea id="3327" name="双线一区铁血永恒" line="2"/>
+		<GameArea id="3328" name="双线一区雷霆战神" line="2"/>
+		<GameArea id="3329" name="双线一区皓月降龙" line="2"/>
+	</GameID>
+	<GameID id="326" name="猎国">
+		<GameArea id="3330" name="火爆新区" line="2"/>
+		<GameArea id="3331" name="双线一区" line="2"/>
+		<GameArea id="3332" name="双线二区" line="2"/>
+		<GameArea id="3333" name="电信三区" line="0"/>
+		<GameArea id="3334" name="电信二区" line="0"/>
+		<GameArea id="3335" name="联通一区" line="1"/>
+		<GameArea id="3336" name="华东电信专区" line="0"/>
+		<GameArea id="3337" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="327" name="苍穹之怒">
+		<GameArea id="3338" name="电信一区" line="0"/>
+		<GameArea id="3339" name="网通一区" line="1"/>
+		<GameArea id="3340" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="328" name="雷神奇迹">
+		<GameArea id="3341" name="盛大区-风云区" line="2"/>
+		<GameArea id="3342" name="依然-传说-1-4区" line="2"/>
+		<GameArea id="3343" name="雷神-星辰01区" line="2"/>
+		<GameArea id="3344" name="雷神-星辰02区" line="2"/>
+		<GameArea id="3345" name="雷神-星辰03区" line="2"/>
+		<GameArea id="3346" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="329" name="星战前夜EVE">
+		<GameArea id="3347" name="晨曦" line="2"/>
+		<GameArea id="3348" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="330" name="穿越火线台服">
+		<GameArea id="3349" name="台服" line="2"/>
+		<GameArea id="3350" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="331" name="死神之刃">
+		<GameArea id="3351" name="电信一乱世群侠" line="0"/>
+		<GameArea id="3352" name="电信一逐鹿中原" line="0"/>
+		<GameArea id="3353" name="电信一狂啸九天" line="0"/>
+		<GameArea id="3354" name="网通一征战四方" line="1"/>
+		<GameArea id="3355" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="332" name="元斗士">
+		<GameArea id="3356" name="迪云服务器" line="2"/>
+		<GameArea id="3357" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="333" name="盛世风云">
+		<GameArea id="3358" name="盛世一区" line="2"/>
+		<GameArea id="3359" name="盛世二区" line="2"/>
+		<GameArea id="3360" name="盛世三区" line="2"/>
+		<GameArea id="3361" name="盛世四区" line="2"/>
+		<GameArea id="3362" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="334" name="征服">
+		<GameArea id="3363" name="征服八区剑丹琴心" line="2"/>
+		<GameArea id="3364" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="335" name="龙OL">
+		<GameArea id="3420" name="华南电信二" line="0"/>
+		<GameArea id="3421" name="南方电信二" line="0"/>
+		<GameArea id="3422" name="华东电信二" line="0"/>
+		<GameArea id="3423" name="北方网通二" line="1"/>
+		<GameArea id="3424" name="华东电信" line="0"/>
+		<GameArea id="3425" name="南方电信" line="0"/>
+		<GameArea id="3426" name="华南电信" line="0"/>
+		<GameArea id="3427" name="华中电信" line="0"/>
+		<GameArea id="3428" name="北方网通" line="1"/>
+		<GameArea id="3429" name="东北网通" line="1"/>
+		<GameArea id="3430" name="江南双线" line="2"/>
+		<GameArea id="3431" name="YY双线区" line="2"/>
+		<GameArea id="3432" name="达人电信区" line="0"/>
+		<GameArea id="3433" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="336" name="绝地反击">
+		<GameArea id="3434" name="电信区" line="0"/>
+		<GameArea id="3435" name="网通区" line="1"/>
+		<GameArea id="3436" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="337" name="隋唐演义">
+		<GameArea id="3437" name="技测双线区技术测试服01" line="2"/>
+		<GameArea id="3438" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="338" name="海魂">
+		<GameArea id="3439" name="自由海一" line="2"/>
+		<GameArea id="3440" name="自由海二" line="2"/>
+		<GameArea id="3441" name="银沙滩一" line="2"/>
+		<GameArea id="3442" name="银沙滩二" line="2"/>
+		<GameArea id="3443" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="339" name="艾尔之光">
+		<GameArea id="3444" name="电信一区" line="0"/>
+		<GameArea id="3445" name="网通一区" line="1"/>
+		<GameArea id="3446" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="340" name="倚天屠龙记">
+		<GameArea id="3448" name="完美测试专区光明顶" line="2"/>
+		<GameArea id="3515" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="341" name="第九大陆">
+		<GameArea id="3449" name="电信一区沃特福" line="0"/>
+		<GameArea id="3450" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="342" name="潘多拉">
+		<GameArea id="3451" name="网通一区" line="1"/>
+		<GameArea id="3452" name="电信一区" line="0"/>
+		<GameArea id="3453" name="电信二区" line="0"/>
+		<GameArea id="3454" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="343" name="恐龙战队">
+		<GameArea id="3455" name="所有区服" line="2"/>
+		<GameArea id="3456" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="344" name="真封神国际版">
+		<GameArea id="3458" name="国际老区电信" line="0"/>
+		<GameArea id="3459" name="天怒逆天电信" line="0"/>
+		<GameArea id="3460" name="金鳞电信" line="0"/>
+		<GameArea id="3461" name="骄阳电信" line="0"/>
+		<GameArea id="3462" name="太极电信" line="0"/>
+		<GameArea id="3463" name="天罡电信" line="0"/>
+		<GameArea id="3464" name="灵隐电信" line="0"/>
+		<GameArea id="3465" name="净月新电信" line="0"/>
+		<GameArea id="3466" name="国际老区网通" line="1"/>
+		<GameArea id="3467" name="天怒逆天网通" line="1"/>
+		<GameArea id="3468" name="金鳞网通" line="1"/>
+		<GameArea id="3469" name="骄阳网通" line="1"/>
+		<GameArea id="3470" name="太极网通" line="1"/>
+		<GameArea id="3471" name="天罡网通" line="1"/>
+		<GameArea id="3472" name="灵隐网通" line="1"/>
+		<GameArea id="3473" name="净月新网通" line="1"/>
+		<GameArea id="3474" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="345" name="苍生OL">
+		<GameArea id="3475" name="华东电信一区乌衣巷" line="0"/>
+		<GameArea id="3476" name="华东电信一区寒山寺" line="0"/>
+		<GameArea id="3477" name="华中电信一区靖王阁" line="0"/>
+		<GameArea id="3478" name="华中电信一区黑木寨" line="0"/>
+		<GameArea id="3479" name="华北网通一区刘伯温" line="1"/>
+		<GameArea id="3480" name="华北网通一区戚继光" line="1"/>
+		<GameArea id="3481" name="限量测试服大凌河" line="2"/>
+		<GameArea id="3482" name="限量测试服华山论剑" line="2"/>
+		<GameArea id="3483" name="限量测试服淮水沙场" line="2"/>
+		<GameArea id="3484" name="限量测试服喜峰口" line="2"/>
+		<GameArea id="3485" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="346" name="皇天奇迹">
+		<GameArea id="3486" name="黄天奇迹所有区服" line="2"/>
+		<GameArea id="3487" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="347" name="凤凰传奇">
+		<GameArea id="3488" name="光明战神一区" line="2"/>
+		<GameArea id="3489" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="348" name="火力突击">
+		<GameArea id="3490" name="电信一区" line="0"/>
+		<GameArea id="3491" name="网通一区" line="1"/>
+		<GameArea id="3492" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="349" name="VR网球4">
+		<GameArea id="3493" name="单机联网" line="2"/>
+		<GameArea id="3494" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="350" name="MKZ军魂">
+		<GameArea id="3495" name="电信南部战区" line="0"/>
+		<GameArea id="3496" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="351" name="蚩尤传">
+		<GameArea id="3497" name="电信区" line="0"/>
+		<GameArea id="3498" name="网通区" line="1"/>
+		<GameArea id="3499" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="352" name="悍马传奇">
+		<GameArea id="3500" name="悍马九区" line="2"/>
+		<GameArea id="3501" name="悍马八区" line="2"/>
+		<GameArea id="3502" name="悍马1-5区" line="2"/>
+		<GameArea id="3503" name="悍马6-7区" line="2"/>
+		<GameArea id="3504" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="353" name="失落的失望2">
+		<GameArea id="3505" name="MOD区" line="2"/>
+		<GameArea id="3506" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="354" name="绿色传奇">
+		<GameArea id="3507" name="国泰民安" line="2"/>
+		<GameArea id="3508" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="355" name="降龙之剑极致版">
+		<GameArea id="3509" name="双线区龙争虎斗" line="2"/>
+		<GameArea id="3510" name="电信一区仁者无敌" line="0"/>
+		<GameArea id="3511" name="电信一区卧虎神州" line="0"/>
+		<GameArea id="3512" name="网通一区剑荡九州" line="1"/>
+		<GameArea id="3513" name="网通一区明君霸业" line="1"/>
+		<GameArea id="3514" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="356" name="天子">
+		<GameArea id="3516" name="电信区替天行道" line="0"/>
+		<GameArea id="3517" name="电信区移山倒海" line="0"/>
+		<GameArea id="3518" name="电信区星罗四海" line="0"/>
+		<GameArea id="3519" name="双线区万夫莫敌" line="2"/>
+		<GameArea id="3520" name="双线区盛世争雄" line="2"/>
+		<GameArea id="3521" name="双线区草木星驰" line="2"/>
+		<GameArea id="3522" name="双线区浴血云涌" line="2"/>
+		<GameArea id="3523" name="双线区赤胆结义" line="2"/>
+		<GameArea id="3524" name="双线区龙威胜者" line="2"/>
+		<GameArea id="3525" name="双线区纵横盛世" line="2"/>
+		<GameArea id="3526" name="联赛区三国联赛" line="2"/>
+		<GameArea id="3527" name="天子体验服" line="2"/>
+		<GameArea id="3528" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="357" name="血染的朱雀">
+		<GameArea id="3529" name="广东区(电信)锦绣中华" line="2"/>
+		<GameArea id="3530" name="广东区(电信)凤凰山" line="2"/>
+		<GameArea id="3531" name="广东区(电信)碧水湾" line="2"/>
+		<GameArea id="3532" name="广东区(电信)凤鸣仙山" line="2"/>
+		<GameArea id="3533" name="广东区(电信)七星报喜" line="2"/>
+		<GameArea id="3534" name="广东区(电信)白云山" line="2"/>
+		<GameArea id="3535" name="浙江区(电信)飞云湖" line="2"/>
+		<GameArea id="3536" name="浙江区(电信)天目山" line="2"/>
+		<GameArea id="3537" name="浙江区(电信)飞来峰" line="2"/>
+		<GameArea id="3538" name="浙江区(电信)苏堤春晓" line="2"/>
+		<GameArea id="3539" name="浙江区(电信)普陀山" line="2"/>
+		<GameArea id="3540" name="山东区(网通)崂山仙境" line="2"/>
+		<GameArea id="3541" name="山东区(网通)蓬莱阁" line="2"/>
+		<GameArea id="3542" name="山东区(网通)千佛朝圣" line="2"/>
+		<GameArea id="3543" name="山东区(网通)泰山封禅" line="2"/>
+		<GameArea id="3544" name="华南区(电信)桂林山水" line="2"/>
+		<GameArea id="3545" name="华南区(电信)莲花山" line="2"/>
+		<GameArea id="3546" name="双线区龙腾虎啸(电信)" line="2"/>
+		<GameArea id="3547" name="双线区龙腾虎啸(网通)" line="2"/>
+		<GameArea id="3548" name="双线区开天辟地(电信)" line="2"/>
+		<GameArea id="3549" name="双线区开天辟地(网通)" line="2"/>
+		<GameArea id="3550" name="双线区顶天立地(电信)" line="2"/>
+		<GameArea id="3551" name="双线区顶天立地(网通)" line="2"/>
+	</GameID>
+	<GameID id="358" name="魔兽cs1.5">
+		<GameArea id="3552" name="魔兽1.5广东1区" line="2"/>
+		<GameArea id="3553" name="魔兽1.5广东2区" line="2"/>
+		<GameArea id="3554" name="魔兽1.5广东3区" line="2"/>
+		<GameArea id="3555" name="魔兽1.5浙江1区" line="2"/>
+		<GameArea id="3556" name="魔兽1.5上海1区" line="2"/>
+		<GameArea id="3557" name="魔兽1.5上海2区" line="2"/>
+		<GameArea id="3558" name="魔兽1.5上海3区" line="2"/>
+		<GameArea id="3559" name="魔兽1.5江苏1区" line="2"/>
+		<GameArea id="3560" name="魔兽1.5比赛专区" line="2"/>
+		<GameArea id="3561" name="老A普通服务器1区" line="2"/>
+		<GameArea id="3562" name="老A普通服务器2区" line="2"/>
+		<GameArea id="3563" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="359" name="西山001">
+		<GameArea id="3564" name="试玩区试玩服" line="2"/>
+	</GameID>
+	<GameID id="360" name="封神榜">
+		<GameArea id="3565" name="所有区服" line="2"/>
+	</GameID>
+	<GameID id="361" name="大唐豪侠">
+		<GameArea id="3566" name="广东1区电信" line="2"/>
+		<GameArea id="3567" name="浙江1区电信" line="2"/>
+		<GameArea id="3568" name="四川1区电信" line="2"/>
+		<GameArea id="3569" name="上海1区电信" line="2"/>
+		<GameArea id="3570" name="华北1区网通" line="2"/>
+		<GameArea id="3571" name="新网通1区" line="2"/>
+		<GameArea id="3572" name="新电信1区" line="2"/>
+		<GameArea id="3573" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="362" name="吞食天地2">
+		<GameArea id="3574" name="电信一（赤壁）" line="2"/>
+		<GameArea id="3575" name="电信二区（卧龙荆州建业）" line="2"/>
+		<GameArea id="3576" name="电信三区（成都博望坡）" line="2"/>
+		<GameArea id="3577" name="联通网通一区" line="2"/>
+		<GameArea id="3578" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="363" name="纵横网络">
+		<GameArea id="3579" name="兵荒马乱" line="2"/>
+		<GameArea id="3580" name="调虎离山" line="2"/>
+		<GameArea id="3581" name="借酒浇愁" line="2"/>
+		<GameArea id="3582" name="气吞山河" line="2"/>
+		<GameArea id="3583" name="4-1—4区" line="2"/>
+		<GameArea id="3584" name="1-4区1-4区" line="2"/>
+		<GameArea id="3585" name="纵横网络总区" line="2"/>
+	</GameID>
+	<GameID id="364" name="大唐豪侠外传">
+		<GameArea id="3586" name="测试区刀锋镇" line="2"/>
+		<GameArea id="3587" name="测试区还梦谷" line="2"/>
+		<GameArea id="3588" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="365" name="御龙归来">
+		<GameArea id="3589" name="御龙归来A组一区电信" line="2"/>
+		<GameArea id="3590" name="御龙归来A组一区网通" line="2"/>
+		<GameArea id="3591" name="御龙归来B组一区电信" line="2"/>
+		<GameArea id="3592" name="御龙归来B组一区网通" line="2"/>
+		<GameArea id="3593" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="366" name="古域">
+		<GameArea id="3594" name="所有区服" line="2"/>
+		<GameArea id="3595" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="367" name="平阳同城游">
+		<GameArea id="3596" name="新游戏" line="2"/>
+		<GameArea id="3597" name="特色纸牌类" line="2"/>
+		<GameArea id="3598" name="同城扑克室" line="2"/>
+		<GameArea id="3599" name="纸牌类" line="2"/>
+		<GameArea id="3600" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="368" name="武林至尊">
+		<GameArea id="3601" name="电信一区望阁湖" line="2"/>
+		<GameArea id="3602" name="电信一区浪仓亭" line="2"/>
+		<GameArea id="3603" name="网通二区聚星楼" line="2"/>
+		<GameArea id="3604" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="369" name="英雄美人2">
+		<GameArea id="3605" name="公测区柳浪闻莺（网通）" line="2"/>
+		<GameArea id="3606" name="公测区苏提春晓（电信）" line="2"/>
+		<GameArea id="3607" name="内测区追星逐月（双线）" line="2"/>
+		<GameArea id="3608" name="内测区箭不虚发（双线）" line="2"/>
+		<GameArea id="3609" name="内测区星火燎原（电信）" line="2"/>
+		<GameArea id="3610" name="内测区百发百中（电信）" line="2"/>
+		<GameArea id="3611" name="内测区箭雨流星（双线）" line="2"/>
+		<GameArea id="3612" name="内测区羿射九日（双线）" line="2"/>
+		<GameArea id="3613" name="内测区百步穿杨（双线）" line="2"/>
+		<GameArea id="3614" name="英雄美人福利版三潭印月" line="2"/>
+		<GameArea id="3615" name="英雄美人福利版傲视群雄" line="2"/>
+		<GameArea id="3616" name="英雄美人福利版群雄聚首" line="2"/>
+		<GameArea id="3617" name="英雄美人福利版龙腾虎跃" line="2"/>
+		<GameArea id="3618" name="英雄美人福利版凤舞九天" line="2"/>
+		<GameArea id="3619" name="公测二区雷霆万钧（网通）" line="2"/>
+		<GameArea id="3620" name="公测二区烽火连城（电信）" line="2"/>
+		<GameArea id="3621" name="公测二区倾城红颜（网通）" line="2"/>
+		<GameArea id="3622" name="公测二区至尊红颜（电信）" line="2"/>
+		<GameArea id="3623" name="公测一区决战天下（双线）" line="2"/>
+		<GameArea id="3624" name="公测一区谁与争锋（电信）" line="2"/>
+		<GameArea id="3625" name="公测一区群雄争霸（电信）" line="2"/>
+		<GameArea id="3626" name="公测一区吴钩映雪（网通）" line="2"/>
+		<GameArea id="3627" name="公测一区紫禁之巅（山东双线）" line="2"/>
+		<GameArea id="3628" name="公测一区雾凇仙境（吉林网通）" line="2"/>
+		<GameArea id="3629" name="内测一区龙腾千里" line="2"/>
+		<GameArea id="3630" name="内测一区双雄争霸" line="2"/>
+		<GameArea id="3631" name="内测一区决胜千里" line="2"/>
+		<GameArea id="3632" name="内测一区沙场点兵" line="2"/>
+		<GameArea id="3633" name="内测一区挑灯看剑" line="2"/>
+		<GameArea id="3634" name="内测一区决战友城（江苏区)" line="2"/>
+		<GameArea id="3635" name="内测二区君临天下" line="2"/>
+		<GameArea id="3636" name="内测二区金戈铁马" line="2"/>
+		<GameArea id="3637" name="内测二区侠骨柔情" line="2"/>
+		<GameArea id="3638" name="内测二区如梦令" line="2"/>
+		<GameArea id="3639" name="内测二区逐鹿中原（河南区）" line="2"/>
+		<GameArea id="3640" name="内测二区江山美人（北京区）" line="2"/>
+		<GameArea id="3641" name="体验区体验服（真发钱永久双倍）" line="2"/>
+		<GameArea id="3642" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="370" name="问天传奇">
+		<GameArea id="3643" name="神龙1--4区（正常开放）" line="2"/>
+		<GameArea id="3644" name="帝国网通一区（正常开放）" line="2"/>
+		<GameArea id="3645" name="帝国电信一区（正常开放）" line="2"/>
+		<GameArea id="3646" name="帝国网通二区（正常开放）" line="2"/>
+		<GameArea id="3647" name="帝国电信二区（正常开放）" line="2"/>
+		<GameArea id="3648" name="帝国网通三区（正常开放）" line="2"/>
+		<GameArea id="3649" name="帝国电信三区（正常开放）" line="2"/>
+		<GameArea id="3650" name="帝国网通四区（正常开放）" line="2"/>
+		<GameArea id="3651" name="帝国电信四区（正常开放）" line="2"/>
+		<GameArea id="3652" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="371" name="玄武OL">
+		<GameArea id="3653" name="华东电信剑气潇心（华东5服）" line="2"/>
+		<GameArea id="3654" name="华东电信隐天邪岛（华东1服）" line="2"/>
+		<GameArea id="3655" name="华东电信追梦秘境（华东2服）" line="2"/>
+		<GameArea id="3656" name="华东电信龙潭虎穴（华东3服）" line="2"/>
+		<GameArea id="3657" name="华东电信云游神迹（华东4服）" line="2"/>
+		<GameArea id="3658" name="华南电信刀光剑影（华南5服）" line="2"/>
+		<GameArea id="3659" name="华南电信姿意江湖（华南3服）" line="2"/>
+		<GameArea id="3660" name="华南电信龙吟岩泉（华南2服）" line="2"/>
+		<GameArea id="3661" name="华南电信碧海青天（华南1服）" line="2"/>
+		<GameArea id="3662" name="华南电信锦绣河山（华南4服）" line="2"/>
+		<GameArea id="3663" name="西部电信暗香疏影（西部3服）" line="2"/>
+		<GameArea id="3664" name="西部电信玉剑如虹（西部2服）" line="2"/>
+		<GameArea id="3665" name="西部电信炼域星火（西部1服）" line="2"/>
+		<GameArea id="3666" name="华北网通琴瑟合鸣（华北4服）" line="2"/>
+		<GameArea id="3667" name="华北网通烟波横琴（华北2服）" line="2"/>
+		<GameArea id="3668" name="华北网通快意长萧（华北3服）" line="2"/>
+		<GameArea id="3669" name="华北网通踏雪厉刃（华北1服）" line="2"/>
+		<GameArea id="3670" name="东北网通洞庭潇湘（东北4服）" line="2"/>
+		<GameArea id="3671" name="东北网通妙指连琴（东北3服）" line="2"/>
+		<GameArea id="3672" name="东北网通柔侠傲骨（东北2服）" line="2"/>
+		<GameArea id="3673" name="东北网通风声幻影（东北1服）" line="2"/>
+		<GameArea id="3674" name="玄武体验区浩渺苍穹" line="2"/>
+		<GameArea id="3675" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="372" name="特种部队台服Sfoneline">
+		<GameArea id="3677" name="台服所有大区" line="2"/>
+		<GameArea id="3678" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="373" name="暗黑传说港服">
+		<GameArea id="3679" name="电信区" line="0"/>
+		<GameArea id="3680" name="网通区" line="1"/>
+		<GameArea id="3681" name="希利安" line="2"/>
+		<GameArea id="3766" name="舒諾菲" line="2"/>
+		<GameArea id="3767" name="舒圖" line="2"/>
+		<GameArea id="3768" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="374" name="11对战平台">
+		<GameArea id="3682" name="DOTA" line="2"/>
+		<GameArea id="3683" name="IMBA" line="2"/>
+		<GameArea id="3684" name="OMG" line="2"/>
+		<GameArea id="3685" name="真三国无双" line="2"/>
+		<GameArea id="3686" name="魔兽RPG" line="2"/>
+		<GameArea id="3687" name="澄海" line="2"/>
+		<GameArea id="3688" name="信长之野望" line="2"/>
+		<GameArea id="3689" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="375" name="JR01">
+		<GameArea id="3690" name="义薄云天" line="2"/>
+		<GameArea id="3691" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="376" name="奇门">
+		<GameArea id="3692" name="技术测试区无极" line="2"/>
+		<GameArea id="3693" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="377" name="大连金涛奇迹">
+		<GameArea id="3694" name="电信服" line="0"/>
+		<GameArea id="3695" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="378" name="1.76奇迹天下">
+		<GameArea id="3697" name="[奇迹天下]三区(网通1线)" line="1"/>
+		<GameArea id="3698" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="379" name="散人之家传奇">
+		<GameArea id="3699" name="电信服务器13组" line="0"/>
+		<GameArea id="3700" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="380" name="红莲舞焰">
+		<GameArea id="3701" name="红莲舞焰16区" line="2"/>
+		<GameArea id="3702" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="381" name="仙OL">
+		<GameArea id="3703" name="封测服双线回梦仙境" line="2"/>
+		<GameArea id="3704" name="封测服电信奇缘仙境" line="0"/>
+		<GameArea id="3705" name="电信区奇缘仙境" line="0"/>
+		<GameArea id="3706" name="电信区八仙过海" line="0"/>
+		<GameArea id="3707" name="电信区卧虎藏龙" line="0"/>
+		<GameArea id="3708" name="电信区一剑倾城" line="0"/>
+		<GameArea id="3709" name="网通区逐鹿中原" line="1"/>
+		<GameArea id="3710" name="网通区群雄争霸" line="1"/>
+		<GameArea id="3711" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="382" name="辉煌神马">
+		<GameArea id="3712" name="巅峰娱乐(1)电信" line="0"/>
+		<GameArea id="3713" name="巅峰娱乐(1)网通" line="1"/>
+		<GameArea id="3714" name="巅峰娱乐(2)电信" line="0"/>
+		<GameArea id="3715" name="巅峰娱乐(2)网通" line="1"/>
+		<GameArea id="3716" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="383" name="凤凰传世">
+		<GameArea id="3717" name="凤凰传世电信区" line="0"/>
+		<GameArea id="3718" name="凤凰传世网通区" line="1"/>
+		<GameArea id="3719" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="384" name="猎刃">
+		<GameArea id="3720" name="电信1" line="0"/>
+		<GameArea id="3721" name="电信2" line="0"/>
+		<GameArea id="3722" name="电信3" line="0"/>
+		<GameArea id="3723" name="网通1" line="1"/>
+		<GameArea id="3724" name="网通2" line="1"/>
+		<GameArea id="3725" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="385" name="街机对战平台">
+		<GameArea id="3726" name="电信一区" line="0"/>
+		<GameArea id="3727" name="网通一区" line="1"/>
+		<GameArea id="3728" name="电信二区" line="0"/>
+		<GameArea id="3729" name="网通二区" line="1"/>
+		<GameArea id="3730" name="教育网一区" line="2"/>
+		<GameArea id="3731" name="比赛交流区" line="2"/>
+		<GameArea id="3732" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="386" name="九界">
+		<GameArea id="3733" name="传承测试一区" line="2"/>
+		<GameArea id="3734" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="387" name="黄易群侠传2（台服）">
+		<GameArea id="3735" name="覆雨伺服器" line="2"/>
+		<GameArea id="3736" name="大唐伺服器" line="2"/>
+		<GameArea id="3737" name="双龙伺服器" line="2"/>
+		<GameArea id="3738" name="月魔伺服器" line="2"/>
+		<GameArea id="3739" name="武尊伺服器" line="2"/>
+		<GameArea id="3740" name="天魔伺服器" line="2"/>
+		<GameArea id="3741" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="388" name="极速轮滑">
+		<GameArea id="3742" name="电信区" line="0"/>
+		<GameArea id="3743" name="网通区" line="1"/>
+		<GameArea id="3744" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="389" name="大话战国归来">
+		<GameArea id="3745" name="双线区" line="2"/>
+		<GameArea id="3746" name="电信区" line="0"/>
+		<GameArea id="3747" name="网通区" line="1"/>
+		<GameArea id="3748" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="390" name="CS1.6 ">
+		<GameArea id="3749" name="单机游戏联网" line="2"/>
+		<GameArea id="3750" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="391" name="聚仙">
+		<GameArea id="3751" name="火云岗" line="2"/>
+		<GameArea id="3752" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="392" name="烽火大唐">
+		<GameArea id="3753" name="电信一区洛阳城" line="0"/>
+		<GameArea id="3754" name="网通一区君天下" line="1"/>
+		<GameArea id="3755" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="393" name="恶魔法则">
+		<GameArea id="3756" name="华东电信" line="0"/>
+		<GameArea id="3757" name="西北电信" line="0"/>
+		<GameArea id="3758" name="华南电信" line="0"/>
+		<GameArea id="3759" name="北方网通" line="1"/>
+		<GameArea id="3760" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="394" name="魔神无双">
+		<GameArea id="3761" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="395" name="功夫世界">
+		<GameArea id="3762" name="盛大网通一万木争荣" line="1"/>
+		<GameArea id="3763" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="396" name="回忆蜡笔传奇">
+		<GameArea id="3764" name="回忆蜡笔传奇" line="2"/>
+		<GameArea id="3765" name="其他区服" line="2"/>
+	</GameID>
+	<GameID id="397" name="穿越1314">
+		<GameArea id="3769" name="辽宁2区" line="2"/>
+		<GameArea id="3770" name="其他区服" line="2"/>
+	</GameID>
+</Games>

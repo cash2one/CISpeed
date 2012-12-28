@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+							    <Nodes>
+								<GameInfo id="0">
+									<GameArea id="0">
+										<Node id="0" /></GameArea></GameInfo>
+								     <GameInfo id="1">
+									<GameArea id="1">
+										<Node id="102" /><Node id="56" /><Node id="19" /></GameArea>									
+									     <GameArea id="2">
+										<Node id="105" /><Node id="40" /><Node id="17" /></GameArea>									
+									     <GameArea id="3">
+										<Node id="105" /><Node id="103" /><Node id="63" /></GameArea>									
+									     <GameArea id="4">
+										<Node id="17" /><Node id="82" /><Node id="66" /></GameArea>									
+									     <GameArea id="5">
+										<Node id="39" /><Node id="19" /><Node id="52" /></GameArea>									
+									     <GameArea id="6">
+										<Node id="55" /><Node id="40" /><Node id="39" /></GameArea>									
+									     <GameArea id="7">
+										<Node id="103" /><Node id="102" /><Node id="91" /></GameArea>									
+									     <GameArea id="8">
+										<Node id="11" /><Node id="91" /><Node id="103" /></GameArea></GameInfo>
+								     <GameInfo id="2">
+									<GameArea id="12">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="3">
+									<GameArea id="16">
+										<Node id="63" /><Node id="102" /></GameArea>									
+									     <GameArea id="23">
+										<Node id="25" /><Node id="67" /><Node id="105" /></GameArea>									
+									     <GameArea id="32">
+										<Node id="103" /><Node id="91" /><Node id="118" /></GameArea>									
+									     <GameArea id="44">
+										<Node id="105" /><Node id="83" /><Node id="82" /></GameArea>									
+									     <GameArea id="45">
+										<Node id="19" /><Node id="102" /></GameArea></GameInfo>
+								     <GameInfo id="4">
+									<GameArea id="54">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="61">
+										<Node id="19" /></GameArea>									
+									     <GameArea id="63">
+										<Node id="111" /><Node id="113" /></GameArea></GameInfo>
+								     <GameInfo id="5">
+									<GameArea id="112">
+										<Node id="4" /></GameArea>									
+									     <GameArea id="115">
+										<Node id="51" /><Node id="19" /><Node id="39" /></GameArea>									
+									     <GameArea id="3931">
+										<Node id="120" /><Node id="74" /></GameArea></GameInfo>
+								     <GameInfo id="6">
+									<GameArea id="239">
+										<Node id="39" /></GameArea></GameInfo>
+								     <GameInfo id="7">
+									<GameArea id="302">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="314">
+										<Node id="105" /><Node id="63" /><Node id="56" /></GameArea>									
+									     <GameArea id="348">
+										<Node id="67" /></GameArea>									
+									     <GameArea id="405">
+										<Node id="103" /></GameArea>									
+									     <GameArea id="465">
+										<Node id="63" /><Node id="69" /></GameArea>									
+									     <GameArea id="2337">
+										<Node id="51" /></GameArea></GameInfo>
+								     <GameInfo id="9">
+									<GameArea id="476">
+										<Node id="55" /><Node id="53" /><Node id="63" /></GameArea>									
+									     <GameArea id="477">
+										<Node id="69" /><Node id="83" /><Node id="64" /></GameArea></GameInfo>
+								     <GameInfo id="10">
+									<GameArea id="482">
+										<Node id="63" /><Node id="19" /><Node id="103" /></GameArea>									
+									     <GameArea id="486">
+										<Node id="52" /><Node id="55" /><Node id="63" /></GameArea>									
+									     <GameArea id="487">
+										<Node id="82" /><Node id="63" /><Node id="102" /></GameArea>									
+									     <GameArea id="489">
+										<Node id="19" /><Node id="69" /><Node id="51" /></GameArea>									
+									     <GameArea id="490">
+										<Node id="58" /></GameArea>									
+									     <GameArea id="494">
+										<Node id="83" /></GameArea>									
+									     <GameArea id="495">
+										<Node id="39" /><Node id="40" /><Node id="19" /></GameArea>									
+									     <GameArea id="499">
+										<Node id="113" /></GameArea>									
+									     <GameArea id="502">
+										<Node id="91" /><Node id="122" /><Node id="103" /></GameArea></GameInfo>
+								     <GameInfo id="11">
+									<GameArea id="0">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="510">
+										<Node id="17" /></GameArea>									
+									     <GameArea id="515">
+										<Node id="102" /><Node id="91" /></GameArea>									
+									     <GameArea id="516">
+										<Node id="82" /></GameArea>									
+									     <GameArea id="517">
+										<Node id="19" /></GameArea>									
+									     <GameArea id="518">
+										<Node id="73" /><Node id="17" /><Node id="51" /></GameArea>									
+									     <GameArea id="519">
+										<Node id="39" /></GameArea>									
+									     <GameArea id="520">
+										<Node id="19" /><Node id="13" /></GameArea>									
+									     <GameArea id="523">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="525">
+										<Node id="52" /><Node id="83" /><Node id="51" /></GameArea>									
+									     <GameArea id="526">
+										<Node id="103" /><Node id="63" /><Node id="54" /></GameArea>									
+									     <GameArea id="530">
+										<Node id="39" /></GameArea>									
+									     <GameArea id="535">
+										<Node id="102" /></GameArea>									
+									     <GameArea id="537">
+										<Node id="53" /></GameArea>									
+									     <GameArea id="544">
+										<Node id="51" /><Node id="103" /><Node id="19" /></GameArea>									
+									     <GameArea id="545">
+										<Node id="61" /></GameArea></GameInfo>
+								     <GameInfo id="12">
+									<GameArea id="546">
+										<Node id="52" /><Node id="53" /><Node id="51" /></GameArea>									
+									     <GameArea id="547">
+										<Node id="73" /><Node id="98" /><Node id="103" /></GameArea>									
+									     <GameArea id="548">
+										<Node id="69" /><Node id="63" /><Node id="103" /></GameArea>									
+									     <GameArea id="549">
+										<Node id="51" /></GameArea>									
+									     <GameArea id="550">
+										<Node id="51" /><Node id="102" /><Node id="103" /></GameArea></GameInfo>
+								     <GameInfo id="13">
+									<GameArea id="552">
+										<Node id="19" /><Node id="52" /><Node id="103" /></GameArea></GameInfo>
+								     <GameInfo id="14">
+									<GameArea id="554">
+										<Node id="66" /><Node id="102" /><Node id="63" /></GameArea>									
+									     <GameArea id="555">
+										<Node id="63" /><Node id="52" /></GameArea>									
+									     <GameArea id="556">
+										<Node id="103" /><Node id="102" /><Node id="51" /></GameArea></GameInfo>
+								     <GameInfo id="15">
+									<GameArea id="560">
+										<Node id="9" /><Node id="77" /><Node id="114" /></GameArea>									
+									     <GameArea id="572">
+										<Node id="91" /><Node id="122" /></GameArea></GameInfo>
+								     <GameInfo id="16">
+									<GameArea id="586">
+										<Node id="103" /><Node id="102" /><Node id="63" /></GameArea>									
+									     <GameArea id="588">
+										<Node id="67" /></GameArea></GameInfo>
+								     <GameInfo id="18">
+									<GameArea id="595">
+										<Node id="83" /><Node id="17" /></GameArea>									
+									     <GameArea id="603">
+										<Node id="63" /><Node id="82" /></GameArea>									
+									     <GameArea id="606">
+										<Node id="111" /></GameArea>									
+									     <GameArea id="613">
+										<Node id="40" /><Node id="52" /></GameArea></GameInfo>
+								     <GameInfo id="19">
+									<GameArea id="620">
+										<Node id="111" /></GameArea>									
+									     <GameArea id="622">
+										<Node id="91" /></GameArea></GameInfo>
+								     <GameInfo id="20">
+									<GameArea id="624">
+										<Node id="39" /><Node id="40" /><Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="21">
+									<GameArea id="0">
+										<Node id="63" /><Node id="51" /><Node id="67" /></GameArea></GameInfo>
+								     <GameInfo id="22">
+									<GameArea id="632">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="23">
+									<GameArea id="639">
+										<Node id="103" /><Node id="91" /></GameArea>									
+									     <GameArea id="642">
+										<Node id="83" /></GameArea>									
+									     <GameArea id="645">
+										<Node id="102" /></GameArea></GameInfo>
+								     <GameInfo id="24">
+									<GameArea id="3417">
+										<Node id="99" /></GameArea></GameInfo>
+								     <GameInfo id="25">
+									<GameArea id="654">
+										<Node id="63" /><Node id="55" /><Node id="17" /></GameArea>									
+									     <GameArea id="2779">
+										<Node id="91" /><Node id="52" /></GameArea>									
+									     <GameArea id="2780">
+										<Node id="105" /><Node id="103" /><Node id="120" /></GameArea>									
+									     <GameArea id="2781">
+										<Node id="17" /><Node id="120" /><Node id="19" /></GameArea>									
+									     <GameArea id="2782">
+										<Node id="19" /></GameArea></GameInfo>
+								     <GameInfo id="26">
+									<GameArea id="3178">
+										<Node id="99" /><Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="27">
+									<GameArea id="663">
+										<Node id="89" /></GameArea></GameInfo>
+								     <GameInfo id="29">
+									<GameArea id="670">
+										<Node id="63" /><Node id="69" /></GameArea></GameInfo>
+								     <GameInfo id="33">
+									<GameArea id="709">
+										<Node id="89" /></GameArea>									
+									     <GameArea id="710">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="34">
+									<GameArea id="2342">
+										<Node id="6" /><Node id="64" /></GameArea></GameInfo>
+								     <GameInfo id="37">
+									<GameArea id="786">
+										<Node id="40" /><Node id="102" /><Node id="91" /></GameArea></GameInfo>
+								     <GameInfo id="38">
+									<GameArea id="793">
+										<Node id="67" /></GameArea></GameInfo>
+								     <GameInfo id="40">
+									<GameArea id="822">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="41">
+									<GameArea id="876">
+										<Node id="51" /><Node id="52" /><Node id="39" /></GameArea>									
+									     <GameArea id="893">
+										<Node id="103" /></GameArea>									
+									     <GameArea id="900">
+										<Node id="11" /></GameArea></GameInfo>
+								     <GameInfo id="42">
+									<GameArea id="934">
+										<Node id="54" /></GameArea></GameInfo>
+								     <GameInfo id="43">
+									<GameArea id="935">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="939">
+										<Node id="39" /><Node id="102" /></GameArea></GameInfo>
+								     <GameInfo id="45">
+									<GameArea id="2607">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="48">
+									<GameArea id="1011">
+										<Node id="39" /></GameArea></GameInfo>
+								     <GameInfo id="49">
+									<GameArea id="1028">
+										<Node id="19" /><Node id="102" /><Node id="40" /></GameArea></GameInfo>
+								     <GameInfo id="51">
+									<GameArea id="1039">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="1041">
+										<Node id="17" /><Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="55">
+									<GameArea id="1086">
+										<Node id="91" /></GameArea></GameInfo>
+								     <GameInfo id="58">
+									<GameArea id="1100">
+										<Node id="1" /><Node id="15" /></GameArea></GameInfo>
+								     <GameInfo id="62">
+									<GameArea id="1230">
+										<Node id="12" /></GameArea>									
+									     <GameArea id="1231">
+										<Node id="11" /></GameArea></GameInfo>
+								     <GameInfo id="65">
+									<GameArea id="1255">
+										<Node id="63" /><Node id="17" /><Node id="67" /></GameArea></GameInfo>
+								     <GameInfo id="69">
+									<GameArea id="1442">
+										<Node id="63" /><Node id="55" /><Node id="67" /></GameArea></GameInfo>
+								     <GameInfo id="72">
+									<GameArea id="1462">
+										<Node id="19" /><Node id="63" /></GameArea>									
+									     <GameArea id="1463">
+										<Node id="112" /><Node id="66" /><Node id="89" /></GameArea></GameInfo>
+								     <GameInfo id="73">
+									<GameArea id="1469">
+										<Node id="77" /></GameArea>									
+									     <GameArea id="1471">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="1476">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="1477">
+										<Node id="82" /></GameArea></GameInfo>
+								     <GameInfo id="74">
+									<GameArea id="1479">
+										<Node id="52" /></GameArea></GameInfo>
+								     <GameInfo id="76">
+									<GameArea id="1486">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="78">
+									<GameArea id="1495">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="1496">
+										<Node id="120" /></GameArea></GameInfo>
+								     <GameInfo id="82">
+									<GameArea id="1531">
+										<Node id="63" /><Node id="91" /><Node id="83" /></GameArea></GameInfo>
+								     <GameInfo id="83">
+									<GameArea id="1544">
+										<Node id="83" /></GameArea>									
+									     <GameArea id="1552">
+										<Node id="11" /><Node id="53" /><Node id="102" /></GameArea>									
+									     <GameArea id="1556">
+										<Node id="11" /></GameArea></GameInfo>
+								     <GameInfo id="84">
+									<GameArea id="1563">
+										<Node id="58" /></GameArea>									
+									     <GameArea id="1570">
+										<Node id="39" /></GameArea></GameInfo>
+								     <GameInfo id="87">
+									<GameArea id="3080">
+										<Node id="73" /></GameArea>									
+									     <GameArea id="3103">
+										<Node id="52" /></GameArea></GameInfo>
+								     <GameInfo id="92">
+									<GameArea id="1646">
+										<Node id="27" /></GameArea></GameInfo>
+								     <GameInfo id="94">
+									<GameArea id="0">
+										<Node id="51" /><Node id="103" /><Node id="91" /></GameArea></GameInfo>
+								     <GameInfo id="102">
+									<GameArea id="2657">
+										<Node id="63" /><Node id="69" /><Node id="54" /></GameArea></GameInfo>
+								     <GameInfo id="107">
+									<GameArea id="1657">
+										<Node id="53" /></GameArea></GameInfo>
+								     <GameInfo id="116">
+									<GameArea id="1712">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="124">
+									<GameArea id="1758">
+										<Node id="102" /><Node id="39" /></GameArea></GameInfo>
+								     <GameInfo id="127">
+									<GameArea id="1771">
+										<Node id="63" /><Node id="25" /></GameArea>									
+									     <GameArea id="1772">
+										<Node id="52" /><Node id="61" /></GameArea>									
+									     <GameArea id="1773">
+										<Node id="105" /></GameArea></GameInfo>
+								     <GameInfo id="132">
+									<GameArea id="1794">
+										<Node id="17" /></GameArea></GameInfo>
+								     <GameInfo id="134">
+									<GameArea id="1836">
+										<Node id="39" /></GameArea></GameInfo>
+								     <GameInfo id="137">
+									<GameArea id="1851">
+										<Node id="63" /><Node id="67" /></GameArea></GameInfo>
+								     <GameInfo id="140">
+									<GameArea id="1869">
+										<Node id="63" /></GameArea>									
+									     <GameArea id="1870">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="141">
+									<GameArea id="1871">
+										<Node id="59" /></GameArea></GameInfo>
+								     <GameInfo id="147">
+									<GameArea id="1888">
+										<Node id="63" /><Node id="91" /></GameArea></GameInfo>
+								     <GameInfo id="165">
+									<GameArea id="1940">
+										<Node id="105" /><Node id="102" /><Node id="103" /></GameArea></GameInfo>
+								     <GameInfo id="204">
+									<GameArea id="2125">
+										<Node id="63" /><Node id="19" /></GameArea></GameInfo>
+								     <GameInfo id="219">
+									<GameArea id="2220">
+										<Node id="9" /></GameArea></GameInfo>
+								     <GameInfo id="292">
+									<GameArea id="3155">
+										<Node id="63" /></GameArea></GameInfo>
+								     <GameInfo id="298">
+									<GameArea id="3193">
+										<Node id="103" /><Node id="102" /></GameArea></GameInfo>
+								     <GameInfo id="374">
+									<GameArea id="3682">
+										<Node id="105" /><Node id="82" /><Node id="91" /></GameArea></GameInfo>
+								     <GameInfo id="400">
+									<GameArea id="3776">
+										<Node id="21" /></GameArea>									
+									     <GameArea id="3777">
+										<Node id="17" /></GameArea></GameInfo>
+								     <GameInfo id="415">
+									<GameArea id="3826">
+										<Node id="51" /><Node id="39" /><Node id="17" /></GameArea></GameInfo>
+								     <GameInfo id="422">
+									<GameArea id="3846">
+										<Node id="63" /></GameArea></GameInfo></Nodes>

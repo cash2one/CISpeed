@@ -1,0 +1,321 @@
+body,th,td,input,select,textarea,button {
+	font: 12px/1.5em
+		/*verdana,Arial, "Lucida Grande", Helvetica, sans-serif*/
+		"microsoft yahei";
+}
+
+body,h1,h2,h3,h4,h5,h6,p,ul,dl,dt,dd,form,fieldset {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: #FFF;
+	margin: 10px;
+	margin-right: 5px;
+	SCROLLBAR-FACE-COLOR: #ea9f1c;
+	SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;
+	SCROLLBAR-SHADOW-COLOR: #ffffff;
+	SCROLLBAR-3DLIGHT-COLOR: #ea9f1c;
+	SCROLLBAR-ARROW-COLOR: #FFFFFF;
+	SCROLLBAR-DARKSHADOW-COLOR: #ea9f1c;
+	word-break: break-all;
+}
+
+/*-----------------------------------------------------------------------------------------------------------*/
+/*   统一管理界面所需的一些样式                 开始                                                         */
+/*   上面对于body和其他对象的设定，如果不需要可以去掉														*/
+/*   为保证所有界面的统一性，建议不要随意更改以下样式设置													 */
+/*   如有兼容问题，可适当修改							                                                     */
+/*-----------------------------------------------------------------------------------------------------------*/
+a:link {
+	color: #333333;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #333333;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #5090d0 /*FF8201*/;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #5090d0 /*FF8201*/;
+	text-decoration: underline;
+}
+
+/*输入框按钮下拉框样式*/
+.input {
+	font: 12px verdana, Arial;
+	border: 1px solid #88bdf0 /*ebe6c9*/;
+	margin: 1px 0 1px 0;
+	height: 18px;
+	line-height: 18px;
+}
+
+.button {
+	font: 12px verdana, Arial;
+	border: 1px solid #FFFFFF /*ebe6c9*/;
+	color: #FFFFFF;
+	background-color: #5090ce /*FF8201*/;
+	margin: 1px 0 1px 0;
+	height: 22px;
+	line-height: 22px;
+}
+
+.select {
+	font: 12px verdana, Arial;
+	border: 1px solid #88bdf0 /*ebe6c9*/;
+	padding: 1px;
+	margin: 1px 0 1px 0
+}
+
+/*圆角边框样式*/
+.Corner {
+	background-color: #e7f0f9; /*#fcf9e6;*/
+	padding: 10px;
+}
+
+/*标题1样式*/
+h1 {
+	display: block;
+	color: #5090ce; /*FF8201;*/
+	font-size: 14px;
+	font-weight: bold;
+	margin: 2px 0px 5px 0px;
+}
+
+/*标题2样式*/
+h2 {
+	display: block;
+	color: #555555;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 2px 0px 2px 5px;
+}
+
+/*说明文字样式*/
+.readme { /*display:block;*/
+	font-size: 12px;
+	color: #888888;
+	line-height: 1.5;
+	margin: 3px 0px 3px 8px;
+}
+
+.font9 {
+	font-family: Verdana;
+	font-size: 9px;
+}
+
+.grid {
+	border: solid 1px #c3edfe; /*ebe6c9;*/
+	background-color: #FFF;
+	width: 100%;
+	margin: 5px 0px 5px 0px;
+}
+
+.grid .title {
+	border: 0px;
+	font-family: verdana;
+	font-size: 12px;
+	background-color: #e7f0f9; /*fcf9e6;*/
+	color: #5090ce; /*FF8201;*/
+	font-weight: bold;
+	padding: 3px;
+	margin: 0;
+}
+
+.grid span {
+	font-family: verdana;
+	font-size: 12px;
+	border: 0px;
+	border-top: solid 1px #c3edfe; /*ebe6c9;*/
+	padding: 3px;
+	margin: 0;
+	border-spacing: 0;
+}
+
+/*表格样式*/
+.table {
+	border: solid 1px #c3edfe; /*ebe6c9;*/
+	background-color: #FFF;
+	width: 100%;
+	margin: 5px 0px 5px 0px;
+	border-collapse:collapse
+}
+
+.table th {
+	border: 0px;
+	font-family: verdana;
+	font-size: 12px;
+	background-color: #e7f0f9; /*fcf9e6;*/
+	color: #5090ce; /*FF8201;*/
+	font-weight: bold;
+	padding: 3px;
+	margin: 0;
+	text-align: left;
+}
+
+.table tr td {
+	font-family: verdana;
+	font-size: 12px;
+	border: 0px;
+	border-top: solid 1px #c3edfe; /*ebe6c9;*/
+	padding: 3px;
+	margin: 0;
+	border-spacing: 0;
+}
+
+.table .active{
+	background-color:#FAFAFA
+}
+
+/*第二种表格样式，无边框线，无标题头，每行下划线*/
+.table2 {
+	border: none;
+	background-color: #FFF;
+	width: 100%;
+	margin: 5px 0px 5px 0px;
+}
+
+.table2 tr td {
+	font-family: verdana;
+	font-size: 12px;
+	border: 0px;
+	border-bottom: solid 1px #c3edfe; /*ebe6c9;*/
+	padding: 3px;
+	margin: 0;
+	border-spacing: 0;
+}
+
+/*3表格样式*/
+.table3 { /*border:solid 1px #c3edfe; /*ebe6c9;*/
+	background-color: #f0faff;
+	width: 100%;
+	margin: 5px 0px 5px 0px;
+}
+
+.table3 tr td {
+	font-family: verdana;
+	font-size: 12px;
+	border: 0px;
+	/*border-top:solid 1px #c3edfe; /*ebe6c9;*/
+	padding: 3px;
+	margin: 0;
+	border-spacing: 0;
+}
+
+/*---------分页页码 样式 开始------------*/
+.pageNav {
+	font-family: "Verdana";
+	font-size: 9px;
+	padding-left: 10px;
+	margin-top: 20px;
+}
+
+.pageNav table {
+	border: solid 0px #FFF
+}
+
+.pageNav tr td {
+	border: solid 0px #AAA;
+	padding-left: 0px
+}
+
+.pageNav a {
+	display: block;
+	text-align: center;
+	font-family: "Verdana";
+	font-size: 11px;
+	height: 15px;
+	width: 20px;
+	overflow: hidden;
+	float: left;
+	margin: 0px;
+	margin-left: 2px;
+	border: 1px solid #c3edfe;
+	color: #0044dd;
+	line-height: 1.2;
+	text-decoration: none;
+	blr: expression(this.onFocus = this.blur () );
+}
+
+.pageNav span {
+	display: block;
+	text-align: center;
+	font-family: "Verdana";
+	font-size: 11px;
+	height: 15px;
+	width: 15px;
+	overflow: hidden;
+	margin: 0px;
+	margin-left: 2px;
+	border: 1px solid #c3edfe;
+	background-color: #e7f0f9;
+	color: #0044dd;
+	line-height: 1.2;
+	text-decoration: none;
+}
+
+.pageNav  a:hover {
+	color: #004f97;
+	border: 1px solid #004f97;
+	text-decoration: none;
+}
+
+.pageNav a.Current {
+	border: 1px solid #FFFFFF;
+	color: #004f97;
+	font-weight: bold;
+}
+
+/*---------分页页码 样式 结束------------*/
+.pagination a {
+	display: inline;
+	text-align: center;
+	font-family: "Verdana";
+	/*height: 18px;
+	width:20px;*/
+	overflow: hidden;
+	/*float: left;*/
+	margin: 0px;
+	margin-left: 2px;
+	border: 1px solid #c3edfe;
+	padding: 2px 5px;
+	color: #5090CE;
+	text-decoration: none;
+	blr: expression(this.onFocus = this.blur () );
+}
+
+.pagination  a:hover {
+	color: #004f97;
+	border: 1px solid #004f97;
+	text-decoration: none;
+}
+
+.pagination strong {
+	display: inline;
+	text-align: center;
+	font-family: "Verdana";
+	height: 18px;
+	/*width:15px;*/
+	padding: 0 5px;
+	overflow: hidden;
+	/*float: left;*/
+	margin: 0px;
+	margin-left: 2px;
+	border: 1px solid #c3edfe;
+	color: #0044dd;
+	text-decoration: none;
+	blr: expression(this.onFocus = this.blur () );
+	border: 1px solid #FFFFFF;
+	color: #004f97;
+	font-weight: bold;
+}
+/*-----------------------------------------------------------------------------------------------------------*/
+/*   统一管理界面样式       结束                                                                             */
+/*-----------------------------------------------------------------------------------------------------------*/
